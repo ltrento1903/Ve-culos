@@ -1,0 +1,5590 @@
+﻿Mês;Linha;Fabricante;Quantidade
+01/01/2012;Semileves;Agrale;0
+01/02/2012;Semileves;Agrale;1
+01/03/2012;Semileves;Agrale;9
+01/04/2012;Semileves;Agrale;2
+01/05/2012;Semileves;Agrale;1
+01/06/2012;Semileves;Agrale;0
+01/07/2012;Semileves;Agrale;1
+01/08/2012;Semileves;Agrale;6
+01/09/2012;Semileves;Agrale;11
+01/10/2012;Semileves;Agrale;5
+01/11/2012;Semileves;Agrale;0
+01/12/2012;Semileves;Agrale;1
+01/01/2012;Semileves;FCA (Fiat/Dodge);2
+01/02/2012;Semileves;FCA (Fiat/Dodge);2
+01/03/2012;Semileves;FCA (Fiat/Dodge);328
+01/04/2012;Semileves;FCA (Fiat/Dodge);265
+01/05/2012;Semileves;FCA (Fiat/Dodge);68
+01/06/2012;Semileves;FCA (Fiat/Dodge);86
+01/07/2012;Semileves;FCA (Fiat/Dodge);185
+01/08/2012;Semileves;FCA (Fiat/Dodge);98
+01/09/2012;Semileves;FCA (Fiat/Dodge);78
+01/10/2012;Semileves;FCA (Fiat/Dodge);76
+01/11/2012;Semileves;FCA (Fiat/Dodge);50
+01/12/2012;Semileves;FCA (Fiat/Dodge);85
+01/01/2012;Semileves;Ford;255
+01/02/2012;Semileves;Ford;258
+01/03/2012;Semileves;Ford;255
+01/04/2012;Semileves;Ford;145
+01/05/2012;Semileves;Ford;148
+01/06/2012;Semileves;Ford;84
+01/07/2012;Semileves;Ford;81
+01/08/2012;Semileves;Ford;34
+01/09/2012;Semileves;Ford;14
+01/10/2012;Semileves;Ford;9
+01/11/2012;Semileves;Ford;0
+01/12/2012;Semileves;Ford;1
+01/01/2012;Semileves;Iveco;161
+01/02/2012;Semileves;Iveco;118
+01/03/2012;Semileves;Iveco;142
+01/04/2012;Semileves;Iveco;133
+01/05/2012;Semileves;Iveco;142
+01/06/2012;Semileves;Iveco;110
+01/07/2012;Semileves;Iveco;108
+01/08/2012;Semileves;Iveco;129
+01/09/2012;Semileves;Iveco;105
+01/10/2012;Semileves;Iveco;140
+01/11/2012;Semileves;Iveco;167
+01/12/2012;Semileves;Iveco;164
+01/01/2012;Semileves;MAN;63
+01/02/2012;Semileves;MAN;51
+01/03/2012;Semileves;MAN;72
+01/04/2012;Semileves;MAN;84
+01/05/2012;Semileves;MAN;78
+01/06/2012;Semileves;MAN;76
+01/07/2012;Semileves;MAN;101
+01/08/2012;Semileves;MAN;127
+01/09/2012;Semileves;MAN;55
+01/10/2012;Semileves;MAN;104
+01/11/2012;Semileves;MAN;86
+01/12/2012;Semileves;MAN;77
+01/01/2012;Semileves;Mercedes-Benz;82
+01/02/2012;Semileves;Mercedes-Benz;81
+01/03/2012;Semileves;Mercedes-Benz;108
+01/04/2012;Semileves;Mercedes-Benz;56
+01/05/2012;Semileves;Mercedes-Benz;49
+01/06/2012;Semileves;Mercedes-Benz;19
+01/07/2012;Semileves;Mercedes-Benz;50
+01/08/2012;Semileves;Mercedes-Benz;60
+01/09/2012;Semileves;Mercedes-Benz;83
+01/10/2012;Semileves;Mercedes-Benz;109
+01/11/2012;Semileves;Mercedes-Benz;79
+01/12/2012;Semileves;Mercedes-Benz;86
+01/01/2012;Semileves;Outras empresas;16
+01/02/2012;Semileves;Outras empresas;22
+01/03/2012;Semileves;Outras empresas;47
+01/04/2012;Semileves;Outras empresas;38
+01/05/2012;Semileves;Outras empresas;42
+01/06/2012;Semileves;Outras empresas;44
+01/07/2012;Semileves;Outras empresas;40
+01/08/2012;Semileves;Outras empresas;49
+01/09/2012;Semileves;Outras empresas;42
+01/10/2012;Semileves;Outras empresas;44
+01/11/2012;Semileves;Outras empresas;40
+01/12/2012;Semileves;Outras empresas;28
+01/01/2012;Leves;Agrale;39
+01/02/2012;Leves;Agrale;31
+01/03/2012;Leves;Agrale;48
+01/04/2012;Leves;Agrale;30
+01/05/2012;Leves;Agrale;35
+01/06/2012;Leves;Agrale;27
+01/07/2012;Leves;Agrale;15
+01/08/2012;Leves;Agrale;20
+01/09/2012;Leves;Agrale;26
+01/10/2012;Leves;Agrale;32
+01/11/2012;Leves;Agrale;25
+01/12/2012;Leves;Agrale;28
+01/01/2012;Leves;Caoa - Hyundai;1
+01/02/2012;Leves;Caoa - Hyundai;5
+01/03/2012;Leves;Caoa - Hyundai;8
+01/04/2012;Leves;Caoa - Hyundai;2
+01/05/2012;Leves;Caoa - Hyundai;18
+01/06/2012;Leves;Caoa - Hyundai;9
+01/07/2012;Leves;Caoa - Hyundai;6
+01/08/2012;Leves;Caoa - Hyundai;18
+01/09/2012;Leves;Caoa - Hyundai;14
+01/10/2012;Leves;Caoa - Hyundai;19
+01/11/2012;Leves;Caoa - Hyundai;10
+01/12/2012;Leves;Caoa - Hyundai;23
+01/01/2012;Leves;Ford;817
+01/02/2012;Leves;Ford;616
+01/03/2012;Leves;Ford;675
+01/04/2012;Leves;Ford;523
+01/05/2012;Leves;Ford;571
+01/06/2012;Leves;Ford;518
+01/07/2012;Leves;Ford;540
+01/08/2012;Leves;Ford;617
+01/09/2012;Leves;Ford;572
+01/10/2012;Leves;Ford;593
+01/11/2012;Leves;Ford;656
+01/12/2012;Leves;Ford;645
+01/01/2012;Leves;Iveco;232
+01/02/2012;Leves;Iveco;185
+01/03/2012;Leves;Iveco;233
+01/04/2012;Leves;Iveco;160
+01/05/2012;Leves;Iveco;199
+01/06/2012;Leves;Iveco;163
+01/07/2012;Leves;Iveco;137
+01/08/2012;Leves;Iveco;166
+01/09/2012;Leves;Iveco;138
+01/10/2012;Leves;Iveco;150
+01/11/2012;Leves;Iveco;188
+01/12/2012;Leves;Iveco;167
+01/01/2012;Leves;MAN;1010
+01/02/2012;Leves;MAN;956
+01/03/2012;Leves;MAN;1372
+01/04/2012;Leves;MAN;1132
+01/05/2012;Leves;MAN;1010
+01/06/2012;Leves;MAN;1077
+01/07/2012;Leves;MAN;974
+01/08/2012;Leves;MAN;955
+01/09/2012;Leves;MAN;822
+01/10/2012;Leves;MAN;1056
+01/11/2012;Leves;MAN;1170
+01/12/2012;Leves;MAN;1309
+01/01/2012;Leves;Mercedes-Benz;787
+01/02/2012;Leves;Mercedes-Benz;792
+01/03/2012;Leves;Mercedes-Benz;913
+01/04/2012;Leves;Mercedes-Benz;730
+01/05/2012;Leves;Mercedes-Benz;821
+01/06/2012;Leves;Mercedes-Benz;848
+01/07/2012;Leves;Mercedes-Benz;870
+01/08/2012;Leves;Mercedes-Benz;923
+01/09/2012;Leves;Mercedes-Benz;732
+01/10/2012;Leves;Mercedes-Benz;1010
+01/11/2012;Leves;Mercedes-Benz;989
+01/12/2012;Leves;Mercedes-Benz;855
+01/01/2012;Leves;Outras empresas;9
+01/02/2012;Leves;Outras empresas;23
+01/03/2012;Leves;Outras empresas;19
+01/04/2012;Leves;Outras empresas;24
+01/05/2012;Leves;Outras empresas;27
+01/06/2012;Leves;Outras empresas;16
+01/07/2012;Leves;Outras empresas;23
+01/08/2012;Leves;Outras empresas;25
+01/09/2012;Leves;Outras empresas;21
+01/10/2012;Leves;Outras empresas;21
+01/11/2012;Leves;Outras empresas;39
+01/12/2012;Leves;Outras empresas;36
+01/01/2012;Médios;Agrale;17
+01/02/2012;Médios;Agrale;15
+01/03/2012;Médios;Agrale;11
+01/04/2012;Médios;Agrale;14
+01/05/2012;Médios;Agrale;11
+01/06/2012;Médios;Agrale;11
+01/07/2012;Médios;Agrale;11
+01/08/2012;Médios;Agrale;12
+01/09/2012;Médios;Agrale;11
+01/10/2012;Médios;Agrale;25
+01/11/2012;Médios;Agrale;8
+01/12/2012;Médios;Agrale;10
+01/01/2012;Médios;Ford;220
+01/02/2012;Médios;Ford;201
+01/03/2012;Médios;Ford;184
+01/04/2012;Médios;Ford;194
+01/05/2012;Médios;Ford;199
+01/06/2012;Médios;Ford;225
+01/07/2012;Médios;Ford;227
+01/08/2012;Médios;Ford;255
+01/09/2012;Médios;Ford;209
+01/10/2012;Médios;Ford;258
+01/11/2012;Médios;Ford;253
+01/12/2012;Médios;Ford;222
+01/01/2012;Médios;Iveco;28
+01/02/2012;Médios;Iveco;48
+01/03/2012;Médios;Iveco;37
+01/04/2012;Médios;Iveco;34
+01/05/2012;Médios;Iveco;35
+01/06/2012;Médios;Iveco;38
+01/07/2012;Médios;Iveco;17
+01/08/2012;Médios;Iveco;16
+01/09/2012;Médios;Iveco;6
+01/10/2012;Médios;Iveco;5
+01/11/2012;Médios;Iveco;3
+01/12/2012;Médios;Iveco;0
+01/01/2012;Médios;MAN;505
+01/02/2012;Médios;MAN;492
+01/03/2012;Médios;MAN;789
+01/04/2012;Médios;MAN;655
+01/05/2012;Médios;MAN;594
+01/06/2012;Médios;MAN;530
+01/07/2012;Médios;MAN;461
+01/08/2012;Médios;MAN;468
+01/09/2012;Médios;MAN;401
+01/10/2012;Médios;MAN;458
+01/11/2012;Médios;MAN;453
+01/12/2012;Médios;MAN;553
+01/01/2012;Médios;Mercedes-Benz;182
+01/02/2012;Médios;Mercedes-Benz;154
+01/03/2012;Médios;Mercedes-Benz;164
+01/04/2012;Médios;Mercedes-Benz;166
+01/05/2012;Médios;Mercedes-Benz;175
+01/06/2012;Médios;Mercedes-Benz;255
+01/07/2012;Médios;Mercedes-Benz;244
+01/08/2012;Médios;Mercedes-Benz;247
+01/09/2012;Médios;Mercedes-Benz;211
+01/10/2012;Médios;Mercedes-Benz;226
+01/11/2012;Médios;Mercedes-Benz;177
+01/12/2012;Médios;Mercedes-Benz;218
+01/01/2012;Médios;Outras empresas;0
+01/02/2012;Médios;Outras empresas;0
+01/03/2012;Médios;Outras empresas;0
+01/04/2012;Médios;Outras empresas;0
+01/05/2012;Médios;Outras empresas;0
+01/06/2012;Médios;Outras empresas;0
+01/07/2012;Médios;Outras empresas;0
+01/08/2012;Médios;Outras empresas;1
+01/09/2012;Médios;Outras empresas;0
+01/10/2012;Médios;Outras empresas;0
+01/11/2012;Médios;Outras empresas;0
+01/12/2012;Médios;Outras empresas;0
+01/01/2012;Semipesados;Agrale;0
+01/02/2012;Semipesados;Agrale;0
+01/03/2012;Semipesados;Agrale;0
+01/04/2012;Semipesados;Agrale;0
+01/05/2012;Semipesados;Agrale;0
+01/06/2012;Semipesados;Agrale;1
+01/07/2012;Semipesados;Agrale;2
+01/08/2012;Semipesados;Agrale;6
+01/09/2012;Semipesados;Agrale;3
+01/10/2012;Semipesados;Agrale;4
+01/11/2012;Semipesados;Agrale;1
+01/12/2012;Semipesados;Agrale;2
+01/01/2012;Semipesados;DAF;0
+01/02/2012;Semipesados;DAF;0
+01/03/2012;Semipesados;DAF;0
+01/04/2012;Semipesados;DAF;0
+01/05/2012;Semipesados;DAF;0
+01/06/2012;Semipesados;DAF;0
+01/07/2012;Semipesados;DAF;0
+01/08/2012;Semipesados;DAF;0
+01/09/2012;Semipesados;DAF;0
+01/10/2012;Semipesados;DAF;0
+01/11/2012;Semipesados;DAF;0
+01/12/2012;Semipesados;DAF;0
+01/01/2012;Semipesados;Ford;755
+01/02/2012;Semipesados;Ford;792
+01/03/2012;Semipesados;Ford;970
+01/04/2012;Semipesados;Ford;744
+01/05/2012;Semipesados;Ford;690
+01/06/2012;Semipesados;Ford;736
+01/07/2012;Semipesados;Ford;784
+01/08/2012;Semipesados;Ford;862
+01/09/2012;Semipesados;Ford;713
+01/10/2012;Semipesados;Ford;746
+01/11/2012;Semipesados;Ford;779
+01/12/2012;Semipesados;Ford;950
+01/01/2012;Semipesados;INTERNATIONAL;9
+01/02/2012;Semipesados;INTERNATIONAL;4
+01/03/2012;Semipesados;INTERNATIONAL;3
+01/04/2012;Semipesados;INTERNATIONAL;3
+01/05/2012;Semipesados;INTERNATIONAL;6
+01/06/2012;Semipesados;INTERNATIONAL;6
+01/07/2012;Semipesados;INTERNATIONAL;3
+01/08/2012;Semipesados;INTERNATIONAL;5
+01/09/2012;Semipesados;INTERNATIONAL;1
+01/10/2012;Semipesados;INTERNATIONAL;2
+01/11/2012;Semipesados;INTERNATIONAL;1
+01/12/2012;Semipesados;INTERNATIONAL;1
+01/01/2012;Semipesados;Iveco;300
+01/02/2012;Semipesados;Iveco;234
+01/03/2012;Semipesados;Iveco;305
+01/04/2012;Semipesados;Iveco;258
+01/05/2012;Semipesados;Iveco;255
+01/06/2012;Semipesados;Iveco;178
+01/07/2012;Semipesados;Iveco;280
+01/08/2012;Semipesados;Iveco;269
+01/09/2012;Semipesados;Iveco;205
+01/10/2012;Semipesados;Iveco;251
+01/11/2012;Semipesados;Iveco;266
+01/12/2012;Semipesados;Iveco;223
+01/01/2012;Semipesados;MAN;1321
+01/02/2012;Semipesados;MAN;1326
+01/03/2012;Semipesados;MAN;1781
+01/04/2012;Semipesados;MAN;1505
+01/05/2012;Semipesados;MAN;1466
+01/06/2012;Semipesados;MAN;1271
+01/07/2012;Semipesados;MAN;1274
+01/08/2012;Semipesados;MAN;1222
+01/09/2012;Semipesados;MAN;915
+01/10/2012;Semipesados;MAN;1186
+01/11/2012;Semipesados;MAN;1434
+01/12/2012;Semipesados;MAN;1547
+01/01/2012;Semipesados;Mercedes-Benz;1090
+01/02/2012;Semipesados;Mercedes-Benz;1157
+01/03/2012;Semipesados;Mercedes-Benz;1329
+01/04/2012;Semipesados;Mercedes-Benz;989
+01/05/2012;Semipesados;Mercedes-Benz;972
+01/06/2012;Semipesados;Mercedes-Benz;798
+01/07/2012;Semipesados;Mercedes-Benz;709
+01/08/2012;Semipesados;Mercedes-Benz;837
+01/09/2012;Semipesados;Mercedes-Benz;663
+01/10/2012;Semipesados;Mercedes-Benz;854
+01/11/2012;Semipesados;Mercedes-Benz;909
+01/12/2012;Semipesados;Mercedes-Benz;934
+01/01/2012;Semipesados;SCANIA;71
+01/02/2012;Semipesados;SCANIA;29
+01/03/2012;Semipesados;SCANIA;27
+01/04/2012;Semipesados;SCANIA;64
+01/05/2012;Semipesados;SCANIA;67
+01/06/2012;Semipesados;SCANIA;111
+01/07/2012;Semipesados;SCANIA;73
+01/08/2012;Semipesados;SCANIA;111
+01/09/2012;Semipesados;SCANIA;84
+01/10/2012;Semipesados;SCANIA;167
+01/11/2012;Semipesados;SCANIA;168
+01/12/2012;Semipesados;SCANIA;164
+01/01/2012;Semipesados;VOLVO;425
+01/02/2012;Semipesados;VOLVO;380
+01/03/2012;Semipesados;VOLVO;418
+01/04/2012;Semipesados;VOLVO;360
+01/05/2012;Semipesados;VOLVO;405
+01/06/2012;Semipesados;VOLVO;355
+01/07/2012;Semipesados;VOLVO;343
+01/08/2012;Semipesados;VOLVO;412
+01/09/2012;Semipesados;VOLVO;264
+01/10/2012;Semipesados;VOLVO;413
+01/11/2012;Semipesados;VOLVO;457
+01/12/2012;Semipesados;VOLVO;411
+01/01/2012;Semipesados;Outras empresas;0
+01/02/2012;Semipesados;Outras empresas;1
+01/03/2012;Semipesados;Outras empresas;1
+01/04/2012;Semipesados;Outras empresas;0
+01/05/2012;Semipesados;Outras empresas;0
+01/06/2012;Semipesados;Outras empresas;0
+01/07/2012;Semipesados;Outras empresas;0
+01/08/2012;Semipesados;Outras empresas;1
+01/09/2012;Semipesados;Outras empresas;0
+01/10/2012;Semipesados;Outras empresas;0
+01/11/2012;Semipesados;Outras empresas;0
+01/12/2012;Semipesados;Outras empresas;0
+01/01/2012;Pesados;DAF;0
+01/02/2012;Pesados;DAF;0
+01/03/2012;Pesados;DAF;0
+01/04/2012;Pesados;DAF;1
+01/05/2012;Pesados;DAF;0
+01/06/2012;Pesados;DAF;2
+01/07/2012;Pesados;DAF;0
+01/08/2012;Pesados;DAF;0
+01/09/2012;Pesados;DAF;0
+01/10/2012;Pesados;DAF;0
+01/11/2012;Pesados;DAF;0
+01/12/2012;Pesados;DAF;0
+01/01/2012;Pesados;Ford;91
+01/02/2012;Pesados;Ford;81
+01/03/2012;Pesados;Ford;107
+01/04/2012;Pesados;Ford;90
+01/05/2012;Pesados;Ford;82
+01/06/2012;Pesados;Ford;88
+01/07/2012;Pesados;Ford;61
+01/08/2012;Pesados;Ford;79
+01/09/2012;Pesados;Ford;54
+01/10/2012;Pesados;Ford;85
+01/11/2012;Pesados;Ford;77
+01/12/2012;Pesados;Ford;95
+01/01/2012;Pesados;INTERNATIONAL;43
+01/02/2012;Pesados;INTERNATIONAL;42
+01/03/2012;Pesados;INTERNATIONAL;25
+01/04/2012;Pesados;INTERNATIONAL;21
+01/05/2012;Pesados;INTERNATIONAL;28
+01/06/2012;Pesados;INTERNATIONAL;14
+01/07/2012;Pesados;INTERNATIONAL;38
+01/08/2012;Pesados;INTERNATIONAL;60
+01/09/2012;Pesados;INTERNATIONAL;18
+01/10/2012;Pesados;INTERNATIONAL;73
+01/11/2012;Pesados;INTERNATIONAL;73
+01/12/2012;Pesados;INTERNATIONAL;43
+01/01/2012;Pesados;Iveco;448
+01/02/2012;Pesados;Iveco;327
+01/03/2012;Pesados;Iveco;307
+01/04/2012;Pesados;Iveco;241
+01/05/2012;Pesados;Iveco;184
+01/06/2012;Pesados;Iveco;178
+01/07/2012;Pesados;Iveco;250
+01/08/2012;Pesados;Iveco;234
+01/09/2012;Pesados;Iveco;167
+01/10/2012;Pesados;Iveco;384
+01/11/2012;Pesados;Iveco;372
+01/12/2012;Pesados;Iveco;257
+01/01/2012;Pesados;MAN;654
+01/02/2012;Pesados;MAN;410
+01/03/2012;Pesados;MAN;430
+01/04/2012;Pesados;MAN;361
+01/05/2012;Pesados;MAN;386
+01/06/2012;Pesados;MAN;498
+01/07/2012;Pesados;MAN;389
+01/08/2012;Pesados;MAN;420
+01/09/2012;Pesados;MAN;231
+01/10/2012;Pesados;MAN;357
+01/11/2012;Pesados;MAN;420
+01/12/2012;Pesados;MAN;442
+01/01/2012;Pesados;Mercedes-Benz;1107
+01/02/2012;Pesados;Mercedes-Benz;921
+01/03/2012;Pesados;Mercedes-Benz;1051
+01/04/2012;Pesados;Mercedes-Benz;726
+01/05/2012;Pesados;Mercedes-Benz;765
+01/06/2012;Pesados;Mercedes-Benz;755
+01/07/2012;Pesados;Mercedes-Benz;712
+01/08/2012;Pesados;Mercedes-Benz;800
+01/09/2012;Pesados;Mercedes-Benz;609
+01/10/2012;Pesados;Mercedes-Benz;840
+01/11/2012;Pesados;Mercedes-Benz;853
+01/12/2012;Pesados;Mercedes-Benz;715
+01/01/2012;Pesados;SCANIA;1045
+01/02/2012;Pesados;SCANIA;430
+01/03/2012;Pesados;SCANIA;765
+01/04/2012;Pesados;SCANIA;654
+01/05/2012;Pesados;SCANIA;621
+01/06/2012;Pesados;SCANIA;843
+01/07/2012;Pesados;SCANIA;878
+01/08/2012;Pesados;SCANIA;798
+01/09/2012;Pesados;SCANIA;375
+01/10/2012;Pesados;SCANIA;1247
+01/11/2012;Pesados;SCANIA;1116
+01/12/2012;Pesados;SCANIA;1170
+01/01/2012;Pesados;VOLVO;1124
+01/02/2012;Pesados;VOLVO;671
+01/03/2012;Pesados;VOLVO;684
+01/04/2012;Pesados;VOLVO;625
+01/05/2012;Pesados;VOLVO;658
+01/06/2012;Pesados;VOLVO;748
+01/07/2012;Pesados;VOLVO;1001
+01/08/2012;Pesados;VOLVO;1084
+01/09/2012;Pesados;VOLVO;649
+01/10/2012;Pesados;VOLVO;1629
+01/11/2012;Pesados;VOLVO;1251
+01/12/2012;Pesados;VOLVO;1111
+01/01/2012;Pesados;Shacman;0
+01/02/2012;Pesados;Shacman;8
+01/03/2012;Pesados;Shacman;0
+01/04/2012;Pesados;Shacman;0
+01/05/2012;Pesados;Shacman;0
+01/06/2012;Pesados;Shacman;0
+01/07/2012;Pesados;Shacman;0
+01/08/2012;Pesados;Shacman;6
+01/09/2012;Pesados;Shacman;0
+01/10/2012;Pesados;Shacman;1
+01/11/2012;Pesados;Shacman;0
+01/12/2012;Pesados;Shacman;1
+01/01/2012;Pesados;Outras empresas;107
+01/02/2012;Pesados;Outras empresas;65
+01/03/2012;Pesados;Outras empresas;75
+01/04/2012;Pesados;Outras empresas;84
+01/05/2012;Pesados;Outras empresas;73
+01/06/2012;Pesados;Outras empresas;58
+01/07/2012;Pesados;Outras empresas;27
+01/08/2012;Pesados;Outras empresas;34
+01/09/2012;Pesados;Outras empresas;49
+01/10/2012;Pesados;Outras empresas;45
+01/11/2012;Pesados;Outras empresas;38
+01/12/2012;Pesados;Outras empresas;29
+01/01/2013;Semileves;Agrale;0
+01/02/2013;Semileves;Agrale;0
+01/03/2013;Semileves;Agrale;8
+01/04/2013;Semileves;Agrale;5
+01/05/2013;Semileves;Agrale;1
+01/06/2013;Semileves;Agrale;3
+01/07/2013;Semileves;Agrale;0
+01/08/2013;Semileves;Agrale;4
+01/09/2013;Semileves;Agrale;2
+01/10/2013;Semileves;Agrale;0
+01/11/2013;Semileves;Agrale;0
+01/12/2013;Semileves;Agrale;5
+01/01/2013;Semileves;FCA (Fiat/Dodge);53
+01/02/2013;Semileves;FCA (Fiat/Dodge);56
+01/03/2013;Semileves;FCA (Fiat/Dodge);53
+01/04/2013;Semileves;FCA (Fiat/Dodge);21
+01/05/2013;Semileves;FCA (Fiat/Dodge);101
+01/06/2013;Semileves;FCA (Fiat/Dodge);90
+01/07/2013;Semileves;FCA (Fiat/Dodge);102
+01/08/2013;Semileves;FCA (Fiat/Dodge);121
+01/09/2013;Semileves;FCA (Fiat/Dodge);112
+01/10/2013;Semileves;FCA (Fiat/Dodge);85
+01/11/2013;Semileves;FCA (Fiat/Dodge);99
+01/12/2013;Semileves;FCA (Fiat/Dodge);82
+01/01/2013;Semileves;Ford;2
+01/02/2013;Semileves;Ford;2
+01/03/2013;Semileves;Ford;0
+01/04/2013;Semileves;Ford;0
+01/05/2013;Semileves;Ford;1
+01/06/2013;Semileves;Ford;0
+01/07/2013;Semileves;Ford;2
+01/08/2013;Semileves;Ford;0
+01/09/2013;Semileves;Ford;1
+01/10/2013;Semileves;Ford;0
+01/11/2013;Semileves;Ford;0
+01/12/2013;Semileves;Ford;0
+01/01/2013;Semileves;Iveco;163
+01/02/2013;Semileves;Iveco;155
+01/03/2013;Semileves;Iveco;186
+01/04/2013;Semileves;Iveco;183
+01/05/2013;Semileves;Iveco;105
+01/06/2013;Semileves;Iveco;124
+01/07/2013;Semileves;Iveco;146
+01/08/2013;Semileves;Iveco;150
+01/09/2013;Semileves;Iveco;138
+01/10/2013;Semileves;Iveco;123
+01/11/2013;Semileves;Iveco;115
+01/12/2013;Semileves;Iveco;138
+01/01/2013;Semileves;MAN;74
+01/02/2013;Semileves;MAN;70
+01/03/2013;Semileves;MAN;73
+01/04/2013;Semileves;MAN;108
+01/05/2013;Semileves;MAN;123
+01/06/2013;Semileves;MAN;84
+01/07/2013;Semileves;MAN;142
+01/08/2013;Semileves;MAN;107
+01/09/2013;Semileves;MAN;72
+01/10/2013;Semileves;MAN;79
+01/11/2013;Semileves;MAN;72
+01/12/2013;Semileves;MAN;80
+01/01/2013;Semileves;Mercedes-Benz;93
+01/02/2013;Semileves;Mercedes-Benz;72
+01/03/2013;Semileves;Mercedes-Benz;123
+01/04/2013;Semileves;Mercedes-Benz;110
+01/05/2013;Semileves;Mercedes-Benz;96
+01/06/2013;Semileves;Mercedes-Benz;83
+01/07/2013;Semileves;Mercedes-Benz;115
+01/08/2013;Semileves;Mercedes-Benz;130
+01/09/2013;Semileves;Mercedes-Benz;131
+01/10/2013;Semileves;Mercedes-Benz;128
+01/11/2013;Semileves;Mercedes-Benz;134
+01/12/2013;Semileves;Mercedes-Benz;97
+01/01/2013;Semileves;Outras empresas;19
+01/02/2013;Semileves;Outras empresas;24
+01/03/2013;Semileves;Outras empresas;25
+01/04/2013;Semileves;Outras empresas;59
+01/05/2013;Semileves;Outras empresas;39
+01/06/2013;Semileves;Outras empresas;38
+01/07/2013;Semileves;Outras empresas;37
+01/08/2013;Semileves;Outras empresas;29
+01/09/2013;Semileves;Outras empresas;39
+01/10/2013;Semileves;Outras empresas;36
+01/11/2013;Semileves;Outras empresas;28
+01/12/2013;Semileves;Outras empresas;16
+01/01/2013;Leves;Agrale;34
+01/02/2013;Leves;Agrale;24
+01/03/2013;Leves;Agrale;28
+01/04/2013;Leves;Agrale;33
+01/05/2013;Leves;Agrale;29
+01/06/2013;Leves;Agrale;19
+01/07/2013;Leves;Agrale;30
+01/08/2013;Leves;Agrale;24
+01/09/2013;Leves;Agrale;17
+01/10/2013;Leves;Agrale;29
+01/11/2013;Leves;Agrale;26
+01/12/2013;Leves;Agrale;26
+01/01/2013;Leves;Caoa - Hyundai;15
+01/02/2013;Leves;Caoa - Hyundai;24
+01/03/2013;Leves;Caoa - Hyundai;33
+01/04/2013;Leves;Caoa - Hyundai;21
+01/05/2013;Leves;Caoa - Hyundai;27
+01/06/2013;Leves;Caoa - Hyundai;60
+01/07/2013;Leves;Caoa - Hyundai;21
+01/08/2013;Leves;Caoa - Hyundai;29
+01/09/2013;Leves;Caoa - Hyundai;11
+01/10/2013;Leves;Caoa - Hyundai;23
+01/11/2013;Leves;Caoa - Hyundai;18
+01/12/2013;Leves;Caoa - Hyundai;17
+01/01/2013;Leves;Ford;620
+01/02/2013;Leves;Ford;487
+01/03/2013;Leves;Ford;521
+01/04/2013;Leves;Ford;601
+01/05/2013;Leves;Ford;522
+01/06/2013;Leves;Ford;597
+01/07/2013;Leves;Ford;697
+01/08/2013;Leves;Ford;687
+01/09/2013;Leves;Ford;590
+01/10/2013;Leves;Ford;607
+01/11/2013;Leves;Ford;500
+01/12/2013;Leves;Ford;669
+01/01/2013;Leves;Iveco;192
+01/02/2013;Leves;Iveco;176
+01/03/2013;Leves;Iveco;170
+01/04/2013;Leves;Iveco;190
+01/05/2013;Leves;Iveco;195
+01/06/2013;Leves;Iveco;366
+01/07/2013;Leves;Iveco;239
+01/08/2013;Leves;Iveco;195
+01/09/2013;Leves;Iveco;211
+01/10/2013;Leves;Iveco;250
+01/11/2013;Leves;Iveco;171
+01/12/2013;Leves;Iveco;216
+01/01/2013;Leves;MAN;1106
+01/02/2013;Leves;MAN;821
+01/03/2013;Leves;MAN;927
+01/04/2013;Leves;MAN;1130
+01/05/2013;Leves;MAN;1093
+01/06/2013;Leves;MAN;1039
+01/07/2013;Leves;MAN;1258
+01/08/2013;Leves;MAN;1135
+01/09/2013;Leves;MAN;1062
+01/10/2013;Leves;MAN;1183
+01/11/2013;Leves;MAN;860
+01/12/2013;Leves;MAN;1079
+01/01/2013;Leves;Mercedes-Benz;918
+01/02/2013;Leves;Mercedes-Benz;622
+01/03/2013;Leves;Mercedes-Benz;836
+01/04/2013;Leves;Mercedes-Benz;1065
+01/05/2013;Leves;Mercedes-Benz;1002
+01/06/2013;Leves;Mercedes-Benz;875
+01/07/2013;Leves;Mercedes-Benz;1120
+01/08/2013;Leves;Mercedes-Benz;1021
+01/09/2013;Leves;Mercedes-Benz;934
+01/10/2013;Leves;Mercedes-Benz;927
+01/11/2013;Leves;Mercedes-Benz;742
+01/12/2013;Leves;Mercedes-Benz;820
+01/01/2013;Leves;Outras empresas;22
+01/02/2013;Leves;Outras empresas;22
+01/03/2013;Leves;Outras empresas;14
+01/04/2013;Leves;Outras empresas;36
+01/05/2013;Leves;Outras empresas;31
+01/06/2013;Leves;Outras empresas;23
+01/07/2013;Leves;Outras empresas;23
+01/08/2013;Leves;Outras empresas;16
+01/09/2013;Leves;Outras empresas;10
+01/10/2013;Leves;Outras empresas;12
+01/11/2013;Leves;Outras empresas;10
+01/12/2013;Leves;Outras empresas;9
+01/01/2013;Médios;Agrale;9
+01/02/2013;Médios;Agrale;11
+01/03/2013;Médios;Agrale;7
+01/04/2013;Médios;Agrale;8
+01/05/2013;Médios;Agrale;1
+01/06/2013;Médios;Agrale;14
+01/07/2013;Médios;Agrale;9
+01/08/2013;Médios;Agrale;1
+01/09/2013;Médios;Agrale;8
+01/10/2013;Médios;Agrale;8
+01/11/2013;Médios;Agrale;4
+01/12/2013;Médios;Agrale;4
+01/01/2013;Médios;Ford;246
+01/02/2013;Médios;Ford;200
+01/03/2013;Médios;Ford;161
+01/04/2013;Médios;Ford;304
+01/05/2013;Médios;Ford;200
+01/06/2013;Médios;Ford;187
+01/07/2013;Médios;Ford;256
+01/08/2013;Médios;Ford;229
+01/09/2013;Médios;Ford;175
+01/10/2013;Médios;Ford;174
+01/11/2013;Médios;Ford;143
+01/12/2013;Médios;Ford;200
+01/01/2013;Médios;Iveco;1
+01/02/2013;Médios;Iveco;3
+01/03/2013;Médios;Iveco;10
+01/04/2013;Médios;Iveco;23
+01/05/2013;Médios;Iveco;25
+01/06/2013;Médios;Iveco;25
+01/07/2013;Médios;Iveco;30
+01/08/2013;Médios;Iveco;62
+01/09/2013;Médios;Iveco;49
+01/10/2013;Médios;Iveco;35
+01/11/2013;Médios;Iveco;34
+01/12/2013;Médios;Iveco;51
+01/01/2013;Médios;MAN;497
+01/02/2013;Médios;MAN;348
+01/03/2013;Médios;MAN;518
+01/04/2013;Médios;MAN;560
+01/05/2013;Médios;MAN;472
+01/06/2013;Médios;MAN;467
+01/07/2013;Médios;MAN;521
+01/08/2013;Médios;MAN;520
+01/09/2013;Médios;MAN;557
+01/10/2013;Médios;MAN;522
+01/11/2013;Médios;MAN;451
+01/12/2013;Médios;MAN;503
+01/01/2013;Médios;Mercedes-Benz;226
+01/02/2013;Médios;Mercedes-Benz;177
+01/03/2013;Médios;Mercedes-Benz;152
+01/04/2013;Médios;Mercedes-Benz;254
+01/05/2013;Médios;Mercedes-Benz;207
+01/06/2013;Médios;Mercedes-Benz;169
+01/07/2013;Médios;Mercedes-Benz;205
+01/08/2013;Médios;Mercedes-Benz;205
+01/09/2013;Médios;Mercedes-Benz;194
+01/10/2013;Médios;Mercedes-Benz;180
+01/11/2013;Médios;Mercedes-Benz;179
+01/12/2013;Médios;Mercedes-Benz;143
+01/01/2013;Médios;Outras empresas;0
+01/02/2013;Médios;Outras empresas;0
+01/03/2013;Médios;Outras empresas;0
+01/04/2013;Médios;Outras empresas;0
+01/05/2013;Médios;Outras empresas;0
+01/06/2013;Médios;Outras empresas;0
+01/07/2013;Médios;Outras empresas;0
+01/08/2013;Médios;Outras empresas;0
+01/09/2013;Médios;Outras empresas;0
+01/10/2013;Médios;Outras empresas;1
+01/11/2013;Médios;Outras empresas;0
+01/12/2013;Médios;Outras empresas;0
+01/01/2013;Semipesados;Agrale;3
+01/02/2013;Semipesados;Agrale;3
+01/03/2013;Semipesados;Agrale;5
+01/04/2013;Semipesados;Agrale;6
+01/05/2013;Semipesados;Agrale;3
+01/06/2013;Semipesados;Agrale;2
+01/07/2013;Semipesados;Agrale;3
+01/08/2013;Semipesados;Agrale;1
+01/09/2013;Semipesados;Agrale;2
+01/10/2013;Semipesados;Agrale;7
+01/11/2013;Semipesados;Agrale;3
+01/12/2013;Semipesados;Agrale;5
+01/01/2013;Semipesados;DAF;0
+01/02/2013;Semipesados;DAF;0
+01/03/2013;Semipesados;DAF;0
+01/04/2013;Semipesados;DAF;0
+01/05/2013;Semipesados;DAF;0
+01/06/2013;Semipesados;DAF;0
+01/07/2013;Semipesados;DAF;0
+01/08/2013;Semipesados;DAF;0
+01/09/2013;Semipesados;DAF;0
+01/10/2013;Semipesados;DAF;0
+01/11/2013;Semipesados;DAF;0
+01/12/2013;Semipesados;DAF;0
+01/01/2013;Semipesados;Ford;927
+01/02/2013;Semipesados;Ford;684
+01/03/2013;Semipesados;Ford;773
+01/04/2013;Semipesados;Ford;899
+01/05/2013;Semipesados;Ford;778
+01/06/2013;Semipesados;Ford;787
+01/07/2013;Semipesados;Ford;1002
+01/08/2013;Semipesados;Ford;838
+01/09/2013;Semipesados;Ford;846
+01/10/2013;Semipesados;Ford;814
+01/11/2013;Semipesados;Ford;645
+01/12/2013;Semipesados;Ford;940
+01/01/2013;Semipesados;INTERNATIONAL;7
+01/02/2013;Semipesados;INTERNATIONAL;8
+01/03/2013;Semipesados;INTERNATIONAL;3
+01/04/2013;Semipesados;INTERNATIONAL;8
+01/05/2013;Semipesados;INTERNATIONAL;6
+01/06/2013;Semipesados;INTERNATIONAL;5
+01/07/2013;Semipesados;INTERNATIONAL;6
+01/08/2013;Semipesados;INTERNATIONAL;28
+01/09/2013;Semipesados;INTERNATIONAL;22
+01/10/2013;Semipesados;INTERNATIONAL;15
+01/11/2013;Semipesados;INTERNATIONAL;14
+01/12/2013;Semipesados;INTERNATIONAL;22
+01/01/2013;Semipesados;Iveco;250
+01/02/2013;Semipesados;Iveco;206
+01/03/2013;Semipesados;Iveco;186
+01/04/2013;Semipesados;Iveco;196
+01/05/2013;Semipesados;Iveco;217
+01/06/2013;Semipesados;Iveco;228
+01/07/2013;Semipesados;Iveco;298
+01/08/2013;Semipesados;Iveco;382
+01/09/2013;Semipesados;Iveco;266
+01/10/2013;Semipesados;Iveco;290
+01/11/2013;Semipesados;Iveco;284
+01/12/2013;Semipesados;Iveco;278
+01/01/2013;Semipesados;MAN;1341
+01/02/2013;Semipesados;MAN;1140
+01/03/2013;Semipesados;MAN;1376
+01/04/2013;Semipesados;MAN;1444
+01/05/2013;Semipesados;MAN;1383
+01/06/2013;Semipesados;MAN;1225
+01/07/2013;Semipesados;MAN;1362
+01/08/2013;Semipesados;MAN;1320
+01/09/2013;Semipesados;MAN;1119
+01/10/2013;Semipesados;MAN;1252
+01/11/2013;Semipesados;MAN;1092
+01/12/2013;Semipesados;MAN;1338
+01/01/2013;Semipesados;Mercedes-Benz;887
+01/02/2013;Semipesados;Mercedes-Benz;749
+01/03/2013;Semipesados;Mercedes-Benz;908
+01/04/2013;Semipesados;Mercedes-Benz;1011
+01/05/2013;Semipesados;Mercedes-Benz;1049
+01/06/2013;Semipesados;Mercedes-Benz;1004
+01/07/2013;Semipesados;Mercedes-Benz;1119
+01/08/2013;Semipesados;Mercedes-Benz;927
+01/09/2013;Semipesados;Mercedes-Benz;948
+01/10/2013;Semipesados;Mercedes-Benz;1031
+01/11/2013;Semipesados;Mercedes-Benz;1055
+01/12/2013;Semipesados;Mercedes-Benz;1162
+01/01/2013;Semipesados;SCANIA;113
+01/02/2013;Semipesados;SCANIA;69
+01/03/2013;Semipesados;SCANIA;83
+01/04/2013;Semipesados;SCANIA;104
+01/05/2013;Semipesados;SCANIA;133
+01/06/2013;Semipesados;SCANIA;167
+01/07/2013;Semipesados;SCANIA;207
+01/08/2013;Semipesados;SCANIA;138
+01/09/2013;Semipesados;SCANIA;155
+01/10/2013;Semipesados;SCANIA;183
+01/11/2013;Semipesados;SCANIA;150
+01/12/2013;Semipesados;SCANIA;213
+01/01/2013;Semipesados;VOLVO;400
+01/02/2013;Semipesados;VOLVO;326
+01/03/2013;Semipesados;VOLVO;370
+01/04/2013;Semipesados;VOLVO;435
+01/05/2013;Semipesados;VOLVO;509
+01/06/2013;Semipesados;VOLVO;490
+01/07/2013;Semipesados;VOLVO;686
+01/08/2013;Semipesados;VOLVO;602
+01/09/2013;Semipesados;VOLVO;487
+01/10/2013;Semipesados;VOLVO;542
+01/11/2013;Semipesados;VOLVO;445
+01/12/2013;Semipesados;VOLVO;460
+01/01/2013;Semipesados;Outras empresas;1
+01/02/2013;Semipesados;Outras empresas;0
+01/03/2013;Semipesados;Outras empresas;0
+01/04/2013;Semipesados;Outras empresas;0
+01/05/2013;Semipesados;Outras empresas;0
+01/06/2013;Semipesados;Outras empresas;30
+01/07/2013;Semipesados;Outras empresas;0
+01/08/2013;Semipesados;Outras empresas;0
+01/09/2013;Semipesados;Outras empresas;0
+01/10/2013;Semipesados;Outras empresas;1
+01/11/2013;Semipesados;Outras empresas;0
+01/12/2013;Semipesados;Outras empresas;1
+01/01/2013;Pesados;DAF;0
+01/02/2013;Pesados;DAF;0
+01/03/2013;Pesados;DAF;0
+01/04/2013;Pesados;DAF;8
+01/05/2013;Pesados;DAF;0
+01/06/2013;Pesados;DAF;0
+01/07/2013;Pesados;DAF;1
+01/08/2013;Pesados;DAF;0
+01/09/2013;Pesados;DAF;0
+01/10/2013;Pesados;DAF;6
+01/11/2013;Pesados;DAF;8
+01/12/2013;Pesados;DAF;6
+01/01/2013;Pesados;Ford;58
+01/02/2013;Pesados;Ford;86
+01/03/2013;Pesados;Ford;33
+01/04/2013;Pesados;Ford;55
+01/05/2013;Pesados;Ford;28
+01/06/2013;Pesados;Ford;68
+01/07/2013;Pesados;Ford;71
+01/08/2013;Pesados;Ford;118
+01/09/2013;Pesados;Ford;85
+01/10/2013;Pesados;Ford;81
+01/11/2013;Pesados;Ford;65
+01/12/2013;Pesados;Ford;147
+01/01/2013;Pesados;INTERNATIONAL;69
+01/02/2013;Pesados;INTERNATIONAL;43
+01/03/2013;Pesados;INTERNATIONAL;27
+01/04/2013;Pesados;INTERNATIONAL;50
+01/05/2013;Pesados;INTERNATIONAL;31
+01/06/2013;Pesados;INTERNATIONAL;22
+01/07/2013;Pesados;INTERNATIONAL;40
+01/08/2013;Pesados;INTERNATIONAL;22
+01/09/2013;Pesados;INTERNATIONAL;15
+01/10/2013;Pesados;INTERNATIONAL;15
+01/11/2013;Pesados;INTERNATIONAL;7
+01/12/2013;Pesados;INTERNATIONAL;22
+01/01/2013;Pesados;Iveco;281
+01/02/2013;Pesados;Iveco;233
+01/03/2013;Pesados;Iveco;324
+01/04/2013;Pesados;Iveco;363
+01/05/2013;Pesados;Iveco;269
+01/06/2013;Pesados;Iveco;344
+01/07/2013;Pesados;Iveco;397
+01/08/2013;Pesados;Iveco;283
+01/09/2013;Pesados;Iveco;248
+01/10/2013;Pesados;Iveco;291
+01/11/2013;Pesados;Iveco;264
+01/12/2013;Pesados;Iveco;482
+01/01/2013;Pesados;MAN;489
+01/02/2013;Pesados;MAN;374
+01/03/2013;Pesados;MAN;468
+01/04/2013;Pesados;MAN;497
+01/05/2013;Pesados;MAN;459
+01/06/2013;Pesados;MAN;591
+01/07/2013;Pesados;MAN;540
+01/08/2013;Pesados;MAN;391
+01/09/2013;Pesados;MAN;479
+01/10/2013;Pesados;MAN;475
+01/11/2013;Pesados;MAN;425
+01/12/2013;Pesados;MAN;541
+01/01/2013;Pesados;Mercedes-Benz;711
+01/02/2013;Pesados;Mercedes-Benz;582
+01/03/2013;Pesados;Mercedes-Benz;916
+01/04/2013;Pesados;Mercedes-Benz;1078
+01/05/2013;Pesados;Mercedes-Benz;857
+01/06/2013;Pesados;Mercedes-Benz;958
+01/07/2013;Pesados;Mercedes-Benz;1149
+01/08/2013;Pesados;Mercedes-Benz;1027
+01/09/2013;Pesados;Mercedes-Benz;1007
+01/10/2013;Pesados;Mercedes-Benz;1046
+01/11/2013;Pesados;Mercedes-Benz;1015
+01/12/2013;Pesados;Mercedes-Benz;1456
+01/01/2013;Pesados;SCANIA;1226
+01/02/2013;Pesados;SCANIA;1235
+01/03/2013;Pesados;SCANIA;1833
+01/04/2013;Pesados;SCANIA;1643
+01/05/2013;Pesados;SCANIA;1427
+01/06/2013;Pesados;SCANIA;1594
+01/07/2013;Pesados;SCANIA;1784
+01/08/2013;Pesados;SCANIA;1016
+01/09/2013;Pesados;SCANIA;1429
+01/10/2013;Pesados;SCANIA;1557
+01/11/2013;Pesados;SCANIA;1530
+01/12/2013;Pesados;SCANIA;1709
+01/01/2013;Pesados;Shacman;1
+01/02/2013;Pesados;Shacman;2
+01/03/2013;Pesados;Shacman;1
+01/04/2013;Pesados;Shacman;7
+01/05/2013;Pesados;Shacman;4
+01/06/2013;Pesados;Shacman;3
+01/07/2013;Pesados;Shacman;4
+01/08/2013;Pesados;Shacman;3
+01/09/2013;Pesados;Shacman;4
+01/10/2013;Pesados;Shacman;0
+01/11/2013;Pesados;Shacman;4
+01/12/2013;Pesados;Shacman;3
+01/01/2013;Pesados;VOLVO;1005
+01/02/2013;Pesados;VOLVO;876
+01/03/2013;Pesados;VOLVO;1094
+01/04/2013;Pesados;VOLVO;1441
+01/05/2013;Pesados;VOLVO;1190
+01/06/2013;Pesados;VOLVO;1269
+01/07/2013;Pesados;VOLVO;1508
+01/08/2013;Pesados;VOLVO;1455
+01/09/2013;Pesados;VOLVO;1259
+01/10/2013;Pesados;VOLVO;1372
+01/11/2013;Pesados;VOLVO;1033
+01/12/2013;Pesados;VOLVO;1477
+01/01/2013;Pesados;Outras empresas;38
+01/02/2013;Pesados;Outras empresas;56
+01/03/2013;Pesados;Outras empresas;40
+01/04/2013;Pesados;Outras empresas;14
+01/05/2013;Pesados;Outras empresas;23
+01/06/2013;Pesados;Outras empresas;13
+01/07/2013;Pesados;Outras empresas;14
+01/08/2013;Pesados;Outras empresas;23
+01/09/2013;Pesados;Outras empresas;35
+01/10/2013;Pesados;Outras empresas;11
+01/11/2013;Pesados;Outras empresas;16
+01/12/2013;Pesados;Outras empresas;8
+01/01/2014;Semileves;Agrale;5
+01/02/2014;Semileves;Agrale;4
+01/03/2014;Semileves;Agrale;2
+01/04/2014;Semileves;Agrale;3
+01/05/2014;Semileves;Agrale;0
+01/06/2014;Semileves;Agrale;1
+01/07/2014;Semileves;Agrale;2
+01/08/2014;Semileves;Agrale;1
+01/09/2014;Semileves;Agrale;4
+01/10/2014;Semileves;Agrale;1
+01/11/2014;Semileves;Agrale;1
+01/12/2014;Semileves;Agrale;0
+01/01/2014;Semileves;FCA (Fiat/Dodge);71
+01/02/2014;Semileves;FCA (Fiat/Dodge);82
+01/03/2014;Semileves;FCA (Fiat/Dodge);68
+01/04/2014;Semileves;FCA (Fiat/Dodge);42
+01/05/2014;Semileves;FCA (Fiat/Dodge);10
+01/06/2014;Semileves;FCA (Fiat/Dodge);2
+01/07/2014;Semileves;FCA (Fiat/Dodge);1
+01/08/2014;Semileves;FCA (Fiat/Dodge);2
+01/09/2014;Semileves;FCA (Fiat/Dodge);0
+01/10/2014;Semileves;FCA (Fiat/Dodge);1
+01/11/2014;Semileves;FCA (Fiat/Dodge);0
+01/12/2014;Semileves;FCA (Fiat/Dodge);0
+01/01/2014;Semileves;Ford;0
+01/02/2014;Semileves;Ford;0
+01/03/2014;Semileves;Ford;2
+01/04/2014;Semileves;Ford;1
+01/05/2014;Semileves;Ford;0
+01/06/2014;Semileves;Ford;1
+01/07/2014;Semileves;Ford;0
+01/08/2014;Semileves;Ford;3
+01/09/2014;Semileves;Ford;125
+01/10/2014;Semileves;Ford;111
+01/11/2014;Semileves;Ford;59
+01/12/2014;Semileves;Ford;232
+01/01/2014;Semileves;Iveco;93
+01/02/2014;Semileves;Iveco;86
+01/03/2014;Semileves;Iveco;90
+01/04/2014;Semileves;Iveco;97
+01/05/2014;Semileves;Iveco;84
+01/06/2014;Semileves;Iveco;71
+01/07/2014;Semileves;Iveco;87
+01/08/2014;Semileves;Iveco;91
+01/09/2014;Semileves;Iveco;83
+01/10/2014;Semileves;Iveco;77
+01/11/2014;Semileves;Iveco;94
+01/12/2014;Semileves;Iveco;129
+01/01/2014;Semileves;MAN;76
+01/02/2014;Semileves;MAN;67
+01/03/2014;Semileves;MAN;44
+01/04/2014;Semileves;MAN;54
+01/05/2014;Semileves;MAN;61
+01/06/2014;Semileves;MAN;69
+01/07/2014;Semileves;MAN;89
+01/08/2014;Semileves;MAN;71
+01/09/2014;Semileves;MAN;49
+01/10/2014;Semileves;MAN;50
+01/11/2014;Semileves;MAN;45
+01/12/2014;Semileves;MAN;46
+01/01/2014;Semileves;Mercedes-Benz;124
+01/02/2014;Semileves;Mercedes-Benz;95
+01/03/2014;Semileves;Mercedes-Benz;116
+01/04/2014;Semileves;Mercedes-Benz;102
+01/05/2014;Semileves;Mercedes-Benz;118
+01/06/2014;Semileves;Mercedes-Benz;91
+01/07/2014;Semileves;Mercedes-Benz;94
+01/08/2014;Semileves;Mercedes-Benz;102
+01/09/2014;Semileves;Mercedes-Benz;96
+01/10/2014;Semileves;Mercedes-Benz;102
+01/11/2014;Semileves;Mercedes-Benz;88
+01/12/2014;Semileves;Mercedes-Benz;102
+01/01/2014;Semileves;Outras empresas;15
+01/02/2014;Semileves;Outras empresas;9
+01/03/2014;Semileves;Outras empresas;7
+01/04/2014;Semileves;Outras empresas;12
+01/05/2014;Semileves;Outras empresas;13
+01/06/2014;Semileves;Outras empresas;9
+01/07/2014;Semileves;Outras empresas;8
+01/08/2014;Semileves;Outras empresas;7
+01/09/2014;Semileves;Outras empresas;8
+01/10/2014;Semileves;Outras empresas;5
+01/11/2014;Semileves;Outras empresas;3
+01/12/2014;Semileves;Outras empresas;1
+01/01/2014;Leves;Agrale;21
+01/02/2014;Leves;Agrale;20
+01/03/2014;Leves;Agrale;34
+01/04/2014;Leves;Agrale;19
+01/05/2014;Leves;Agrale;22
+01/06/2014;Leves;Agrale;26
+01/07/2014;Leves;Agrale;30
+01/08/2014;Leves;Agrale;23
+01/09/2014;Leves;Agrale;26
+01/10/2014;Leves;Agrale;29
+01/11/2014;Leves;Agrale;23
+01/12/2014;Leves;Agrale;35
+01/01/2014;Leves;Caoa - Hyundai;15
+01/02/2014;Leves;Caoa - Hyundai;14
+01/03/2014;Leves;Caoa - Hyundai;22
+01/04/2014;Leves;Caoa - Hyundai;14
+01/05/2014;Leves;Caoa - Hyundai;20
+01/06/2014;Leves;Caoa - Hyundai;20
+01/07/2014;Leves;Caoa - Hyundai;44
+01/08/2014;Leves;Caoa - Hyundai;27
+01/09/2014;Leves;Caoa - Hyundai;26
+01/10/2014;Leves;Caoa - Hyundai;36
+01/11/2014;Leves;Caoa - Hyundai;168
+01/12/2014;Leves;Caoa - Hyundai;289
+01/01/2014;Leves;Ford;443
+01/02/2014;Leves;Ford;408
+01/03/2014;Leves;Ford;349
+01/04/2014;Leves;Ford;405
+01/05/2014;Leves;Ford;465
+01/06/2014;Leves;Ford;379
+01/07/2014;Leves;Ford;475
+01/08/2014;Leves;Ford;377
+01/09/2014;Leves;Ford;504
+01/10/2014;Leves;Ford;565
+01/11/2014;Leves;Ford;551
+01/12/2014;Leves;Ford;816
+01/01/2014;Leves;Iveco;157
+01/02/2014;Leves;Iveco;148
+01/03/2014;Leves;Iveco;135
+01/04/2014;Leves;Iveco;136
+01/05/2014;Leves;Iveco;136
+01/06/2014;Leves;Iveco;125
+01/07/2014;Leves;Iveco;255
+01/08/2014;Leves;Iveco;215
+01/09/2014;Leves;Iveco;192
+01/10/2014;Leves;Iveco;203
+01/11/2014;Leves;Iveco;162
+01/12/2014;Leves;Iveco;226
+01/01/2014;Leves;MAN;787
+01/02/2014;Leves;MAN;808
+01/03/2014;Leves;MAN;705
+01/04/2014;Leves;MAN;694
+01/05/2014;Leves;MAN;934
+01/06/2014;Leves;MAN;782
+01/07/2014;Leves;MAN;927
+01/08/2014;Leves;MAN;899
+01/09/2014;Leves;MAN;963
+01/10/2014;Leves;MAN;1068
+01/11/2014;Leves;MAN;1086
+01/12/2014;Leves;MAN;1053
+01/01/2014;Leves;Mercedes-Benz;637
+01/02/2014;Leves;Mercedes-Benz;630
+01/03/2014;Leves;Mercedes-Benz;549
+01/04/2014;Leves;Mercedes-Benz;630
+01/05/2014;Leves;Mercedes-Benz;754
+01/06/2014;Leves;Mercedes-Benz;685
+01/07/2014;Leves;Mercedes-Benz;937
+01/08/2014;Leves;Mercedes-Benz;772
+01/09/2014;Leves;Mercedes-Benz;779
+01/10/2014;Leves;Mercedes-Benz;864
+01/11/2014;Leves;Mercedes-Benz;914
+01/12/2014;Leves;Mercedes-Benz;937
+01/01/2014;Leves;Outras empresas;11
+01/02/2014;Leves;Outras empresas;14
+01/03/2014;Leves;Outras empresas;5
+01/04/2014;Leves;Outras empresas;12
+01/05/2014;Leves;Outras empresas;8
+01/06/2014;Leves;Outras empresas;8
+01/07/2014;Leves;Outras empresas;11
+01/08/2014;Leves;Outras empresas;8
+01/09/2014;Leves;Outras empresas;11
+01/10/2014;Leves;Outras empresas;7
+01/11/2014;Leves;Outras empresas;6
+01/12/2014;Leves;Outras empresas;4
+01/01/2014;Médios;Agrale;6
+01/02/2014;Médios;Agrale;7
+01/03/2014;Médios;Agrale;4
+01/04/2014;Médios;Agrale;2
+01/05/2014;Médios;Agrale;8
+01/06/2014;Médios;Agrale;4
+01/07/2014;Médios;Agrale;7
+01/08/2014;Médios;Agrale;17
+01/09/2014;Médios;Agrale;6
+01/10/2014;Médios;Agrale;4
+01/11/2014;Médios;Agrale;4
+01/12/2014;Médios;Agrale;11
+01/01/2014;Médios;Ford;180
+01/02/2014;Médios;Ford;226
+01/03/2014;Médios;Ford;239
+01/04/2014;Médios;Ford;304
+01/05/2014;Médios;Ford;419
+01/06/2014;Médios;Ford;373
+01/07/2014;Médios;Ford;491
+01/08/2014;Médios;Ford;426
+01/09/2014;Médios;Ford;432
+01/10/2014;Médios;Ford;420
+01/11/2014;Médios;Ford;471
+01/12/2014;Médios;Ford;526
+01/01/2014;Médios;Iveco;103
+01/02/2014;Médios;Iveco;75
+01/03/2014;Médios;Iveco;59
+01/04/2014;Médios;Iveco;42
+01/05/2014;Médios;Iveco;41
+01/06/2014;Médios;Iveco;26
+01/07/2014;Médios;Iveco;42
+01/08/2014;Médios;Iveco;26
+01/09/2014;Médios;Iveco;30
+01/10/2014;Médios;Iveco;29
+01/11/2014;Médios;Iveco;22
+01/12/2014;Médios;Iveco;23
+01/01/2014;Médios;MAN;353
+01/02/2014;Médios;MAN;494
+01/03/2014;Médios;MAN;321
+01/04/2014;Médios;MAN;300
+01/05/2014;Médios;MAN;451
+01/06/2014;Médios;MAN;396
+01/07/2014;Médios;MAN;466
+01/08/2014;Médios;MAN;403
+01/09/2014;Médios;MAN;403
+01/10/2014;Médios;MAN;364
+01/11/2014;Médios;MAN;331
+01/12/2014;Médios;MAN;414
+01/01/2014;Médios;Mercedes-Benz;142
+01/02/2014;Médios;Mercedes-Benz;100
+01/03/2014;Médios;Mercedes-Benz;99
+01/04/2014;Médios;Mercedes-Benz;141
+01/05/2014;Médios;Mercedes-Benz;193
+01/06/2014;Médios;Mercedes-Benz;139
+01/07/2014;Médios;Mercedes-Benz;177
+01/08/2014;Médios;Mercedes-Benz;185
+01/09/2014;Médios;Mercedes-Benz;186
+01/10/2014;Médios;Mercedes-Benz;165
+01/11/2014;Médios;Mercedes-Benz;181
+01/12/2014;Médios;Mercedes-Benz;186
+01/01/2014;Semipesados;Agrale;2
+01/02/2014;Semipesados;Agrale;0
+01/03/2014;Semipesados;Agrale;2
+01/04/2014;Semipesados;Agrale;4
+01/05/2014;Semipesados;Agrale;1
+01/06/2014;Semipesados;Agrale;2
+01/07/2014;Semipesados;Agrale;6
+01/08/2014;Semipesados;Agrale;4
+01/09/2014;Semipesados;Agrale;3
+01/10/2014;Semipesados;Agrale;3
+01/11/2014;Semipesados;Agrale;5
+01/12/2014;Semipesados;Agrale;0
+01/01/2014;Semipesados;Ford;701
+01/02/2014;Semipesados;Ford;688
+01/03/2014;Semipesados;Ford;519
+01/04/2014;Semipesados;Ford;556
+01/05/2014;Semipesados;Ford;666
+01/06/2014;Semipesados;Ford;616
+01/07/2014;Semipesados;Ford;779
+01/08/2014;Semipesados;Ford;586
+01/09/2014;Semipesados;Ford;616
+01/10/2014;Semipesados;Ford;669
+01/11/2014;Semipesados;Ford;681
+01/12/2014;Semipesados;Ford;693
+01/01/2014;Semipesados;INTERNATIONAL;44
+01/02/2014;Semipesados;INTERNATIONAL;90
+01/03/2014;Semipesados;INTERNATIONAL;79
+01/04/2014;Semipesados;INTERNATIONAL;177
+01/05/2014;Semipesados;INTERNATIONAL;142
+01/06/2014;Semipesados;INTERNATIONAL;173
+01/07/2014;Semipesados;INTERNATIONAL;92
+01/08/2014;Semipesados;INTERNATIONAL;28
+01/09/2014;Semipesados;INTERNATIONAL;15
+01/10/2014;Semipesados;INTERNATIONAL;15
+01/11/2014;Semipesados;INTERNATIONAL;7
+01/12/2014;Semipesados;INTERNATIONAL;7
+01/01/2014;Semipesados;Iveco;282
+01/02/2014;Semipesados;Iveco;194
+01/03/2014;Semipesados;Iveco;224
+01/04/2014;Semipesados;Iveco;233
+01/05/2014;Semipesados;Iveco;233
+01/06/2014;Semipesados;Iveco;213
+01/07/2014;Semipesados;Iveco;278
+01/08/2014;Semipesados;Iveco;178
+01/09/2014;Semipesados;Iveco;197
+01/10/2014;Semipesados;Iveco;200
+01/11/2014;Semipesados;Iveco;198
+01/12/2014;Semipesados;Iveco;200
+01/01/2014;Semipesados;MAN;1202
+01/02/2014;Semipesados;MAN;1109
+01/03/2014;Semipesados;MAN;1090
+01/04/2014;Semipesados;MAN;1321
+01/05/2014;Semipesados;MAN;1416
+01/06/2014;Semipesados;MAN;1151
+01/07/2014;Semipesados;MAN;1302
+01/08/2014;Semipesados;MAN;1144
+01/09/2014;Semipesados;MAN;1248
+01/10/2014;Semipesados;MAN;1320
+01/11/2014;Semipesados;MAN;1357
+01/12/2014;Semipesados;MAN;1369
+01/01/2014;Semipesados;Mercedes-Benz;784
+01/02/2014;Semipesados;Mercedes-Benz;719
+01/03/2014;Semipesados;Mercedes-Benz;673
+01/04/2014;Semipesados;Mercedes-Benz;777
+01/05/2014;Semipesados;Mercedes-Benz;942
+01/06/2014;Semipesados;Mercedes-Benz;927
+01/07/2014;Semipesados;Mercedes-Benz;1002
+01/08/2014;Semipesados;Mercedes-Benz;917
+01/09/2014;Semipesados;Mercedes-Benz;907
+01/10/2014;Semipesados;Mercedes-Benz;1220
+01/11/2014;Semipesados;Mercedes-Benz;1067
+01/12/2014;Semipesados;Mercedes-Benz;1101
+01/01/2014;Semipesados;SCANIA;137
+01/02/2014;Semipesados;SCANIA;124
+01/03/2014;Semipesados;SCANIA;105
+01/04/2014;Semipesados;SCANIA;155
+01/05/2014;Semipesados;SCANIA;210
+01/06/2014;Semipesados;SCANIA;133
+01/07/2014;Semipesados;SCANIA;200
+01/08/2014;Semipesados;SCANIA;217
+01/09/2014;Semipesados;SCANIA;244
+01/10/2014;Semipesados;SCANIA;231
+01/11/2014;Semipesados;SCANIA;206
+01/12/2014;Semipesados;SCANIA;210
+01/01/2014;Semipesados;VOLVO;452
+01/02/2014;Semipesados;VOLVO;420
+01/03/2014;Semipesados;VOLVO;386
+01/04/2014;Semipesados;VOLVO;481
+01/05/2014;Semipesados;VOLVO;542
+01/06/2014;Semipesados;VOLVO;440
+01/07/2014;Semipesados;VOLVO;464
+01/08/2014;Semipesados;VOLVO;506
+01/09/2014;Semipesados;VOLVO;459
+01/10/2014;Semipesados;VOLVO;474
+01/11/2014;Semipesados;VOLVO;515
+01/12/2014;Semipesados;VOLVO;554
+01/01/2014;Semipesados;Outras empresas;0
+01/02/2014;Semipesados;Outras empresas;0
+01/03/2014;Semipesados;Outras empresas;1
+01/04/2014;Semipesados;Outras empresas;0
+01/05/2014;Semipesados;Outras empresas;0
+01/06/2014;Semipesados;Outras empresas;0
+01/07/2014;Semipesados;Outras empresas;1
+01/08/2014;Semipesados;Outras empresas;1
+01/09/2014;Semipesados;Outras empresas;0
+01/10/2014;Semipesados;Outras empresas;1
+01/11/2014;Semipesados;Outras empresas;1
+01/12/2014;Semipesados;Outras empresas;1
+01/01/2014;Pesados;DAF;6
+01/02/2014;Pesados;DAF;12
+01/03/2014;Pesados;DAF;10
+01/04/2014;Pesados;DAF;8
+01/05/2014;Pesados;DAF;19
+01/06/2014;Pesados;DAF;16
+01/07/2014;Pesados;DAF;31
+01/08/2014;Pesados;DAF;14
+01/09/2014;Pesados;DAF;16
+01/10/2014;Pesados;DAF;78
+01/11/2014;Pesados;DAF;13
+01/12/2014;Pesados;DAF;34
+01/01/2014;Pesados;Ford;131
+01/02/2014;Pesados;Ford;63
+01/03/2014;Pesados;Ford;68
+01/04/2014;Pesados;Ford;55
+01/05/2014;Pesados;Ford;92
+01/06/2014;Pesados;Ford;68
+01/07/2014;Pesados;Ford;123
+01/08/2014;Pesados;Ford;86
+01/09/2014;Pesados;Ford;67
+01/10/2014;Pesados;Ford;115
+01/11/2014;Pesados;Ford;64
+01/12/2014;Pesados;Ford;119
+01/01/2014;Pesados;INTERNATIONAL;42
+01/02/2014;Pesados;INTERNATIONAL;7
+01/03/2014;Pesados;INTERNATIONAL;1
+01/04/2014;Pesados;INTERNATIONAL;5
+01/05/2014;Pesados;INTERNATIONAL;7
+01/06/2014;Pesados;INTERNATIONAL;6
+01/07/2014;Pesados;INTERNATIONAL;3
+01/08/2014;Pesados;INTERNATIONAL;4
+01/09/2014;Pesados;INTERNATIONAL;5
+01/10/2014;Pesados;INTERNATIONAL;1
+01/11/2014;Pesados;INTERNATIONAL;3
+01/12/2014;Pesados;INTERNATIONAL;1
+01/01/2014;Pesados;Iveco;215
+01/02/2014;Pesados;Iveco;139
+01/03/2014;Pesados;Iveco;122
+01/04/2014;Pesados;Iveco;174
+01/05/2014;Pesados;Iveco;302
+01/06/2014;Pesados;Iveco;226
+01/07/2014;Pesados;Iveco;186
+01/08/2014;Pesados;Iveco;195
+01/09/2014;Pesados;Iveco;210
+01/10/2014;Pesados;Iveco;207
+01/11/2014;Pesados;Iveco;246
+01/12/2014;Pesados;Iveco;253
+01/01/2014;Pesados;MAN;429
+01/02/2014;Pesados;MAN;293
+01/03/2014;Pesados;MAN;285
+01/04/2014;Pesados;MAN;447
+01/05/2014;Pesados;MAN;518
+01/06/2014;Pesados;MAN;326
+01/07/2014;Pesados;MAN;492
+01/08/2014;Pesados;MAN;467
+01/09/2014;Pesados;MAN;416
+01/10/2014;Pesados;MAN;439
+01/11/2014;Pesados;MAN;396
+01/12/2014;Pesados;MAN;497
+01/01/2014;Pesados;Mercedes-Benz;945
+01/02/2014;Pesados;Mercedes-Benz;892
+01/03/2014;Pesados;Mercedes-Benz;1022
+01/04/2014;Pesados;Mercedes-Benz;1147
+01/05/2014;Pesados;Mercedes-Benz;1278
+01/06/2014;Pesados;Mercedes-Benz;1166
+01/07/2014;Pesados;Mercedes-Benz;1192
+01/08/2014;Pesados;Mercedes-Benz;814
+01/09/2014;Pesados;Mercedes-Benz;932
+01/10/2014;Pesados;Mercedes-Benz;1044
+01/11/2014;Pesados;Mercedes-Benz;833
+01/12/2014;Pesados;Mercedes-Benz;1027
+01/01/2014;Pesados;SCANIA;1076
+01/02/2014;Pesados;SCANIA;1134
+01/03/2014;Pesados;SCANIA;799
+01/04/2014;Pesados;SCANIA;1035
+01/05/2014;Pesados;SCANIA;1209
+01/06/2014;Pesados;SCANIA;784
+01/07/2014;Pesados;SCANIA;977
+01/08/2014;Pesados;SCANIA;871
+01/09/2014;Pesados;SCANIA;965
+01/10/2014;Pesados;SCANIA;997
+01/11/2014;Pesados;SCANIA;1042
+01/12/2014;Pesados;SCANIA;1083
+01/01/2014;Pesados;Shacman;0
+01/02/2014;Pesados;Shacman;2
+01/03/2014;Pesados;Shacman;4
+01/04/2014;Pesados;Shacman;21
+01/05/2014;Pesados;Shacman;7
+01/06/2014;Pesados;Shacman;0
+01/07/2014;Pesados;Shacman;1
+01/08/2014;Pesados;Shacman;1
+01/09/2014;Pesados;Shacman;5
+01/10/2014;Pesados;Shacman;2
+01/11/2014;Pesados;Shacman;8
+01/12/2014;Pesados;Shacman;0
+01/01/2014;Pesados;VOLVO;1043
+01/02/2014;Pesados;VOLVO;1230
+01/03/2014;Pesados;VOLVO;982
+01/04/2014;Pesados;VOLVO;1259
+01/05/2014;Pesados;VOLVO;1378
+01/06/2014;Pesados;VOLVO;1100
+01/07/2014;Pesados;VOLVO;1110
+01/08/2014;Pesados;VOLVO;1116
+01/09/2014;Pesados;VOLVO;977
+01/10/2014;Pesados;VOLVO;1050
+01/11/2014;Pesados;VOLVO;1293
+01/12/2014;Pesados;VOLVO;1501
+01/01/2014;Pesados;Outras empresas;48
+01/02/2014;Pesados;Outras empresas;34
+01/03/2014;Pesados;Outras empresas;19
+01/04/2014;Pesados;Outras empresas;23
+01/05/2014;Pesados;Outras empresas;11
+01/06/2014;Pesados;Outras empresas;31
+01/07/2014;Pesados;Outras empresas;6
+01/08/2014;Pesados;Outras empresas;3
+01/09/2014;Pesados;Outras empresas;5
+01/10/2014;Pesados;Outras empresas;5
+01/11/2014;Pesados;Outras empresas;9
+01/12/2014;Pesados;Outras empresas;6
+01/01/2015;Semileves;Agrale;0
+01/02/2015;Semileves;Agrale;0
+01/03/2015;Semileves;Agrale;2
+01/04/2015;Semileves;Agrale;1
+01/05/2015;Semileves;Agrale;0
+01/06/2015;Semileves;Agrale;3
+01/07/2015;Semileves;Agrale;2
+01/08/2015;Semileves;Agrale;4
+01/09/2015;Semileves;Agrale;1
+01/10/2015;Semileves;Agrale;1
+01/11/2015;Semileves;Agrale;3
+01/12/2015;Semileves;Agrale;0
+01/01/2015;Semileves;FCA (Fiat/Dodge);0
+01/02/2015;Semileves;FCA (Fiat/Dodge);0
+01/03/2015;Semileves;FCA (Fiat/Dodge);0
+01/04/2015;Semileves;FCA (Fiat/Dodge);0
+01/05/2015;Semileves;FCA (Fiat/Dodge);0
+01/06/2015;Semileves;FCA (Fiat/Dodge);0
+01/07/2015;Semileves;FCA (Fiat/Dodge);0
+01/08/2015;Semileves;FCA (Fiat/Dodge);1
+01/09/2015;Semileves;FCA (Fiat/Dodge);1
+01/10/2015;Semileves;FCA (Fiat/Dodge);0
+01/11/2015;Semileves;FCA (Fiat/Dodge);20
+01/12/2015;Semileves;FCA (Fiat/Dodge);58
+01/01/2015;Semileves;Ford;170
+01/02/2015;Semileves;Ford;106
+01/03/2015;Semileves;Ford;173
+01/04/2015;Semileves;Ford;131
+01/05/2015;Semileves;Ford;132
+01/06/2015;Semileves;Ford;140
+01/07/2015;Semileves;Ford;147
+01/08/2015;Semileves;Ford;130
+01/09/2015;Semileves;Ford;121
+01/10/2015;Semileves;Ford;120
+01/11/2015;Semileves;Ford;84
+01/12/2015;Semileves;Ford;96
+01/01/2015;Semileves;Iveco;64
+01/02/2015;Semileves;Iveco;38
+01/03/2015;Semileves;Iveco;35
+01/04/2015;Semileves;Iveco;29
+01/05/2015;Semileves;Iveco;45
+01/06/2015;Semileves;Iveco;33
+01/07/2015;Semileves;Iveco;38
+01/08/2015;Semileves;Iveco;63
+01/09/2015;Semileves;Iveco;25
+01/10/2015;Semileves;Iveco;35
+01/11/2015;Semileves;Iveco;32
+01/12/2015;Semileves;Iveco;53
+01/01/2015;Semileves;MAN;40
+01/02/2015;Semileves;MAN;32
+01/03/2015;Semileves;MAN;42
+01/04/2015;Semileves;MAN;35
+01/05/2015;Semileves;MAN;32
+01/06/2015;Semileves;MAN;59
+01/07/2015;Semileves;MAN;45
+01/08/2015;Semileves;MAN;44
+01/09/2015;Semileves;MAN;67
+01/10/2015;Semileves;MAN;58
+01/11/2015;Semileves;MAN;31
+01/12/2015;Semileves;MAN;25
+01/01/2015;Semileves;Mercedes-Benz;104
+01/02/2015;Semileves;Mercedes-Benz;64
+01/03/2015;Semileves;Mercedes-Benz;94
+01/04/2015;Semileves;Mercedes-Benz;97
+01/05/2015;Semileves;Mercedes-Benz;86
+01/06/2015;Semileves;Mercedes-Benz;83
+01/07/2015;Semileves;Mercedes-Benz;95
+01/08/2015;Semileves;Mercedes-Benz;105
+01/09/2015;Semileves;Mercedes-Benz;67
+01/10/2015;Semileves;Mercedes-Benz;80
+01/11/2015;Semileves;Mercedes-Benz;80
+01/12/2015;Semileves;Mercedes-Benz;92
+01/01/2015;Semileves;Outras empresas;0
+01/02/2015;Semileves;Outras empresas;2
+01/03/2015;Semileves;Outras empresas;2
+01/04/2015;Semileves;Outras empresas;3
+01/05/2015;Semileves;Outras empresas;2
+01/06/2015;Semileves;Outras empresas;0
+01/07/2015;Semileves;Outras empresas;0
+01/08/2015;Semileves;Outras empresas;1
+01/09/2015;Semileves;Outras empresas;2
+01/10/2015;Semileves;Outras empresas;1
+01/11/2015;Semileves;Outras empresas;1
+01/12/2015;Semileves;Outras empresas;1
+01/01/2015;Leves;Agrale;16
+01/02/2015;Leves;Agrale;6
+01/03/2015;Leves;Agrale;23
+01/04/2015;Leves;Agrale;11
+01/05/2015;Leves;Agrale;19
+01/06/2015;Leves;Agrale;11
+01/07/2015;Leves;Agrale;13
+01/08/2015;Leves;Agrale;19
+01/09/2015;Leves;Agrale;12
+01/10/2015;Leves;Agrale;16
+01/11/2015;Leves;Agrale;12
+01/12/2015;Leves;Agrale;14
+01/01/2015;Leves;Caoa - Hyundai;272
+01/02/2015;Leves;Caoa - Hyundai;182
+01/03/2015;Leves;Caoa - Hyundai;186
+01/04/2015;Leves;Caoa - Hyundai;69
+01/05/2015;Leves;Caoa - Hyundai;55
+01/06/2015;Leves;Caoa - Hyundai;26
+01/07/2015;Leves;Caoa - Hyundai;23
+01/08/2015;Leves;Caoa - Hyundai;19
+01/09/2015;Leves;Caoa - Hyundai;20
+01/10/2015;Leves;Caoa - Hyundai;16
+01/11/2015;Leves;Caoa - Hyundai;16
+01/12/2015;Leves;Caoa - Hyundai;9
+01/01/2015;Leves;Ford;450
+01/02/2015;Leves;Ford;348
+01/03/2015;Leves;Ford;547
+01/04/2015;Leves;Ford;398
+01/05/2015;Leves;Ford;424
+01/06/2015;Leves;Ford;447
+01/07/2015;Leves;Ford;431
+01/08/2015;Leves;Ford;418
+01/09/2015;Leves;Ford;409
+01/10/2015;Leves;Ford;319
+01/11/2015;Leves;Ford;291
+01/12/2015;Leves;Ford;293
+01/01/2015;Leves;Iveco;105
+01/02/2015;Leves;Iveco;70
+01/03/2015;Leves;Iveco;90
+01/04/2015;Leves;Iveco;79
+01/05/2015;Leves;Iveco;93
+01/06/2015;Leves;Iveco;81
+01/07/2015;Leves;Iveco;95
+01/08/2015;Leves;Iveco;78
+01/09/2015;Leves;Iveco;73
+01/10/2015;Leves;Iveco;76
+01/11/2015;Leves;Iveco;84
+01/12/2015;Leves;Iveco;200
+01/01/2015;Leves;MAN;785
+01/02/2015;Leves;MAN;473
+01/03/2015;Leves;MAN;585
+01/04/2015;Leves;MAN;526
+01/05/2015;Leves;MAN;484
+01/06/2015;Leves;MAN;556
+01/07/2015;Leves;MAN;596
+01/08/2015;Leves;MAN;585
+01/09/2015;Leves;MAN;507
+01/10/2015;Leves;MAN;454
+01/11/2015;Leves;MAN;505
+01/12/2015;Leves;MAN;448
+01/01/2015;Leves;Mercedes-Benz;530
+01/02/2015;Leves;Mercedes-Benz;341
+01/03/2015;Leves;Mercedes-Benz;453
+01/04/2015;Leves;Mercedes-Benz;495
+01/05/2015;Leves;Mercedes-Benz;507
+01/06/2015;Leves;Mercedes-Benz;534
+01/07/2015;Leves;Mercedes-Benz;572
+01/08/2015;Leves;Mercedes-Benz;508
+01/09/2015;Leves;Mercedes-Benz;475
+01/10/2015;Leves;Mercedes-Benz;526
+01/11/2015;Leves;Mercedes-Benz;450
+01/12/2015;Leves;Mercedes-Benz;425
+01/01/2015;Leves;Outras empresas;7
+01/02/2015;Leves;Outras empresas;6
+01/03/2015;Leves;Outras empresas;6
+01/04/2015;Leves;Outras empresas;8
+01/05/2015;Leves;Outras empresas;9
+01/06/2015;Leves;Outras empresas;8
+01/07/2015;Leves;Outras empresas;5
+01/08/2015;Leves;Outras empresas;10
+01/09/2015;Leves;Outras empresas;10
+01/10/2015;Leves;Outras empresas;6
+01/11/2015;Leves;Outras empresas;10
+01/12/2015;Leves;Outras empresas;6
+01/01/2015;Médios;Agrale;8
+01/02/2015;Médios;Agrale;7
+01/03/2015;Médios;Agrale;6
+01/04/2015;Médios;Agrale;9
+01/05/2015;Médios;Agrale;10
+01/06/2015;Médios;Agrale;3
+01/07/2015;Médios;Agrale;5
+01/08/2015;Médios;Agrale;2
+01/09/2015;Médios;Agrale;4
+01/10/2015;Médios;Agrale;2
+01/11/2015;Médios;Agrale;2
+01/12/2015;Médios;Agrale;1
+01/01/2015;Médios;Ford;284
+01/02/2015;Médios;Ford;250
+01/03/2015;Médios;Ford;248
+01/04/2015;Médios;Ford;257
+01/05/2015;Médios;Ford;253
+01/06/2015;Médios;Ford;239
+01/07/2015;Médios;Ford;287
+01/08/2015;Médios;Ford;216
+01/09/2015;Médios;Ford;229
+01/10/2015;Médios;Ford;178
+01/11/2015;Médios;Ford;153
+01/12/2015;Médios;Ford;228
+01/01/2015;Médios;Iveco;14
+01/02/2015;Médios;Iveco;13
+01/03/2015;Médios;Iveco;14
+01/04/2015;Médios;Iveco;19
+01/05/2015;Médios;Iveco;16
+01/06/2015;Médios;Iveco;27
+01/07/2015;Médios;Iveco;8
+01/08/2015;Médios;Iveco;12
+01/09/2015;Médios;Iveco;9
+01/10/2015;Médios;Iveco;14
+01/11/2015;Médios;Iveco;13
+01/12/2015;Médios;Iveco;17
+01/01/2015;Médios;MAN;288
+01/02/2015;Médios;MAN;207
+01/03/2015;Médios;MAN;244
+01/04/2015;Médios;MAN;182
+01/05/2015;Médios;MAN;177
+01/06/2015;Médios;MAN;177
+01/07/2015;Médios;MAN;212
+01/08/2015;Médios;MAN;209
+01/09/2015;Médios;MAN;282
+01/10/2015;Médios;MAN;192
+01/11/2015;Médios;MAN;200
+01/12/2015;Médios;MAN;193
+01/01/2015;Médios;Mercedes-Benz;148
+01/02/2015;Médios;Mercedes-Benz;112
+01/03/2015;Médios;Mercedes-Benz;103
+01/04/2015;Médios;Mercedes-Benz;113
+01/05/2015;Médios;Mercedes-Benz;110
+01/06/2015;Médios;Mercedes-Benz;98
+01/07/2015;Médios;Mercedes-Benz;119
+01/08/2015;Médios;Mercedes-Benz;90
+01/09/2015;Médios;Mercedes-Benz;144
+01/10/2015;Médios;Mercedes-Benz;119
+01/11/2015;Médios;Mercedes-Benz;95
+01/12/2015;Médios;Mercedes-Benz;93
+01/01/2015;Médios;Outras empresas;0
+01/02/2015;Médios;Outras empresas;0
+01/03/2015;Médios;Outras empresas;0
+01/04/2015;Médios;Outras empresas;0
+01/05/2015;Médios;Outras empresas;0
+01/06/2015;Médios;Outras empresas;0
+01/07/2015;Médios;Outras empresas;0
+01/08/2015;Médios;Outras empresas;0
+01/09/2015;Médios;Outras empresas;0
+01/10/2015;Médios;Outras empresas;0
+01/11/2015;Médios;Outras empresas;0
+01/12/2015;Médios;Outras empresas;1
+01/01/2015;Semipesados;Agrale;2
+01/02/2015;Semipesados;Agrale;2
+01/03/2015;Semipesados;Agrale;3
+01/04/2015;Semipesados;Agrale;1
+01/05/2015;Semipesados;Agrale;2
+01/06/2015;Semipesados;Agrale;1
+01/07/2015;Semipesados;Agrale;0
+01/08/2015;Semipesados;Agrale;3
+01/09/2015;Semipesados;Agrale;1
+01/10/2015;Semipesados;Agrale;0
+01/11/2015;Semipesados;Agrale;0
+01/12/2015;Semipesados;Agrale;2
+01/01/2015;Semipesados;Ford;460
+01/02/2015;Semipesados;Ford;319
+01/03/2015;Semipesados;Ford;303
+01/04/2015;Semipesados;Ford;253
+01/05/2015;Semipesados;Ford;279
+01/06/2015;Semipesados;Ford;330
+01/07/2015;Semipesados;Ford;322
+01/08/2015;Semipesados;Ford;271
+01/09/2015;Semipesados;Ford;249
+01/10/2015;Semipesados;Ford;272
+01/11/2015;Semipesados;Ford;172
+01/12/2015;Semipesados;Ford;198
+01/01/2015;Semipesados;INTERNATIONAL;0
+01/02/2015;Semipesados;INTERNATIONAL;1
+01/03/2015;Semipesados;INTERNATIONAL;0
+01/04/2015;Semipesados;INTERNATIONAL;0
+01/05/2015;Semipesados;INTERNATIONAL;0
+01/06/2015;Semipesados;INTERNATIONAL;1
+01/07/2015;Semipesados;INTERNATIONAL;0
+01/08/2015;Semipesados;INTERNATIONAL;0
+01/09/2015;Semipesados;INTERNATIONAL;0
+01/10/2015;Semipesados;INTERNATIONAL;0
+01/11/2015;Semipesados;INTERNATIONAL;0
+01/12/2015;Semipesados;INTERNATIONAL;2
+01/01/2015;Semipesados;Iveco;133
+01/02/2015;Semipesados;Iveco;127
+01/03/2015;Semipesados;Iveco;228
+01/04/2015;Semipesados;Iveco;155
+01/05/2015;Semipesados;Iveco;209
+01/06/2015;Semipesados;Iveco;221
+01/07/2015;Semipesados;Iveco;146
+01/08/2015;Semipesados;Iveco;90
+01/09/2015;Semipesados;Iveco;94
+01/10/2015;Semipesados;Iveco;106
+01/11/2015;Semipesados;Iveco;57
+01/12/2015;Semipesados;Iveco;184
+01/01/2015;Semipesados;MAN;857
+01/02/2015;Semipesados;MAN;644
+01/03/2015;Semipesados;MAN;853
+01/04/2015;Semipesados;MAN;603
+01/05/2015;Semipesados;MAN;603
+01/06/2015;Semipesados;MAN;616
+01/07/2015;Semipesados;MAN;642
+01/08/2015;Semipesados;MAN;553
+01/09/2015;Semipesados;MAN;748
+01/10/2015;Semipesados;MAN;494
+01/11/2015;Semipesados;MAN;482
+01/12/2015;Semipesados;MAN;492
+01/01/2015;Semipesados;Mercedes-Benz;604
+01/02/2015;Semipesados;Mercedes-Benz;420
+01/03/2015;Semipesados;Mercedes-Benz;454
+01/04/2015;Semipesados;Mercedes-Benz;470
+01/05/2015;Semipesados;Mercedes-Benz;493
+01/06/2015;Semipesados;Mercedes-Benz;588
+01/07/2015;Semipesados;Mercedes-Benz;618
+01/08/2015;Semipesados;Mercedes-Benz;510
+01/09/2015;Semipesados;Mercedes-Benz;538
+01/10/2015;Semipesados;Mercedes-Benz;595
+01/11/2015;Semipesados;Mercedes-Benz;418
+01/12/2015;Semipesados;Mercedes-Benz;511
+01/01/2015;Semipesados;SCANIA;73
+01/02/2015;Semipesados;SCANIA;54
+01/03/2015;Semipesados;SCANIA;77
+01/04/2015;Semipesados;SCANIA;87
+01/05/2015;Semipesados;SCANIA;100
+01/06/2015;Semipesados;SCANIA;107
+01/07/2015;Semipesados;SCANIA;114
+01/08/2015;Semipesados;SCANIA;86
+01/09/2015;Semipesados;SCANIA;100
+01/10/2015;Semipesados;SCANIA;108
+01/11/2015;Semipesados;SCANIA;74
+01/12/2015;Semipesados;SCANIA;53
+01/01/2015;Semipesados;VOLVO;343
+01/02/2015;Semipesados;VOLVO;257
+01/03/2015;Semipesados;VOLVO;254
+01/04/2015;Semipesados;VOLVO;205
+01/05/2015;Semipesados;VOLVO;214
+01/06/2015;Semipesados;VOLVO;245
+01/07/2015;Semipesados;VOLVO;268
+01/08/2015;Semipesados;VOLVO;249
+01/09/2015;Semipesados;VOLVO;193
+01/10/2015;Semipesados;VOLVO;201
+01/11/2015;Semipesados;VOLVO;191
+01/12/2015;Semipesados;VOLVO;211
+01/01/2015;Semipesados;Outras empresas;8
+01/02/2015;Semipesados;Outras empresas;11
+01/03/2015;Semipesados;Outras empresas;5
+01/04/2015;Semipesados;Outras empresas;6
+01/05/2015;Semipesados;Outras empresas;2
+01/06/2015;Semipesados;Outras empresas;4
+01/07/2015;Semipesados;Outras empresas;22
+01/08/2015;Semipesados;Outras empresas;3
+01/09/2015;Semipesados;Outras empresas;4
+01/10/2015;Semipesados;Outras empresas;1
+01/11/2015;Semipesados;Outras empresas;2
+01/12/2015;Semipesados;Outras empresas;3
+01/01/2015;Pesados;DAF;34
+01/02/2015;Pesados;DAF;23
+01/03/2015;Pesados;DAF;26
+01/04/2015;Pesados;DAF;34
+01/05/2015;Pesados;DAF;30
+01/06/2015;Pesados;DAF;28
+01/07/2015;Pesados;DAF;42
+01/08/2015;Pesados;DAF;41
+01/09/2015;Pesados;DAF;54
+01/10/2015;Pesados;DAF;38
+01/11/2015;Pesados;DAF;35
+01/12/2015;Pesados;DAF;58
+01/01/2015;Pesados;Ford;37
+01/02/2015;Pesados;Ford;21
+01/03/2015;Pesados;Ford;16
+01/04/2015;Pesados;Ford;34
+01/05/2015;Pesados;Ford;35
+01/06/2015;Pesados;Ford;49
+01/07/2015;Pesados;Ford;24
+01/08/2015;Pesados;Ford;33
+01/09/2015;Pesados;Ford;31
+01/10/2015;Pesados;Ford;20
+01/11/2015;Pesados;Ford;13
+01/12/2015;Pesados;Ford;35
+01/01/2015;Pesados;INTERNATIONAL;2
+01/02/2015;Pesados;INTERNATIONAL;0
+01/03/2015;Pesados;INTERNATIONAL;3
+01/04/2015;Pesados;INTERNATIONAL;2
+01/05/2015;Pesados;INTERNATIONAL;0
+01/06/2015;Pesados;INTERNATIONAL;0
+01/07/2015;Pesados;INTERNATIONAL;1
+01/08/2015;Pesados;INTERNATIONAL;1
+01/09/2015;Pesados;INTERNATIONAL;0
+01/10/2015;Pesados;INTERNATIONAL;0
+01/11/2015;Pesados;INTERNATIONAL;2
+01/12/2015;Pesados;INTERNATIONAL;0
+01/01/2015;Pesados;Iveco;112
+01/02/2015;Pesados;Iveco;57
+01/03/2015;Pesados;Iveco;56
+01/04/2015;Pesados;Iveco;61
+01/05/2015;Pesados;Iveco;57
+01/06/2015;Pesados;Iveco;58
+01/07/2015;Pesados;Iveco;98
+01/08/2015;Pesados;Iveco;89
+01/09/2015;Pesados;Iveco;80
+01/10/2015;Pesados;Iveco;106
+01/11/2015;Pesados;Iveco;67
+01/12/2015;Pesados;Iveco;111
+01/01/2015;Pesados;MAN;300
+01/02/2015;Pesados;MAN;154
+01/03/2015;Pesados;MAN;216
+01/04/2015;Pesados;MAN;128
+01/05/2015;Pesados;MAN;156
+01/06/2015;Pesados;MAN;172
+01/07/2015;Pesados;MAN;146
+01/08/2015;Pesados;MAN;128
+01/09/2015;Pesados;MAN;188
+01/10/2015;Pesados;MAN;309
+01/11/2015;Pesados;MAN;175
+01/12/2015;Pesados;MAN;307
+01/01/2015;Pesados;Mercedes-Benz;401
+01/02/2015;Pesados;Mercedes-Benz;240
+01/03/2015;Pesados;Mercedes-Benz;450
+01/04/2015;Pesados;Mercedes-Benz;447
+01/05/2015;Pesados;Mercedes-Benz;460
+01/06/2015;Pesados;Mercedes-Benz;398
+01/07/2015;Pesados;Mercedes-Benz;542
+01/08/2015;Pesados;Mercedes-Benz;458
+01/09/2015;Pesados;Mercedes-Benz;328
+01/10/2015;Pesados;Mercedes-Benz;375
+01/11/2015;Pesados;Mercedes-Benz;282
+01/12/2015;Pesados;Mercedes-Benz;350
+01/01/2015;Pesados;SCANIA;481
+01/02/2015;Pesados;SCANIA;299
+01/03/2015;Pesados;SCANIA;242
+01/04/2015;Pesados;SCANIA;374
+01/05/2015;Pesados;SCANIA;309
+01/06/2015;Pesados;SCANIA;318
+01/07/2015;Pesados;SCANIA;321
+01/08/2015;Pesados;SCANIA;332
+01/09/2015;Pesados;SCANIA;399
+01/10/2015;Pesados;SCANIA;395
+01/11/2015;Pesados;SCANIA;312
+01/12/2015;Pesados;SCANIA;409
+01/01/2015;Pesados;Shacman;0
+01/02/2015;Pesados;Shacman;0
+01/03/2015;Pesados;Shacman;1
+01/04/2015;Pesados;Shacman;1
+01/05/2015;Pesados;Shacman;0
+01/06/2015;Pesados;Shacman;0
+01/07/2015;Pesados;Shacman;0
+01/08/2015;Pesados;Shacman;0
+01/09/2015;Pesados;Shacman;0
+01/10/2015;Pesados;Shacman;0
+01/11/2015;Pesados;Shacman;0
+01/12/2015;Pesados;Shacman;0
+01/01/2015;Pesados;VOLVO;505
+01/02/2015;Pesados;VOLVO;255
+01/03/2015;Pesados;VOLVO;446
+01/04/2015;Pesados;VOLVO;460
+01/05/2015;Pesados;VOLVO;607
+01/06/2015;Pesados;VOLVO;516
+01/07/2015;Pesados;VOLVO;493
+01/08/2015;Pesados;VOLVO;430
+01/09/2015;Pesados;VOLVO;458
+01/10/2015;Pesados;VOLVO;542
+01/11/2015;Pesados;VOLVO;368
+01/12/2015;Pesados;VOLVO;438
+01/01/2015;Pesados;Outras empresas;24
+01/02/2015;Pesados;Outras empresas;12
+01/03/2015;Pesados;Outras empresas;5
+01/04/2015;Pesados;Outras empresas;6
+01/05/2015;Pesados;Outras empresas;6
+01/06/2015;Pesados;Outras empresas;4
+01/07/2015;Pesados;Outras empresas;2
+01/08/2015;Pesados;Outras empresas;18
+01/09/2015;Pesados;Outras empresas;4
+01/10/2015;Pesados;Outras empresas;3
+01/11/2015;Pesados;Outras empresas;3
+01/12/2015;Pesados;Outras empresas;1
+01/01/2016;Semileves;Agrale;1
+01/02/2016;Semileves;Agrale;0
+01/03/2016;Semileves;Agrale;0
+01/04/2016;Semileves;Agrale;3
+01/05/2016;Semileves;Agrale;2
+01/06/2016;Semileves;Agrale;2
+01/07/2016;Semileves;Agrale;0
+01/08/2016;Semileves;Agrale;1
+01/09/2016;Semileves;Agrale;4
+01/10/2016;Semileves;Agrale;0
+01/11/2016;Semileves;Agrale;4
+01/12/2016;Semileves;Agrale;1
+01/01/2016;Semileves;FCA (Fiat/Dodge);71
+01/02/2016;Semileves;FCA (Fiat/Dodge);49
+01/03/2016;Semileves;FCA (Fiat/Dodge);43
+01/04/2016;Semileves;FCA (Fiat/Dodge);24
+01/05/2016;Semileves;FCA (Fiat/Dodge);34
+01/06/2016;Semileves;FCA (Fiat/Dodge);37
+01/07/2016;Semileves;FCA (Fiat/Dodge);15
+01/08/2016;Semileves;FCA (Fiat/Dodge);35
+01/09/2016;Semileves;FCA (Fiat/Dodge);46
+01/10/2016;Semileves;FCA (Fiat/Dodge);35
+01/11/2016;Semileves;FCA (Fiat/Dodge);39
+01/12/2016;Semileves;FCA (Fiat/Dodge);31
+01/01/2016;Semileves;Ford;57
+01/02/2016;Semileves;Ford;58
+01/03/2016;Semileves;Ford;87
+01/04/2016;Semileves;Ford;96
+01/05/2016;Semileves;Ford;106
+01/06/2016;Semileves;Ford;101
+01/07/2016;Semileves;Ford;90
+01/08/2016;Semileves;Ford;105
+01/09/2016;Semileves;Ford;116
+01/10/2016;Semileves;Ford;75
+01/11/2016;Semileves;Ford;80
+01/12/2016;Semileves;Ford;66
+01/01/2016;Semileves;Iveco;24
+01/02/2016;Semileves;Iveco;33
+01/03/2016;Semileves;Iveco;38
+01/04/2016;Semileves;Iveco;37
+01/05/2016;Semileves;Iveco;30
+01/06/2016;Semileves;Iveco;50
+01/07/2016;Semileves;Iveco;14
+01/08/2016;Semileves;Iveco;30
+01/09/2016;Semileves;Iveco;110
+01/10/2016;Semileves;Iveco;45
+01/11/2016;Semileves;Iveco;37
+01/12/2016;Semileves;Iveco;89
+01/01/2016;Semileves;MAN;41
+01/02/2016;Semileves;MAN;12
+01/03/2016;Semileves;MAN;31
+01/04/2016;Semileves;MAN;27
+01/05/2016;Semileves;MAN;39
+01/06/2016;Semileves;MAN;25
+01/07/2016;Semileves;MAN;39
+01/08/2016;Semileves;MAN;48
+01/09/2016;Semileves;MAN;39
+01/10/2016;Semileves;MAN;31
+01/11/2016;Semileves;MAN;33
+01/12/2016;Semileves;MAN;27
+01/01/2016;Semileves;Mercedes-Benz;72
+01/02/2016;Semileves;Mercedes-Benz;94
+01/03/2016;Semileves;Mercedes-Benz;92
+01/04/2016;Semileves;Mercedes-Benz;74
+01/05/2016;Semileves;Mercedes-Benz;107
+01/06/2016;Semileves;Mercedes-Benz;104
+01/07/2016;Semileves;Mercedes-Benz;106
+01/08/2016;Semileves;Mercedes-Benz;82
+01/09/2016;Semileves;Mercedes-Benz;52
+01/10/2016;Semileves;Mercedes-Benz;64
+01/11/2016;Semileves;Mercedes-Benz;87
+01/12/2016;Semileves;Mercedes-Benz;110
+01/01/2016;Semileves;Outras empresas;1
+01/02/2016;Semileves;Outras empresas;2
+01/03/2016;Semileves;Outras empresas;8
+01/04/2016;Semileves;Outras empresas;1
+01/05/2016;Semileves;Outras empresas;2
+01/06/2016;Semileves;Outras empresas;1
+01/07/2016;Semileves;Outras empresas;5
+01/08/2016;Semileves;Outras empresas;1
+01/09/2016;Semileves;Outras empresas;2
+01/10/2016;Semileves;Outras empresas;3
+01/11/2016;Semileves;Outras empresas;0
+01/12/2016;Semileves;Outras empresas;1
+01/01/2016;Leves;Agrale;17
+01/02/2016;Leves;Agrale;11
+01/03/2016;Leves;Agrale;35
+01/04/2016;Leves;Agrale;10
+01/05/2016;Leves;Agrale;13
+01/06/2016;Leves;Agrale;10
+01/07/2016;Leves;Agrale;10
+01/08/2016;Leves;Agrale;10
+01/09/2016;Leves;Agrale;9
+01/10/2016;Leves;Agrale;11
+01/11/2016;Leves;Agrale;8
+01/12/2016;Leves;Agrale;8
+01/01/2016;Leves;Caoa - Hyundai;1
+01/02/2016;Leves;Caoa - Hyundai;1
+01/03/2016;Leves;Caoa - Hyundai;1
+01/04/2016;Leves;Caoa - Hyundai;7
+01/05/2016;Leves;Caoa - Hyundai;6
+01/06/2016;Leves;Caoa - Hyundai;10
+01/07/2016;Leves;Caoa - Hyundai;4
+01/08/2016;Leves;Caoa - Hyundai;13
+01/09/2016;Leves;Caoa - Hyundai;3
+01/10/2016;Leves;Caoa - Hyundai;2
+01/11/2016;Leves;Caoa - Hyundai;3
+01/12/2016;Leves;Caoa - Hyundai;1
+01/01/2016;Leves;Ford;195
+01/02/2016;Leves;Ford;242
+01/03/2016;Leves;Ford;253
+01/04/2016;Leves;Ford;276
+01/05/2016;Leves;Ford;265
+01/06/2016;Leves;Ford;297
+01/07/2016;Leves;Ford;230
+01/08/2016;Leves;Ford;259
+01/09/2016;Leves;Ford;270
+01/10/2016;Leves;Ford;218
+01/11/2016;Leves;Ford;201
+01/12/2016;Leves;Ford;222
+01/01/2016;Leves;Iveco;45
+01/02/2016;Leves;Iveco;64
+01/03/2016;Leves;Iveco;59
+01/04/2016;Leves;Iveco;99
+01/05/2016;Leves;Iveco;65
+01/06/2016;Leves;Iveco;60
+01/07/2016;Leves;Iveco;63
+01/08/2016;Leves;Iveco;41
+01/09/2016;Leves;Iveco;35
+01/10/2016;Leves;Iveco;27
+01/11/2016;Leves;Iveco;25
+01/12/2016;Leves;Iveco;35
+01/01/2016;Leves;MAN;497
+01/02/2016;Leves;MAN;419
+01/03/2016;Leves;MAN;386
+01/04/2016;Leves;MAN;376
+01/05/2016;Leves;MAN;410
+01/06/2016;Leves;MAN;435
+01/07/2016;Leves;MAN;606
+01/08/2016;Leves;MAN;539
+01/09/2016;Leves;MAN;369
+01/10/2016;Leves;MAN;378
+01/11/2016;Leves;MAN;409
+01/12/2016;Leves;MAN;348
+01/01/2016;Leves;Mercedes-Benz;336
+01/02/2016;Leves;Mercedes-Benz;310
+01/03/2016;Leves;Mercedes-Benz;380
+01/04/2016;Leves;Mercedes-Benz;350
+01/05/2016;Leves;Mercedes-Benz;321
+01/06/2016;Leves;Mercedes-Benz;292
+01/07/2016;Leves;Mercedes-Benz;307
+01/08/2016;Leves;Mercedes-Benz;366
+01/09/2016;Leves;Mercedes-Benz;397
+01/10/2016;Leves;Mercedes-Benz;301
+01/11/2016;Leves;Mercedes-Benz;353
+01/12/2016;Leves;Mercedes-Benz;470
+01/01/2016;Leves;Outras empresas;2
+01/02/2016;Leves;Outras empresas;3
+01/03/2016;Leves;Outras empresas;5
+01/04/2016;Leves;Outras empresas;4
+01/05/2016;Leves;Outras empresas;3
+01/06/2016;Leves;Outras empresas;3
+01/07/2016;Leves;Outras empresas;14
+01/08/2016;Leves;Outras empresas;9
+01/09/2016;Leves;Outras empresas;5
+01/10/2016;Leves;Outras empresas;4
+01/11/2016;Leves;Outras empresas;3
+01/12/2016;Leves;Outras empresas;1
+01/01/2016;Médios;Agrale;8
+01/02/2016;Médios;Agrale;0
+01/03/2016;Médios;Agrale;5
+01/04/2016;Médios;Agrale;1
+01/05/2016;Médios;Agrale;0
+01/06/2016;Médios;Agrale;5
+01/07/2016;Médios;Agrale;0
+01/08/2016;Médios;Agrale;3
+01/09/2016;Médios;Agrale;1
+01/10/2016;Médios;Agrale;0
+01/11/2016;Médios;Agrale;1
+01/12/2016;Médios;Agrale;0
+01/01/2016;Médios;Ford;136
+01/02/2016;Médios;Ford;91
+01/03/2016;Médios;Ford;135
+01/04/2016;Médios;Ford;127
+01/05/2016;Médios;Ford;117
+01/06/2016;Médios;Ford;118
+01/07/2016;Médios;Ford;119
+01/08/2016;Médios;Ford;127
+01/09/2016;Médios;Ford;116
+01/10/2016;Médios;Ford;110
+01/11/2016;Médios;Ford;118
+01/12/2016;Médios;Ford;129
+01/01/2016;Médios;Iveco;10
+01/02/2016;Médios;Iveco;5
+01/03/2016;Médios;Iveco;11
+01/04/2016;Médios;Iveco;8
+01/05/2016;Médios;Iveco;2
+01/06/2016;Médios;Iveco;1
+01/07/2016;Médios;Iveco;9
+01/08/2016;Médios;Iveco;2
+01/09/2016;Médios;Iveco;1
+01/10/2016;Médios;Iveco;1
+01/11/2016;Médios;Iveco;0
+01/12/2016;Médios;Iveco;27
+01/01/2016;Médios;MAN;187
+01/02/2016;Médios;MAN;96
+01/03/2016;Médios;MAN;151
+01/04/2016;Médios;MAN;135
+01/05/2016;Médios;MAN;124
+01/06/2016;Médios;MAN;162
+01/07/2016;Médios;MAN;120
+01/08/2016;Médios;MAN;135
+01/09/2016;Médios;MAN;111
+01/10/2016;Médios;MAN;105
+01/11/2016;Médios;MAN;104
+01/12/2016;Médios;MAN;119
+01/01/2016;Médios;Mercedes-Benz;93
+01/02/2016;Médios;Mercedes-Benz;75
+01/03/2016;Médios;Mercedes-Benz;88
+01/04/2016;Médios;Mercedes-Benz;99
+01/05/2016;Médios;Mercedes-Benz;88
+01/06/2016;Médios;Mercedes-Benz;117
+01/07/2016;Médios;Mercedes-Benz;114
+01/08/2016;Médios;Mercedes-Benz;92
+01/09/2016;Médios;Mercedes-Benz;81
+01/10/2016;Médios;Mercedes-Benz;88
+01/11/2016;Médios;Mercedes-Benz;91
+01/12/2016;Médios;Mercedes-Benz;101
+01/01/2016;Médios;Outras empresas;0
+01/02/2016;Médios;Outras empresas;0
+01/03/2016;Médios;Outras empresas;0
+01/04/2016;Médios;Outras empresas;0
+01/05/2016;Médios;Outras empresas;0
+01/06/2016;Médios;Outras empresas;0
+01/07/2016;Médios;Outras empresas;0
+01/08/2016;Médios;Outras empresas;1
+01/09/2016;Médios;Outras empresas;0
+01/10/2016;Médios;Outras empresas;0
+01/11/2016;Médios;Outras empresas;0
+01/12/2016;Médios;Outras empresas;0
+01/01/2016;Semipesados;Agrale;2
+01/02/2016;Semipesados;Agrale;1
+01/03/2016;Semipesados;Agrale;1
+01/04/2016;Semipesados;Agrale;0
+01/05/2016;Semipesados;Agrale;0
+01/06/2016;Semipesados;Agrale;0
+01/07/2016;Semipesados;Agrale;0
+01/08/2016;Semipesados;Agrale;0
+01/09/2016;Semipesados;Agrale;0
+01/10/2016;Semipesados;Agrale;0
+01/11/2016;Semipesados;Agrale;0
+01/12/2016;Semipesados;Agrale;0
+01/01/2016;Semipesados;Ford;168
+01/02/2016;Semipesados;Ford;183
+01/03/2016;Semipesados;Ford;172
+01/04/2016;Semipesados;Ford;155
+01/05/2016;Semipesados;Ford;161
+01/06/2016;Semipesados;Ford;167
+01/07/2016;Semipesados;Ford;174
+01/08/2016;Semipesados;Ford;183
+01/09/2016;Semipesados;Ford;217
+01/10/2016;Semipesados;Ford;145
+01/11/2016;Semipesados;Ford;152
+01/12/2016;Semipesados;Ford;171
+01/01/2016;Semipesados;INTERNATIONAL;0
+01/02/2016;Semipesados;INTERNATIONAL;0
+01/03/2016;Semipesados;INTERNATIONAL;0
+01/04/2016;Semipesados;INTERNATIONAL;5
+01/05/2016;Semipesados;INTERNATIONAL;0
+01/06/2016;Semipesados;INTERNATIONAL;0
+01/07/2016;Semipesados;INTERNATIONAL;1
+01/08/2016;Semipesados;INTERNATIONAL;1
+01/09/2016;Semipesados;INTERNATIONAL;0
+01/10/2016;Semipesados;INTERNATIONAL;0
+01/11/2016;Semipesados;INTERNATIONAL;1
+01/12/2016;Semipesados;INTERNATIONAL;0
+01/01/2016;Semipesados;Iveco;77
+01/02/2016;Semipesados;Iveco;66
+01/03/2016;Semipesados;Iveco;72
+01/04/2016;Semipesados;Iveco;76
+01/05/2016;Semipesados;Iveco;71
+01/06/2016;Semipesados;Iveco;70
+01/07/2016;Semipesados;Iveco;63
+01/08/2016;Semipesados;Iveco;63
+01/09/2016;Semipesados;Iveco;58
+01/10/2016;Semipesados;Iveco;65
+01/11/2016;Semipesados;Iveco;29
+01/12/2016;Semipesados;Iveco;93
+01/01/2016;Semipesados;MAN;363
+01/02/2016;Semipesados;MAN;370
+01/03/2016;Semipesados;MAN;531
+01/04/2016;Semipesados;MAN;413
+01/05/2016;Semipesados;MAN;358
+01/06/2016;Semipesados;MAN;444
+01/07/2016;Semipesados;MAN;471
+01/08/2016;Semipesados;MAN;371
+01/09/2016;Semipesados;MAN;380
+01/10/2016;Semipesados;MAN;364
+01/11/2016;Semipesados;MAN;361
+01/12/2016;Semipesados;MAN;460
+01/01/2016;Semipesados;Mercedes-Benz;406
+01/02/2016;Semipesados;Mercedes-Benz;339
+01/03/2016;Semipesados;Mercedes-Benz;390
+01/04/2016;Semipesados;Mercedes-Benz;342
+01/05/2016;Semipesados;Mercedes-Benz;350
+01/06/2016;Semipesados;Mercedes-Benz;361
+01/07/2016;Semipesados;Mercedes-Benz;373
+01/08/2016;Semipesados;Mercedes-Benz;384
+01/09/2016;Semipesados;Mercedes-Benz;475
+01/10/2016;Semipesados;Mercedes-Benz;349
+01/11/2016;Semipesados;Mercedes-Benz;389
+01/12/2016;Semipesados;Mercedes-Benz;460
+01/01/2016;Semipesados;SCANIA;53
+01/02/2016;Semipesados;SCANIA;32
+01/03/2016;Semipesados;SCANIA;46
+01/04/2016;Semipesados;SCANIA;52
+01/05/2016;Semipesados;SCANIA;65
+01/06/2016;Semipesados;SCANIA;64
+01/07/2016;Semipesados;SCANIA;62
+01/08/2016;Semipesados;SCANIA;72
+01/09/2016;Semipesados;SCANIA;66
+01/10/2016;Semipesados;SCANIA;70
+01/11/2016;Semipesados;SCANIA;57
+01/12/2016;Semipesados;SCANIA;64
+01/01/2016;Semipesados;VOLVO;153
+01/02/2016;Semipesados;VOLVO;117
+01/03/2016;Semipesados;VOLVO;168
+01/04/2016;Semipesados;VOLVO;104
+01/05/2016;Semipesados;VOLVO;108
+01/06/2016;Semipesados;VOLVO;118
+01/07/2016;Semipesados;VOLVO;136
+01/08/2016;Semipesados;VOLVO;128
+01/09/2016;Semipesados;VOLVO;105
+01/10/2016;Semipesados;VOLVO;92
+01/11/2016;Semipesados;VOLVO;72
+01/12/2016;Semipesados;VOLVO;70
+01/01/2016;Semipesados;Outras empresas;3
+01/02/2016;Semipesados;Outras empresas;2
+01/03/2016;Semipesados;Outras empresas;5
+01/04/2016;Semipesados;Outras empresas;4
+01/05/2016;Semipesados;Outras empresas;1
+01/06/2016;Semipesados;Outras empresas;0
+01/07/2016;Semipesados;Outras empresas;1
+01/08/2016;Semipesados;Outras empresas;0
+01/09/2016;Semipesados;Outras empresas;1
+01/10/2016;Semipesados;Outras empresas;8
+01/11/2016;Semipesados;Outras empresas;5
+01/12/2016;Semipesados;Outras empresas;7
+01/01/2016;Pesados;DAF;51
+01/02/2016;Pesados;DAF;32
+01/03/2016;Pesados;DAF;49
+01/04/2016;Pesados;DAF;59
+01/05/2016;Pesados;DAF;48
+01/06/2016;Pesados;DAF;38
+01/07/2016;Pesados;DAF;92
+01/08/2016;Pesados;DAF;67
+01/09/2016;Pesados;DAF;56
+01/10/2016;Pesados;DAF;42
+01/11/2016;Pesados;DAF;47
+01/12/2016;Pesados;DAF;92
+01/01/2016;Pesados;Ford;48
+01/02/2016;Pesados;Ford;20
+01/03/2016;Pesados;Ford;30
+01/04/2016;Pesados;Ford;26
+01/05/2016;Pesados;Ford;26
+01/06/2016;Pesados;Ford;21
+01/07/2016;Pesados;Ford;29
+01/08/2016;Pesados;Ford;18
+01/09/2016;Pesados;Ford;13
+01/10/2016;Pesados;Ford;12
+01/11/2016;Pesados;Ford;35
+01/12/2016;Pesados;Ford;23
+01/01/2016;Pesados;INTERNATIONAL;0
+01/02/2016;Pesados;INTERNATIONAL;0
+01/03/2016;Pesados;INTERNATIONAL;1
+01/04/2016;Pesados;INTERNATIONAL;0
+01/05/2016;Pesados;INTERNATIONAL;1
+01/06/2016;Pesados;INTERNATIONAL;3
+01/07/2016;Pesados;INTERNATIONAL;3
+01/08/2016;Pesados;INTERNATIONAL;0
+01/09/2016;Pesados;INTERNATIONAL;0
+01/10/2016;Pesados;INTERNATIONAL;3
+01/11/2016;Pesados;INTERNATIONAL;0
+01/12/2016;Pesados;INTERNATIONAL;1
+01/01/2016;Pesados;Iveco;62
+01/02/2016;Pesados;Iveco;51
+01/03/2016;Pesados;Iveco;61
+01/04/2016;Pesados;Iveco;62
+01/05/2016;Pesados;Iveco;40
+01/06/2016;Pesados;Iveco;42
+01/07/2016;Pesados;Iveco;52
+01/08/2016;Pesados;Iveco;44
+01/09/2016;Pesados;Iveco;26
+01/10/2016;Pesados;Iveco;25
+01/11/2016;Pesados;Iveco;24
+01/12/2016;Pesados;Iveco;49
+01/01/2016;Pesados;MAN;239
+01/02/2016;Pesados;MAN;134
+01/03/2016;Pesados;MAN;125
+01/04/2016;Pesados;MAN;158
+01/05/2016;Pesados;MAN;143
+01/06/2016;Pesados;MAN;123
+01/07/2016;Pesados;MAN;267
+01/08/2016;Pesados;MAN;109
+01/09/2016;Pesados;MAN;114
+01/10/2016;Pesados;MAN;79
+01/11/2016;Pesados;MAN;99
+01/12/2016;Pesados;MAN;101
+01/01/2016;Pesados;Mercedes-Benz;308
+01/02/2016;Pesados;Mercedes-Benz;355
+01/03/2016;Pesados;Mercedes-Benz;629
+01/04/2016;Pesados;Mercedes-Benz;404
+01/05/2016;Pesados;Mercedes-Benz;333
+01/06/2016;Pesados;Mercedes-Benz;244
+01/07/2016;Pesados;Mercedes-Benz;329
+01/08/2016;Pesados;Mercedes-Benz;337
+01/09/2016;Pesados;Mercedes-Benz;254
+01/10/2016;Pesados;Mercedes-Benz;206
+01/11/2016;Pesados;Mercedes-Benz;318
+01/12/2016;Pesados;Mercedes-Benz;269
+01/01/2016;Pesados;SCANIA;277
+01/02/2016;Pesados;SCANIA;199
+01/03/2016;Pesados;SCANIA;381
+01/04/2016;Pesados;SCANIA;224
+01/05/2016;Pesados;SCANIA;319
+01/06/2016;Pesados;SCANIA;364
+01/07/2016;Pesados;SCANIA;372
+01/08/2016;Pesados;SCANIA;302
+01/09/2016;Pesados;SCANIA;308
+01/10/2016;Pesados;SCANIA;264
+01/11/2016;Pesados;SCANIA;278
+01/12/2016;Pesados;SCANIA;254
+01/01/2016;Pesados;VOLVO;412
+01/02/2016;Pesados;VOLVO;382
+01/03/2016;Pesados;VOLVO;369
+01/04/2016;Pesados;VOLVO;362
+01/05/2016;Pesados;VOLVO;315
+01/06/2016;Pesados;VOLVO;295
+01/07/2016;Pesados;VOLVO;340
+01/08/2016;Pesados;VOLVO;387
+01/09/2016;Pesados;VOLVO;330
+01/10/2016;Pesados;VOLVO;207
+01/11/2016;Pesados;VOLVO;324
+01/12/2016;Pesados;VOLVO;520
+01/01/2016;Pesados;Outras empresas;0
+01/02/2016;Pesados;Outras empresas;3
+01/03/2016;Pesados;Outras empresas;5
+01/04/2016;Pesados;Outras empresas;2
+01/05/2016;Pesados;Outras empresas;3
+01/06/2016;Pesados;Outras empresas;16
+01/07/2016;Pesados;Outras empresas;54
+01/08/2016;Pesados;Outras empresas;35
+01/09/2016;Pesados;Outras empresas;24
+01/10/2016;Pesados;Outras empresas;15
+01/11/2016;Pesados;Outras empresas;13
+01/12/2016;Pesados;Outras empresas;30
+01/01/2017;Semileves;Agrale;1
+01/02/2017;Semileves;Agrale;0
+01/03/2017;Semileves;Agrale;2
+01/04/2017;Semileves;Agrale;1
+01/05/2017;Semileves;Agrale;0
+01/06/2017;Semileves;Agrale;0
+01/07/2017;Semileves;Agrale;0
+01/08/2017;Semileves;Agrale;0
+01/09/2017;Semileves;Agrale;1
+01/10/2017;Semileves;Agrale;1
+01/11/2017;Semileves;Agrale;0
+01/12/2017;Semileves;Agrale;2
+01/01/2017;Semileves;FCA (Fiat/Dodge);19
+01/02/2017;Semileves;FCA (Fiat/Dodge);27
+01/03/2017;Semileves;FCA (Fiat/Dodge);44
+01/04/2017;Semileves;FCA (Fiat/Dodge);41
+01/05/2017;Semileves;FCA (Fiat/Dodge);41
+01/06/2017;Semileves;FCA (Fiat/Dodge);62
+01/07/2017;Semileves;FCA (Fiat/Dodge);42
+01/08/2017;Semileves;FCA (Fiat/Dodge);33
+01/09/2017;Semileves;FCA (Fiat/Dodge);7
+01/10/2017;Semileves;FCA (Fiat/Dodge);6
+01/11/2017;Semileves;FCA (Fiat/Dodge);9
+01/12/2017;Semileves;FCA (Fiat/Dodge);2
+01/01/2017;Semileves;Ford;53
+01/02/2017;Semileves;Ford;69
+01/03/2017;Semileves;Ford;91
+01/04/2017;Semileves;Ford;68
+01/05/2017;Semileves;Ford;96
+01/06/2017;Semileves;Ford;78
+01/07/2017;Semileves;Ford;110
+01/08/2017;Semileves;Ford;88
+01/09/2017;Semileves;Ford;84
+01/10/2017;Semileves;Ford;70
+01/11/2017;Semileves;Ford;84
+01/12/2017;Semileves;Ford;83
+01/01/2017;Semileves;Iveco;20
+01/02/2017;Semileves;Iveco;29
+01/03/2017;Semileves;Iveco;31
+01/04/2017;Semileves;Iveco;14
+01/05/2017;Semileves;Iveco;22
+01/06/2017;Semileves;Iveco;14
+01/07/2017;Semileves;Iveco;27
+01/08/2017;Semileves;Iveco;14
+01/09/2017;Semileves;Iveco;13
+01/10/2017;Semileves;Iveco;29
+01/11/2017;Semileves;Iveco;21
+01/12/2017;Semileves;Iveco;25
+01/01/2017;Semileves;MAN;18
+01/02/2017;Semileves;MAN;7
+01/03/2017;Semileves;MAN;33
+01/04/2017;Semileves;MAN;51
+01/05/2017;Semileves;MAN;24
+01/06/2017;Semileves;MAN;55
+01/07/2017;Semileves;MAN;53
+01/08/2017;Semileves;MAN;46
+01/09/2017;Semileves;MAN;47
+01/10/2017;Semileves;MAN;63
+01/11/2017;Semileves;MAN;75
+01/12/2017;Semileves;MAN;89
+01/01/2017;Semileves;Mercedes-Benz;72
+01/02/2017;Semileves;Mercedes-Benz;71
+01/03/2017;Semileves;Mercedes-Benz;132
+01/04/2017;Semileves;Mercedes-Benz;86
+01/05/2017;Semileves;Mercedes-Benz;101
+01/06/2017;Semileves;Mercedes-Benz;71
+01/07/2017;Semileves;Mercedes-Benz;91
+01/08/2017;Semileves;Mercedes-Benz;138
+01/09/2017;Semileves;Mercedes-Benz;133
+01/10/2017;Semileves;Mercedes-Benz;129
+01/11/2017;Semileves;Mercedes-Benz;197
+01/12/2017;Semileves;Mercedes-Benz;150
+01/01/2017;Semileves;Outras empresas;2
+01/02/2017;Semileves;Outras empresas;2
+01/03/2017;Semileves;Outras empresas;0
+01/04/2017;Semileves;Outras empresas;0
+01/05/2017;Semileves;Outras empresas;1
+01/06/2017;Semileves;Outras empresas;4
+01/07/2017;Semileves;Outras empresas;0
+01/08/2017;Semileves;Outras empresas;2
+01/09/2017;Semileves;Outras empresas;0
+01/10/2017;Semileves;Outras empresas;0
+01/11/2017;Semileves;Outras empresas;0
+01/12/2017;Semileves;Outras empresas;1
+01/01/2017;Leves;Agrale;6
+01/02/2017;Leves;Agrale;4
+01/03/2017;Leves;Agrale;5
+01/04/2017;Leves;Agrale;12
+01/05/2017;Leves;Agrale;14
+01/06/2017;Leves;Agrale;12
+01/07/2017;Leves;Agrale;11
+01/08/2017;Leves;Agrale;10
+01/09/2017;Leves;Agrale;5
+01/10/2017;Leves;Agrale;2
+01/11/2017;Leves;Agrale;6
+01/12/2017;Leves;Agrale;5
+01/01/2017;Leves;Caoa - Hyundai;0
+01/02/2017;Leves;Caoa - Hyundai;2
+01/03/2017;Leves;Caoa - Hyundai;2
+01/04/2017;Leves;Caoa - Hyundai;0
+01/05/2017;Leves;Caoa - Hyundai;0
+01/06/2017;Leves;Caoa - Hyundai;1
+01/07/2017;Leves;Caoa - Hyundai;2
+01/08/2017;Leves;Caoa - Hyundai;0
+01/09/2017;Leves;Caoa - Hyundai;0
+01/10/2017;Leves;Caoa - Hyundai;2
+01/11/2017;Leves;Caoa - Hyundai;2
+01/12/2017;Leves;Caoa - Hyundai;1
+01/01/2017;Leves;Ford;192
+01/02/2017;Leves;Ford;141
+01/03/2017;Leves;Ford;194
+01/04/2017;Leves;Ford;243
+01/05/2017;Leves;Ford;253
+01/06/2017;Leves;Ford;262
+01/07/2017;Leves;Ford;281
+01/08/2017;Leves;Ford;234
+01/09/2017;Leves;Ford;238
+01/10/2017;Leves;Ford;263
+01/11/2017;Leves;Ford;315
+01/12/2017;Leves;Ford;273
+01/01/2017;Leves;Iveco;11
+01/02/2017;Leves;Iveco;12
+01/03/2017;Leves;Iveco;13
+01/04/2017;Leves;Iveco;21
+01/05/2017;Leves;Iveco;24
+01/06/2017;Leves;Iveco;24
+01/07/2017;Leves;Iveco;25
+01/08/2017;Leves;Iveco;25
+01/09/2017;Leves;Iveco;29
+01/10/2017;Leves;Iveco;17
+01/11/2017;Leves;Iveco;19
+01/12/2017;Leves;Iveco;33
+01/01/2017;Leves;MAN;232
+01/02/2017;Leves;MAN;267
+01/03/2017;Leves;MAN;429
+01/04/2017;Leves;MAN;300
+01/05/2017;Leves;MAN;368
+01/06/2017;Leves;MAN;363
+01/07/2017;Leves;MAN;475
+01/08/2017;Leves;MAN;446
+01/09/2017;Leves;MAN;387
+01/10/2017;Leves;MAN;412
+01/11/2017;Leves;MAN;406
+01/12/2017;Leves;MAN;677
+01/01/2017;Leves;Mercedes-Benz;207
+01/02/2017;Leves;Mercedes-Benz;213
+01/03/2017;Leves;Mercedes-Benz;297
+01/04/2017;Leves;Mercedes-Benz;239
+01/05/2017;Leves;Mercedes-Benz;261
+01/06/2017;Leves;Mercedes-Benz;370
+01/07/2017;Leves;Mercedes-Benz;281
+01/08/2017;Leves;Mercedes-Benz;323
+01/09/2017;Leves;Mercedes-Benz;306
+01/10/2017;Leves;Mercedes-Benz;362
+01/11/2017;Leves;Mercedes-Benz;402
+01/12/2017;Leves;Mercedes-Benz;380
+01/01/2017;Leves;Outras empresas;1
+01/02/2017;Leves;Outras empresas;8
+01/03/2017;Leves;Outras empresas;2
+01/04/2017;Leves;Outras empresas;3
+01/05/2017;Leves;Outras empresas;3
+01/06/2017;Leves;Outras empresas;4
+01/07/2017;Leves;Outras empresas;5
+01/08/2017;Leves;Outras empresas;2
+01/09/2017;Leves;Outras empresas;2
+01/10/2017;Leves;Outras empresas;1
+01/11/2017;Leves;Outras empresas;9
+01/12/2017;Leves;Outras empresas;4
+01/01/2017;Médios;Agrale;1
+01/02/2017;Médios;Agrale;0
+01/03/2017;Médios;Agrale;0
+01/04/2017;Médios;Agrale;0
+01/05/2017;Médios;Agrale;2
+01/06/2017;Médios;Agrale;0
+01/07/2017;Médios;Agrale;2
+01/08/2017;Médios;Agrale;1
+01/09/2017;Médios;Agrale;5
+01/10/2017;Médios;Agrale;0
+01/11/2017;Médios;Agrale;2
+01/12/2017;Médios;Agrale;1
+01/01/2017;Médios;Ford;81
+01/02/2017;Médios;Ford;82
+01/03/2017;Médios;Ford;123
+01/04/2017;Médios;Ford;98
+01/05/2017;Médios;Ford;122
+01/06/2017;Médios;Ford;153
+01/07/2017;Médios;Ford;165
+01/08/2017;Médios;Ford;144
+01/09/2017;Médios;Ford;166
+01/10/2017;Médios;Ford;153
+01/11/2017;Médios;Ford;171
+01/12/2017;Médios;Ford;132
+01/01/2017;Médios;Iveco;0
+01/02/2017;Médios;Iveco;0
+01/03/2017;Médios;Iveco;1
+01/04/2017;Médios;Iveco;0
+01/05/2017;Médios;Iveco;0
+01/06/2017;Médios;Iveco;0
+01/07/2017;Médios;Iveco;1
+01/08/2017;Médios;Iveco;0
+01/09/2017;Médios;Iveco;0
+01/10/2017;Médios;Iveco;0
+01/11/2017;Médios;Iveco;0
+01/12/2017;Médios;Iveco;0
+01/01/2017;Médios;MAN;72
+01/02/2017;Médios;MAN;80
+01/03/2017;Médios;MAN;130
+01/04/2017;Médios;MAN;124
+01/05/2017;Médios;MAN;163
+01/06/2017;Médios;MAN;132
+01/07/2017;Médios;MAN;205
+01/08/2017;Médios;MAN;195
+01/09/2017;Médios;MAN;119
+01/10/2017;Médios;MAN;157
+01/11/2017;Médios;MAN;191
+01/12/2017;Médios;MAN;377
+01/01/2017;Médios;Mercedes-Benz;69
+01/02/2017;Médios;Mercedes-Benz;48
+01/03/2017;Médios;Mercedes-Benz;96
+01/04/2017;Médios;Mercedes-Benz;65
+01/05/2017;Médios;Mercedes-Benz;67
+01/06/2017;Médios;Mercedes-Benz;84
+01/07/2017;Médios;Mercedes-Benz;65
+01/08/2017;Médios;Mercedes-Benz;45
+01/09/2017;Médios;Mercedes-Benz;38
+01/10/2017;Médios;Mercedes-Benz;136
+01/11/2017;Médios;Mercedes-Benz;72
+01/12/2017;Médios;Mercedes-Benz;102
+01/01/2017;Médios;Outras empresas;1
+01/02/2017;Médios;Outras empresas;0
+01/03/2017;Médios;Outras empresas;1
+01/04/2017;Médios;Outras empresas;0
+01/05/2017;Médios;Outras empresas;1
+01/06/2017;Médios;Outras empresas;0
+01/07/2017;Médios;Outras empresas;0
+01/08/2017;Médios;Outras empresas;0
+01/09/2017;Médios;Outras empresas;1
+01/10/2017;Médios;Outras empresas;1
+01/11/2017;Médios;Outras empresas;0
+01/12/2017;Médios;Outras empresas;0
+01/01/2017;Semipesados;Agrale;0
+01/02/2017;Semipesados;Agrale;0
+01/03/2017;Semipesados;Agrale;1
+01/04/2017;Semipesados;Agrale;0
+01/05/2017;Semipesados;Agrale;0
+01/06/2017;Semipesados;Agrale;1
+01/07/2017;Semipesados;Agrale;0
+01/08/2017;Semipesados;Agrale;1
+01/09/2017;Semipesados;Agrale;0
+01/10/2017;Semipesados;Agrale;0
+01/11/2017;Semipesados;Agrale;1
+01/12/2017;Semipesados;Agrale;1
+01/01/2017;Semipesados;Ford;181
+01/02/2017;Semipesados;Ford;86
+01/03/2017;Semipesados;Ford;176
+01/04/2017;Semipesados;Ford;147
+01/05/2017;Semipesados;Ford;188
+01/06/2017;Semipesados;Ford;167
+01/07/2017;Semipesados;Ford;179
+01/08/2017;Semipesados;Ford;232
+01/09/2017;Semipesados;Ford;187
+01/10/2017;Semipesados;Ford;160
+01/11/2017;Semipesados;Ford;216
+01/12/2017;Semipesados;Ford;239
+01/01/2017;Semipesados;INTERNATIONAL;7
+01/02/2017;Semipesados;INTERNATIONAL;5
+01/03/2017;Semipesados;INTERNATIONAL;1
+01/04/2017;Semipesados;INTERNATIONAL;7
+01/05/2017;Semipesados;INTERNATIONAL;6
+01/06/2017;Semipesados;INTERNATIONAL;1
+01/07/2017;Semipesados;INTERNATIONAL;0
+01/08/2017;Semipesados;INTERNATIONAL;2
+01/09/2017;Semipesados;INTERNATIONAL;1
+01/10/2017;Semipesados;INTERNATIONAL;0
+01/11/2017;Semipesados;INTERNATIONAL;1
+01/12/2017;Semipesados;INTERNATIONAL;1
+01/01/2017;Semipesados;Iveco;72
+01/02/2017;Semipesados;Iveco;38
+01/03/2017;Semipesados;Iveco;63
+01/04/2017;Semipesados;Iveco;46
+01/05/2017;Semipesados;Iveco;66
+01/06/2017;Semipesados;Iveco;82
+01/07/2017;Semipesados;Iveco;59
+01/08/2017;Semipesados;Iveco;78
+01/09/2017;Semipesados;Iveco;61
+01/10/2017;Semipesados;Iveco;65
+01/11/2017;Semipesados;Iveco;49
+01/12/2017;Semipesados;Iveco;93
+01/01/2017;Semipesados;MAN;256
+01/02/2017;Semipesados;MAN;198
+01/03/2017;Semipesados;MAN;326
+01/04/2017;Semipesados;MAN;279
+01/05/2017;Semipesados;MAN;354
+01/06/2017;Semipesados;MAN;414
+01/07/2017;Semipesados;MAN;417
+01/08/2017;Semipesados;MAN;565
+01/09/2017;Semipesados;MAN;505
+01/10/2017;Semipesados;MAN;515
+01/11/2017;Semipesados;MAN;562
+01/12/2017;Semipesados;MAN;561
+01/01/2017;Semipesados;Mercedes-Benz;271
+01/02/2017;Semipesados;Mercedes-Benz;239
+01/03/2017;Semipesados;Mercedes-Benz;306
+01/04/2017;Semipesados;Mercedes-Benz;225
+01/05/2017;Semipesados;Mercedes-Benz;317
+01/06/2017;Semipesados;Mercedes-Benz;301
+01/07/2017;Semipesados;Mercedes-Benz;341
+01/08/2017;Semipesados;Mercedes-Benz;390
+01/09/2017;Semipesados;Mercedes-Benz;333
+01/10/2017;Semipesados;Mercedes-Benz;335
+01/11/2017;Semipesados;Mercedes-Benz;381
+01/12/2017;Semipesados;Mercedes-Benz;418
+01/01/2017;Semipesados;SCANIA;48
+01/02/2017;Semipesados;SCANIA;44
+01/03/2017;Semipesados;SCANIA;78
+01/04/2017;Semipesados;SCANIA;46
+01/05/2017;Semipesados;SCANIA;70
+01/06/2017;Semipesados;SCANIA;81
+01/07/2017;Semipesados;SCANIA;88
+01/08/2017;Semipesados;SCANIA;63
+01/09/2017;Semipesados;SCANIA;60
+01/10/2017;Semipesados;SCANIA;89
+01/11/2017;Semipesados;SCANIA;93
+01/12/2017;Semipesados;SCANIA;93
+01/01/2017;Semipesados;VOLVO;52
+01/02/2017;Semipesados;VOLVO;41
+01/03/2017;Semipesados;VOLVO;58
+01/04/2017;Semipesados;VOLVO;45
+01/05/2017;Semipesados;VOLVO;55
+01/06/2017;Semipesados;VOLVO;75
+01/07/2017;Semipesados;VOLVO;55
+01/08/2017;Semipesados;VOLVO;64
+01/09/2017;Semipesados;VOLVO;86
+01/10/2017;Semipesados;VOLVO;87
+01/11/2017;Semipesados;VOLVO;129
+01/12/2017;Semipesados;VOLVO;162
+01/01/2017;Semipesados;Outras empresas;0
+01/02/2017;Semipesados;Outras empresas;0
+01/03/2017;Semipesados;Outras empresas;1
+01/04/2017;Semipesados;Outras empresas;0
+01/05/2017;Semipesados;Outras empresas;0
+01/06/2017;Semipesados;Outras empresas;0
+01/07/2017;Semipesados;Outras empresas;0
+01/08/2017;Semipesados;Outras empresas;0
+01/09/2017;Semipesados;Outras empresas;1
+01/10/2017;Semipesados;Outras empresas;0
+01/11/2017;Semipesados;Outras empresas;2
+01/12/2017;Semipesados;Outras empresas;0
+01/01/2017;Pesados;DAF;61
+01/02/2017;Pesados;DAF;37
+01/03/2017;Pesados;DAF;66
+01/04/2017;Pesados;DAF;51
+01/05/2017;Pesados;DAF;78
+01/06/2017;Pesados;DAF;70
+01/07/2017;Pesados;DAF;90
+01/08/2017;Pesados;DAF;115
+01/09/2017;Pesados;DAF;107
+01/10/2017;Pesados;DAF;112
+01/11/2017;Pesados;DAF;159
+01/12/2017;Pesados;DAF;102
+01/01/2017;Pesados;Ford;12
+01/02/2017;Pesados;Ford;8
+01/03/2017;Pesados;Ford;27
+01/04/2017;Pesados;Ford;11
+01/05/2017;Pesados;Ford;17
+01/06/2017;Pesados;Ford;17
+01/07/2017;Pesados;Ford;15
+01/08/2017;Pesados;Ford;9
+01/09/2017;Pesados;Ford;17
+01/10/2017;Pesados;Ford;16
+01/11/2017;Pesados;Ford;37
+01/12/2017;Pesados;Ford;13
+01/01/2017;Pesados;INTERNATIONAL;1
+01/02/2017;Pesados;INTERNATIONAL;0
+01/03/2017;Pesados;INTERNATIONAL;0
+01/04/2017;Pesados;INTERNATIONAL;0
+01/05/2017;Pesados;INTERNATIONAL;0
+01/06/2017;Pesados;INTERNATIONAL;0
+01/07/2017;Pesados;INTERNATIONAL;0
+01/08/2017;Pesados;INTERNATIONAL;0
+01/09/2017;Pesados;INTERNATIONAL;0
+01/10/2017;Pesados;INTERNATIONAL;0
+01/11/2017;Pesados;INTERNATIONAL;0
+01/12/2017;Pesados;INTERNATIONAL;1
+01/01/2017;Pesados;Iveco;33
+01/02/2017;Pesados;Iveco;21
+01/03/2017;Pesados;Iveco;34
+01/04/2017;Pesados;Iveco;60
+01/05/2017;Pesados;Iveco;43
+01/06/2017;Pesados;Iveco;30
+01/07/2017;Pesados;Iveco;46
+01/08/2017;Pesados;Iveco;94
+01/09/2017;Pesados;Iveco;96
+01/10/2017;Pesados;Iveco;73
+01/11/2017;Pesados;Iveco;53
+01/12/2017;Pesados;Iveco;55
+01/01/2017;Pesados;MAN;73
+01/02/2017;Pesados;MAN;52
+01/03/2017;Pesados;MAN;90
+01/04/2017;Pesados;MAN;239
+01/05/2017;Pesados;MAN;189
+01/06/2017;Pesados;MAN;103
+01/07/2017;Pesados;MAN;171
+01/08/2017;Pesados;MAN;115
+01/09/2017;Pesados;MAN;217
+01/10/2017;Pesados;MAN;260
+01/11/2017;Pesados;MAN;195
+01/12/2017;Pesados;MAN;283
+01/01/2017;Pesados;Mercedes-Benz;270
+01/02/2017;Pesados;Mercedes-Benz;260
+01/03/2017;Pesados;Mercedes-Benz;505
+01/04/2017;Pesados;Mercedes-Benz;308
+01/05/2017;Pesados;Mercedes-Benz;404
+01/06/2017;Pesados;Mercedes-Benz;431
+01/07/2017;Pesados;Mercedes-Benz;354
+01/08/2017;Pesados;Mercedes-Benz;575
+01/09/2017;Pesados;Mercedes-Benz;439
+01/10/2017;Pesados;Mercedes-Benz;418
+01/11/2017;Pesados;Mercedes-Benz;434
+01/12/2017;Pesados;Mercedes-Benz;516
+01/01/2017;Pesados;SCANIA;274
+01/02/2017;Pesados;SCANIA;194
+01/03/2017;Pesados;SCANIA;443
+01/04/2017;Pesados;SCANIA;281
+01/05/2017;Pesados;SCANIA;365
+01/06/2017;Pesados;SCANIA;355
+01/07/2017;Pesados;SCANIA;432
+01/08/2017;Pesados;SCANIA;371
+01/09/2017;Pesados;SCANIA;428
+01/10/2017;Pesados;SCANIA;511
+01/11/2017;Pesados;SCANIA;584
+01/12/2017;Pesados;SCANIA;663
+01/01/2017;Pesados;VOLVO;273
+01/02/2017;Pesados;VOLVO;328
+01/03/2017;Pesados;VOLVO;302
+01/04/2017;Pesados;VOLVO;358
+01/05/2017;Pesados;VOLVO;388
+01/06/2017;Pesados;VOLVO;400
+01/07/2017;Pesados;VOLVO;447
+01/08/2017;Pesados;VOLVO;414
+01/09/2017;Pesados;VOLVO;421
+01/10/2017;Pesados;VOLVO;584
+01/11/2017;Pesados;VOLVO;595
+01/12/2017;Pesados;VOLVO;534
+01/01/2017;Pesados;Outras empresas;6
+01/02/2017;Pesados;Outras empresas;1
+01/03/2017;Pesados;Outras empresas;1
+01/04/2017;Pesados;Outras empresas;0
+01/05/2017;Pesados;Outras empresas;2
+01/06/2017;Pesados;Outras empresas;0
+01/07/2017;Pesados;Outras empresas;0
+01/08/2017;Pesados;Outras empresas;0
+01/09/2017;Pesados;Outras empresas;0
+01/10/2017;Pesados;Outras empresas;0
+01/11/2017;Pesados;Outras empresas;0
+01/12/2017;Pesados;Outras empresas;4
+01/01/2018;Semileves;Agrale;1
+01/02/2018;Semileves;Agrale;0
+01/03/2018;Semileves;Agrale;1
+01/04/2018;Semileves;Agrale;0
+01/05/2018;Semileves;Agrale;0
+01/06/2018;Semileves;Agrale;0
+01/07/2018;Semileves;Agrale;0
+01/08/2018;Semileves;Agrale;2
+01/09/2018;Semileves;Agrale;0
+01/10/2018;Semileves;Agrale;0
+01/11/2018;Semileves;Agrale;0
+01/12/2018;Semileves;Agrale;3
+01/01/2018;Semileves;FCA (Fiat/Dodge);25
+01/02/2018;Semileves;FCA (Fiat/Dodge);21
+01/03/2018;Semileves;FCA (Fiat/Dodge);17
+01/04/2018;Semileves;FCA (Fiat/Dodge);40
+01/05/2018;Semileves;FCA (Fiat/Dodge);70
+01/06/2018;Semileves;FCA (Fiat/Dodge);79
+01/07/2018;Semileves;FCA (Fiat/Dodge);48
+01/08/2018;Semileves;FCA (Fiat/Dodge);86
+01/09/2018;Semileves;FCA (Fiat/Dodge);79
+01/10/2018;Semileves;FCA (Fiat/Dodge);67
+01/11/2018;Semileves;FCA (Fiat/Dodge);60
+01/12/2018;Semileves;FCA (Fiat/Dodge);85
+01/01/2018;Semileves;Ford;78
+01/02/2018;Semileves;Ford;52
+01/03/2018;Semileves;Ford;81
+01/04/2018;Semileves;Ford;94
+01/05/2018;Semileves;Ford;124
+01/06/2018;Semileves;Ford;92
+01/07/2018;Semileves;Ford;92
+01/08/2018;Semileves;Ford;93
+01/09/2018;Semileves;Ford;99
+01/10/2018;Semileves;Ford;104
+01/11/2018;Semileves;Ford;65
+01/12/2018;Semileves;Ford;71
+01/01/2018;Semileves;Iveco;116
+01/02/2018;Semileves;Iveco;20
+01/03/2018;Semileves;Iveco;12
+01/04/2018;Semileves;Iveco;32
+01/05/2018;Semileves;Iveco;24
+01/06/2018;Semileves;Iveco;24
+01/07/2018;Semileves;Iveco;23
+01/08/2018;Semileves;Iveco;27
+01/09/2018;Semileves;Iveco;19
+01/10/2018;Semileves;Iveco;19
+01/11/2018;Semileves;Iveco;26
+01/12/2018;Semileves;Iveco;14
+01/01/2018;Semileves;MAN;45
+01/02/2018;Semileves;MAN;102
+01/03/2018;Semileves;MAN;32
+01/04/2018;Semileves;MAN;53
+01/05/2018;Semileves;MAN;61
+01/06/2018;Semileves;MAN;74
+01/07/2018;Semileves;MAN;73
+01/08/2018;Semileves;MAN;75
+01/09/2018;Semileves;MAN;81
+01/10/2018;Semileves;MAN;103
+01/11/2018;Semileves;MAN;93
+01/12/2018;Semileves;MAN;50
+01/01/2018;Semileves;Mercedes-Benz;86
+01/02/2018;Semileves;Mercedes-Benz;56
+01/03/2018;Semileves;Mercedes-Benz;84
+01/04/2018;Semileves;Mercedes-Benz;81
+01/05/2018;Semileves;Mercedes-Benz;77
+01/06/2018;Semileves;Mercedes-Benz;58
+01/07/2018;Semileves;Mercedes-Benz;84
+01/08/2018;Semileves;Mercedes-Benz;97
+01/09/2018;Semileves;Mercedes-Benz;98
+01/10/2018;Semileves;Mercedes-Benz;158
+01/11/2018;Semileves;Mercedes-Benz;161
+01/12/2018;Semileves;Mercedes-Benz;136
+01/01/2018;Semileves;Peugeot Citroën;0
+01/02/2018;Semileves;Peugeot Citroën;0
+01/03/2018;Semileves;Peugeot Citroën;0
+01/04/2018;Semileves;Peugeot Citroën;0
+01/05/2018;Semileves;Peugeot Citroën;0
+01/06/2018;Semileves;Peugeot Citroën;0
+01/07/2018;Semileves;Peugeot Citroën;0
+01/08/2018;Semileves;Peugeot Citroën;0
+01/09/2018;Semileves;Peugeot Citroën;0
+01/10/2018;Semileves;Peugeot Citroën;0
+01/11/2018;Semileves;Peugeot Citroën;0
+01/12/2018;Semileves;Peugeot Citroën;7
+01/01/2018;Semileves;Outras empresas;0
+01/02/2018;Semileves;Outras empresas;1
+01/03/2018;Semileves;Outras empresas;1
+01/04/2018;Semileves;Outras empresas;0
+01/05/2018;Semileves;Outras empresas;1
+01/06/2018;Semileves;Outras empresas;0
+01/07/2018;Semileves;Outras empresas;1
+01/08/2018;Semileves;Outras empresas;0
+01/09/2018;Semileves;Outras empresas;0
+01/10/2018;Semileves;Outras empresas;3
+01/11/2018;Semileves;Outras empresas;3
+01/12/2018;Semileves;Outras empresas;1
+01/01/2018;Leves;Agrale;3
+01/02/2018;Leves;Agrale;2
+01/03/2018;Leves;Agrale;3
+01/04/2018;Leves;Agrale;4
+01/05/2018;Leves;Agrale;3
+01/06/2018;Leves;Agrale;4
+01/07/2018;Leves;Agrale;1
+01/08/2018;Leves;Agrale;0
+01/09/2018;Leves;Agrale;9
+01/10/2018;Leves;Agrale;2
+01/11/2018;Leves;Agrale;3
+01/12/2018;Leves;Agrale;1
+01/01/2018;Leves;Caoa - Hyundai;1
+01/02/2018;Leves;Caoa - Hyundai;0
+01/03/2018;Leves;Caoa - Hyundai;0
+01/04/2018;Leves;Caoa - Hyundai;2
+01/05/2018;Leves;Caoa - Hyundai;9
+01/06/2018;Leves;Caoa - Hyundai;2
+01/07/2018;Leves;Caoa - Hyundai;3
+01/08/2018;Leves;Caoa - Hyundai;2
+01/09/2018;Leves;Caoa - Hyundai;14
+01/10/2018;Leves;Caoa - Hyundai;12
+01/11/2018;Leves;Caoa - Hyundai;9
+01/12/2018;Leves;Caoa - Hyundai;16
+01/01/2018;Leves;Ford;230
+01/02/2018;Leves;Ford;126
+01/03/2018;Leves;Ford;225
+01/04/2018;Leves;Ford;246
+01/05/2018;Leves;Ford;279
+01/06/2018;Leves;Ford;255
+01/07/2018;Leves;Ford;316
+01/08/2018;Leves;Ford;276
+01/09/2018;Leves;Ford;267
+01/10/2018;Leves;Ford;247
+01/11/2018;Leves;Ford;264
+01/12/2018;Leves;Ford;320
+01/01/2018;Leves;Iveco;16
+01/02/2018;Leves;Iveco;10
+01/03/2018;Leves;Iveco;17
+01/04/2018;Leves;Iveco;9
+01/05/2018;Leves;Iveco;21
+01/06/2018;Leves;Iveco;15
+01/07/2018;Leves;Iveco;21
+01/08/2018;Leves;Iveco;27
+01/09/2018;Leves;Iveco;22
+01/10/2018;Leves;Iveco;31
+01/11/2018;Leves;Iveco;16
+01/12/2018;Leves;Iveco;22
+01/01/2018;Leves;MAN;420
+01/02/2018;Leves;MAN;341
+01/03/2018;Leves;MAN;554
+01/04/2018;Leves;MAN;405
+01/05/2018;Leves;MAN;408
+01/06/2018;Leves;MAN;350
+01/07/2018;Leves;MAN;286
+01/08/2018;Leves;MAN;267
+01/09/2018;Leves;MAN;309
+01/10/2018;Leves;MAN;308
+01/11/2018;Leves;MAN;253
+01/12/2018;Leves;MAN;247
+01/01/2018;Leves;Mercedes-Benz;272
+01/02/2018;Leves;Mercedes-Benz;260
+01/03/2018;Leves;Mercedes-Benz;312
+01/04/2018;Leves;Mercedes-Benz;280
+01/05/2018;Leves;Mercedes-Benz;315
+01/06/2018;Leves;Mercedes-Benz;262
+01/07/2018;Leves;Mercedes-Benz;347
+01/08/2018;Leves;Mercedes-Benz;367
+01/09/2018;Leves;Mercedes-Benz;303
+01/10/2018;Leves;Mercedes-Benz;518
+01/11/2018;Leves;Mercedes-Benz;422
+01/12/2018;Leves;Mercedes-Benz;341
+01/01/2018;Leves;Outras empresas;2
+01/02/2018;Leves;Outras empresas;0
+01/03/2018;Leves;Outras empresas;2
+01/04/2018;Leves;Outras empresas;5
+01/05/2018;Leves;Outras empresas;0
+01/06/2018;Leves;Outras empresas;2
+01/07/2018;Leves;Outras empresas;2
+01/08/2018;Leves;Outras empresas;2
+01/09/2018;Leves;Outras empresas;2
+01/10/2018;Leves;Outras empresas;4
+01/11/2018;Leves;Outras empresas;2
+01/12/2018;Leves;Outras empresas;2
+01/01/2018;Médios;Agrale;1
+01/02/2018;Médios;Agrale;2
+01/03/2018;Médios;Agrale;0
+01/04/2018;Médios;Agrale;0
+01/05/2018;Médios;Agrale;3
+01/06/2018;Médios;Agrale;1
+01/07/2018;Médios;Agrale;0
+01/08/2018;Médios;Agrale;2
+01/09/2018;Médios;Agrale;1
+01/10/2018;Médios;Agrale;1
+01/11/2018;Médios;Agrale;0
+01/12/2018;Médios;Agrale;1
+01/01/2018;Médios;Ford;128
+01/02/2018;Médios;Ford;100
+01/03/2018;Médios;Ford;153
+01/04/2018;Médios;Ford;158
+01/05/2018;Médios;Ford;136
+01/06/2018;Médios;Ford;148
+01/07/2018;Médios;Ford;162
+01/08/2018;Médios;Ford;155
+01/09/2018;Médios;Ford;162
+01/10/2018;Médios;Ford;189
+01/11/2018;Médios;Ford;178
+01/12/2018;Médios;Ford;194
+01/01/2018;Médios;Iveco;0
+01/02/2018;Médios;Iveco;0
+01/03/2018;Médios;Iveco;0
+01/04/2018;Médios;Iveco;1
+01/05/2018;Médios;Iveco;0
+01/06/2018;Médios;Iveco;0
+01/07/2018;Médios;Iveco;0
+01/08/2018;Médios;Iveco;0
+01/09/2018;Médios;Iveco;0
+01/10/2018;Médios;Iveco;1
+01/11/2018;Médios;Iveco;0
+01/12/2018;Médios;Iveco;0
+01/01/2018;Médios;MAN;176
+01/02/2018;Médios;MAN;227
+01/03/2018;Médios;MAN;316
+01/04/2018;Médios;MAN;338
+01/05/2018;Médios;MAN;257
+01/06/2018;Médios;MAN;389
+01/07/2018;Médios;MAN;478
+01/08/2018;Médios;MAN;440
+01/09/2018;Médios;MAN;542
+01/10/2018;Médios;MAN;504
+01/11/2018;Médios;MAN;567
+01/12/2018;Médios;MAN;444
+01/01/2018;Médios;Mercedes-Benz;54
+01/02/2018;Médios;Mercedes-Benz;63
+01/03/2018;Médios;Mercedes-Benz;83
+01/04/2018;Médios;Mercedes-Benz;93
+01/05/2018;Médios;Mercedes-Benz;73
+01/06/2018;Médios;Mercedes-Benz;80
+01/07/2018;Médios;Mercedes-Benz;90
+01/08/2018;Médios;Mercedes-Benz;95
+01/09/2018;Médios;Mercedes-Benz;109
+01/10/2018;Médios;Mercedes-Benz;149
+01/11/2018;Médios;Mercedes-Benz;118
+01/12/2018;Médios;Mercedes-Benz;102
+01/01/2018;Médios;Outras empresas;1
+01/02/2018;Médios;Outras empresas;1
+01/03/2018;Médios;Outras empresas;1
+01/04/2018;Médios;Outras empresas;2
+01/05/2018;Médios;Outras empresas;1
+01/06/2018;Médios;Outras empresas;0
+01/07/2018;Médios;Outras empresas;0
+01/08/2018;Médios;Outras empresas;1
+01/09/2018;Médios;Outras empresas;1
+01/10/2018;Médios;Outras empresas;1
+01/11/2018;Médios;Outras empresas;0
+01/12/2018;Médios;Outras empresas;2
+01/01/2018;Semipesados;Agrale;1
+01/02/2018;Semipesados;Agrale;0
+01/03/2018;Semipesados;Agrale;0
+01/04/2018;Semipesados;Agrale;0
+01/05/2018;Semipesados;Agrale;0
+01/06/2018;Semipesados;Agrale;0
+01/07/2018;Semipesados;Agrale;0
+01/08/2018;Semipesados;Agrale;1
+01/09/2018;Semipesados;Agrale;0
+01/10/2018;Semipesados;Agrale;1
+01/11/2018;Semipesados;Agrale;0
+01/12/2018;Semipesados;Agrale;0
+01/01/2018;Semipesados;Ford;126
+01/02/2018;Semipesados;Ford;127
+01/03/2018;Semipesados;Ford;207
+01/04/2018;Semipesados;Ford;268
+01/05/2018;Semipesados;Ford;200
+01/06/2018;Semipesados;Ford;260
+01/07/2018;Semipesados;Ford;257
+01/08/2018;Semipesados;Ford;306
+01/09/2018;Semipesados;Ford;268
+01/10/2018;Semipesados;Ford;344
+01/11/2018;Semipesados;Ford;370
+01/12/2018;Semipesados;Ford;426
+01/01/2018;Semipesados;Iveco;50
+01/02/2018;Semipesados;Iveco;38
+01/03/2018;Semipesados;Iveco;48
+01/04/2018;Semipesados;Iveco;68
+01/05/2018;Semipesados;Iveco;58
+01/06/2018;Semipesados;Iveco;78
+01/07/2018;Semipesados;Iveco;150
+01/08/2018;Semipesados;Iveco;80
+01/09/2018;Semipesados;Iveco;57
+01/10/2018;Semipesados;Iveco;97
+01/11/2018;Semipesados;Iveco;75
+01/12/2018;Semipesados;Iveco;54
+01/01/2018;Semipesados;MAN;426
+01/02/2018;Semipesados;MAN;397
+01/03/2018;Semipesados;MAN;518
+01/04/2018;Semipesados;MAN;563
+01/05/2018;Semipesados;MAN;599
+01/06/2018;Semipesados;MAN;506
+01/07/2018;Semipesados;MAN;636
+01/08/2018;Semipesados;MAN;665
+01/09/2018;Semipesados;MAN;610
+01/10/2018;Semipesados;MAN;676
+01/11/2018;Semipesados;MAN;540
+01/12/2018;Semipesados;MAN;669
+01/01/2018;Semipesados;Mercedes-Benz;409
+01/02/2018;Semipesados;Mercedes-Benz;220
+01/03/2018;Semipesados;Mercedes-Benz;275
+01/04/2018;Semipesados;Mercedes-Benz;362
+01/05/2018;Semipesados;Mercedes-Benz;383
+01/06/2018;Semipesados;Mercedes-Benz;354
+01/07/2018;Semipesados;Mercedes-Benz;414
+01/08/2018;Semipesados;Mercedes-Benz;527
+01/09/2018;Semipesados;Mercedes-Benz;453
+01/10/2018;Semipesados;Mercedes-Benz;612
+01/11/2018;Semipesados;Mercedes-Benz;477
+01/12/2018;Semipesados;Mercedes-Benz;427
+01/01/2018;Semipesados;SCANIA;80
+01/02/2018;Semipesados;SCANIA;59
+01/03/2018;Semipesados;SCANIA;47
+01/04/2018;Semipesados;SCANIA;34
+01/05/2018;Semipesados;SCANIA;41
+01/06/2018;Semipesados;SCANIA;59
+01/07/2018;Semipesados;SCANIA;73
+01/08/2018;Semipesados;SCANIA;51
+01/09/2018;Semipesados;SCANIA;44
+01/10/2018;Semipesados;SCANIA;32
+01/11/2018;Semipesados;SCANIA;57
+01/12/2018;Semipesados;SCANIA;35
+01/01/2018;Semipesados;VOLVO;64
+01/02/2018;Semipesados;VOLVO;38
+01/03/2018;Semipesados;VOLVO;67
+01/04/2018;Semipesados;VOLVO;131
+01/05/2018;Semipesados;VOLVO;102
+01/06/2018;Semipesados;VOLVO;99
+01/07/2018;Semipesados;VOLVO;127
+01/08/2018;Semipesados;VOLVO;163
+01/09/2018;Semipesados;VOLVO;171
+01/10/2018;Semipesados;VOLVO;189
+01/11/2018;Semipesados;VOLVO;178
+01/12/2018;Semipesados;VOLVO;175
+01/01/2018;Semipesados;Outras empresas;0
+01/02/2018;Semipesados;Outras empresas;3
+01/03/2018;Semipesados;Outras empresas;0
+01/04/2018;Semipesados;Outras empresas;0
+01/05/2018;Semipesados;Outras empresas;0
+01/06/2018;Semipesados;Outras empresas;3
+01/07/2018;Semipesados;Outras empresas;3
+01/08/2018;Semipesados;Outras empresas;1
+01/09/2018;Semipesados;Outras empresas;2
+01/10/2018;Semipesados;Outras empresas;3
+01/11/2018;Semipesados;Outras empresas;3
+01/12/2018;Semipesados;Outras empresas;2
+01/01/2018;Pesados;DAF;105
+01/02/2018;Pesados;DAF;119
+01/03/2018;Pesados;DAF;151
+01/04/2018;Pesados;DAF;180
+01/05/2018;Pesados;DAF;138
+01/06/2018;Pesados;DAF;145
+01/07/2018;Pesados;DAF;275
+01/08/2018;Pesados;DAF;270
+01/09/2018;Pesados;DAF;218
+01/10/2018;Pesados;DAF;266
+01/11/2018;Pesados;DAF;221
+01/12/2018;Pesados;DAF;256
+01/01/2018;Pesados;Ford;12
+01/02/2018;Pesados;Ford;10
+01/03/2018;Pesados;Ford;16
+01/04/2018;Pesados;Ford;7
+01/05/2018;Pesados;Ford;9
+01/06/2018;Pesados;Ford;30
+01/07/2018;Pesados;Ford;18
+01/08/2018;Pesados;Ford;18
+01/09/2018;Pesados;Ford;16
+01/10/2018;Pesados;Ford;14
+01/11/2018;Pesados;Ford;16
+01/12/2018;Pesados;Ford;30
+01/01/2018;Pesados;Iveco;103
+01/02/2018;Pesados;Iveco;45
+01/03/2018;Pesados;Iveco;86
+01/04/2018;Pesados;Iveco;110
+01/05/2018;Pesados;Iveco;75
+01/06/2018;Pesados;Iveco;65
+01/07/2018;Pesados;Iveco;125
+01/08/2018;Pesados;Iveco;147
+01/09/2018;Pesados;Iveco;137
+01/10/2018;Pesados;Iveco;180
+01/11/2018;Pesados;Iveco;139
+01/12/2018;Pesados;Iveco;134
+01/01/2018;Pesados;MAN;230
+01/02/2018;Pesados;MAN;233
+01/03/2018;Pesados;MAN;185
+01/04/2018;Pesados;MAN;249
+01/05/2018;Pesados;MAN;146
+01/06/2018;Pesados;MAN;185
+01/07/2018;Pesados;MAN;377
+01/08/2018;Pesados;MAN;392
+01/09/2018;Pesados;MAN;406
+01/10/2018;Pesados;MAN;437
+01/11/2018;Pesados;MAN;525
+01/12/2018;Pesados;MAN;404
+01/01/2018;Pesados;Mercedes-Benz;570
+01/02/2018;Pesados;Mercedes-Benz;499
+01/03/2018;Pesados;Mercedes-Benz;868
+01/04/2018;Pesados;Mercedes-Benz;843
+01/05/2018;Pesados;Mercedes-Benz;675
+01/06/2018;Pesados;Mercedes-Benz;643
+01/07/2018;Pesados;Mercedes-Benz;743
+01/08/2018;Pesados;Mercedes-Benz;940
+01/09/2018;Pesados;Mercedes-Benz;858
+01/10/2018;Pesados;Mercedes-Benz;1034
+01/11/2018;Pesados;Mercedes-Benz;1141
+01/12/2018;Pesados;Mercedes-Benz;1141
+01/01/2018;Pesados;SCANIA;418
+01/02/2018;Pesados;SCANIA;490
+01/03/2018;Pesados;SCANIA;648
+01/04/2018;Pesados;SCANIA;689
+01/05/2018;Pesados;SCANIA;631
+01/06/2018;Pesados;SCANIA;719
+01/07/2018;Pesados;SCANIA;541
+01/08/2018;Pesados;SCANIA;813
+01/09/2018;Pesados;SCANIA;566
+01/10/2018;Pesados;SCANIA;621
+01/11/2018;Pesados;SCANIA;879
+01/12/2018;Pesados;SCANIA;1016
+01/01/2018;Pesados;VOLVO;312
+01/02/2018;Pesados;VOLVO;377
+01/03/2018;Pesados;VOLVO;923
+01/04/2018;Pesados;VOLVO;817
+01/05/2018;Pesados;VOLVO;706
+01/06/2018;Pesados;VOLVO;722
+01/07/2018;Pesados;VOLVO;825
+01/08/2018;Pesados;VOLVO;1069
+01/09/2018;Pesados;VOLVO;784
+01/10/2018;Pesados;VOLVO;970
+01/11/2018;Pesados;VOLVO;819
+01/12/2018;Pesados;VOLVO;814
+01/01/2018;Pesados;Outras empresas;0
+01/02/2018;Pesados;Outras empresas;1
+01/03/2018;Pesados;Outras empresas;0
+01/04/2018;Pesados;Outras empresas;2
+01/05/2018;Pesados;Outras empresas;1
+01/06/2018;Pesados;Outras empresas;1
+01/07/2018;Pesados;Outras empresas;0
+01/08/2018;Pesados;Outras empresas;0
+01/09/2018;Pesados;Outras empresas;1
+01/10/2018;Pesados;Outras empresas;0
+01/11/2018;Pesados;Outras empresas;0
+01/12/2018;Pesados;Outras empresas;0
+01/01/2019;Semileves;Agrale;0
+01/02/2019;Semileves;Agrale;1
+01/03/2019;Semileves;Agrale;1
+01/04/2019;Semileves;Agrale;1
+01/05/2019;Semileves;Agrale;0
+01/06/2019;Semileves;Agrale;2
+01/07/2019;Semileves;Agrale;0
+01/08/2019;Semileves;Agrale;0
+01/09/2019;Semileves;Agrale;0
+01/10/2019;Semileves;Agrale;0
+01/11/2019;Semileves;Agrale;6
+01/12/2019;Semileves;Agrale;5
+01/01/2019;Semileves;FCA (Fiat/Dodge);71
+01/02/2019;Semileves;FCA (Fiat/Dodge);65
+01/03/2019;Semileves;FCA (Fiat/Dodge);58
+01/04/2019;Semileves;FCA (Fiat/Dodge);59
+01/05/2019;Semileves;FCA (Fiat/Dodge);57
+01/06/2019;Semileves;FCA (Fiat/Dodge);23
+01/07/2019;Semileves;FCA (Fiat/Dodge);11
+01/08/2019;Semileves;FCA (Fiat/Dodge);1
+01/09/2019;Semileves;FCA (Fiat/Dodge);1
+01/10/2019;Semileves;FCA (Fiat/Dodge);2
+01/11/2019;Semileves;FCA (Fiat/Dodge);8
+01/12/2019;Semileves;FCA (Fiat/Dodge);298
+01/01/2019;Semileves;Ford;65
+01/02/2019;Semileves;Ford;75
+01/03/2019;Semileves;Ford;78
+01/04/2019;Semileves;Ford;100
+01/05/2019;Semileves;Ford;70
+01/06/2019;Semileves;Ford;50
+01/07/2019;Semileves;Ford;61
+01/08/2019;Semileves;Ford;47
+01/09/2019;Semileves;Ford;66
+01/10/2019;Semileves;Ford;40
+01/11/2019;Semileves;Ford;33
+01/12/2019;Semileves;Ford;15
+01/01/2019;Semileves;Iveco;12
+01/02/2019;Semileves;Iveco;21
+01/03/2019;Semileves;Iveco;17
+01/04/2019;Semileves;Iveco;21
+01/05/2019;Semileves;Iveco;16
+01/06/2019;Semileves;Iveco;18
+01/07/2019;Semileves;Iveco;13
+01/08/2019;Semileves;Iveco;26
+01/09/2019;Semileves;Iveco;17
+01/10/2019;Semileves;Iveco;23
+01/11/2019;Semileves;Iveco;13
+01/12/2019;Semileves;Iveco;31
+01/01/2019;Semileves;MAN;74
+01/02/2019;Semileves;MAN;187
+01/03/2019;Semileves;MAN;129
+01/04/2019;Semileves;MAN;72
+01/05/2019;Semileves;MAN;74
+01/06/2019;Semileves;MAN;60
+01/07/2019;Semileves;MAN;113
+01/08/2019;Semileves;MAN;67
+01/09/2019;Semileves;MAN;123
+01/10/2019;Semileves;MAN;69
+01/11/2019;Semileves;MAN;117
+01/12/2019;Semileves;MAN;68
+01/01/2019;Semileves;Mercedes-Benz;150
+01/02/2019;Semileves;Mercedes-Benz;158
+01/03/2019;Semileves;Mercedes-Benz;141
+01/04/2019;Semileves;Mercedes-Benz;167
+01/05/2019;Semileves;Mercedes-Benz;164
+01/06/2019;Semileves;Mercedes-Benz;155
+01/07/2019;Semileves;Mercedes-Benz;165
+01/08/2019;Semileves;Mercedes-Benz;181
+01/09/2019;Semileves;Mercedes-Benz;154
+01/10/2019;Semileves;Mercedes-Benz;194
+01/11/2019;Semileves;Mercedes-Benz;155
+01/12/2019;Semileves;Mercedes-Benz;174
+01/01/2019;Semileves;Peugeot Citroën;23
+01/02/2019;Semileves;Peugeot Citroën;27
+01/03/2019;Semileves;Peugeot Citroën;34
+01/04/2019;Semileves;Peugeot Citroën;60
+01/05/2019;Semileves;Peugeot Citroën;43
+01/06/2019;Semileves;Peugeot Citroën;38
+01/07/2019;Semileves;Peugeot Citroën;26
+01/08/2019;Semileves;Peugeot Citroën;15
+01/09/2019;Semileves;Peugeot Citroën;19
+01/10/2019;Semileves;Peugeot Citroën;25
+01/11/2019;Semileves;Peugeot Citroën;20
+01/12/2019;Semileves;Peugeot Citroën;17
+01/01/2019;Semileves;Outras empresas;0
+01/02/2019;Semileves;Outras empresas;0
+01/03/2019;Semileves;Outras empresas;1
+01/04/2019;Semileves;Outras empresas;1
+01/05/2019;Semileves;Outras empresas;3
+01/06/2019;Semileves;Outras empresas;0
+01/07/2019;Semileves;Outras empresas;1
+01/08/2019;Semileves;Outras empresas;4
+01/09/2019;Semileves;Outras empresas;5
+01/10/2019;Semileves;Outras empresas;3
+01/11/2019;Semileves;Outras empresas;3
+01/12/2019;Semileves;Outras empresas;3
+01/01/2019;Leves;Agrale;2
+01/02/2019;Leves;Agrale;6
+01/03/2019;Leves;Agrale;1
+01/04/2019;Leves;Agrale;1
+01/05/2019;Leves;Agrale;7
+01/06/2019;Leves;Agrale;0
+01/07/2019;Leves;Agrale;4
+01/08/2019;Leves;Agrale;2
+01/09/2019;Leves;Agrale;1
+01/10/2019;Leves;Agrale;2
+01/11/2019;Leves;Agrale;0
+01/12/2019;Leves;Agrale;2
+01/01/2019;Leves;Caoa - Hyundai;15
+01/02/2019;Leves;Caoa - Hyundai;23
+01/03/2019;Leves;Caoa - Hyundai;19
+01/04/2019;Leves;Caoa - Hyundai;26
+01/05/2019;Leves;Caoa - Hyundai;26
+01/06/2019;Leves;Caoa - Hyundai;16
+01/07/2019;Leves;Caoa - Hyundai;19
+01/08/2019;Leves;Caoa - Hyundai;18
+01/09/2019;Leves;Caoa - Hyundai;21
+01/10/2019;Leves;Caoa - Hyundai;26
+01/11/2019;Leves;Caoa - Hyundai;27
+01/12/2019;Leves;Caoa - Hyundai;22
+01/01/2019;Leves;Ford;221
+01/02/2019;Leves;Ford;263
+01/03/2019;Leves;Ford;265
+01/04/2019;Leves;Ford;218
+01/05/2019;Leves;Ford;230
+01/06/2019;Leves;Ford;175
+01/07/2019;Leves;Ford;176
+01/08/2019;Leves;Ford;135
+01/09/2019;Leves;Ford;109
+01/10/2019;Leves;Ford;97
+01/11/2019;Leves;Ford;81
+01/12/2019;Leves;Ford;66
+01/01/2019;Leves;Iveco;19
+01/02/2019;Leves;Iveco;32
+01/03/2019;Leves;Iveco;22
+01/04/2019;Leves;Iveco;29
+01/05/2019;Leves;Iveco;22
+01/06/2019;Leves;Iveco;25
+01/07/2019;Leves;Iveco;25
+01/08/2019;Leves;Iveco;25
+01/09/2019;Leves;Iveco;29
+01/10/2019;Leves;Iveco;53
+01/11/2019;Leves;Iveco;46
+01/12/2019;Leves;Iveco;47
+01/01/2019;Leves;MAN;277
+01/02/2019;Leves;MAN;270
+01/03/2019;Leves;MAN;254
+01/04/2019;Leves;MAN;322
+01/05/2019;Leves;MAN;261
+01/06/2019;Leves;MAN;246
+01/07/2019;Leves;MAN;274
+01/08/2019;Leves;MAN;285
+01/09/2019;Leves;MAN;301
+01/10/2019;Leves;MAN;428
+01/11/2019;Leves;MAN;343
+01/12/2019;Leves;MAN;378
+01/01/2019;Leves;Mercedes-Benz;258
+01/02/2019;Leves;Mercedes-Benz;324
+01/03/2019;Leves;Mercedes-Benz;305
+01/04/2019;Leves;Mercedes-Benz;383
+01/05/2019;Leves;Mercedes-Benz;525
+01/06/2019;Leves;Mercedes-Benz;301
+01/07/2019;Leves;Mercedes-Benz;508
+01/08/2019;Leves;Mercedes-Benz;436
+01/09/2019;Leves;Mercedes-Benz;432
+01/10/2019;Leves;Mercedes-Benz;473
+01/11/2019;Leves;Mercedes-Benz;456
+01/12/2019;Leves;Mercedes-Benz;480
+01/01/2019;Leves;Outras empresas;1
+01/02/2019;Leves;Outras empresas;0
+01/03/2019;Leves;Outras empresas;0
+01/04/2019;Leves;Outras empresas;0
+01/05/2019;Leves;Outras empresas;2
+01/06/2019;Leves;Outras empresas;4
+01/07/2019;Leves;Outras empresas;3
+01/08/2019;Leves;Outras empresas;6
+01/09/2019;Leves;Outras empresas;2
+01/10/2019;Leves;Outras empresas;2
+01/11/2019;Leves;Outras empresas;3
+01/12/2019;Leves;Outras empresas;3
+01/01/2019;Médios;Agrale;0
+01/02/2019;Médios;Agrale;0
+01/03/2019;Médios;Agrale;3
+01/04/2019;Médios;Agrale;0
+01/05/2019;Médios;Agrale;0
+01/06/2019;Médios;Agrale;0
+01/07/2019;Médios;Agrale;1
+01/08/2019;Médios;Agrale;2
+01/09/2019;Médios;Agrale;0
+01/10/2019;Médios;Agrale;2
+01/11/2019;Médios;Agrale;1
+01/12/2019;Médios;Agrale;1
+01/01/2019;Médios;DAF;0
+01/02/2019;Médios;DAF;0
+01/03/2019;Médios;DAF;0
+01/04/2019;Médios;DAF;0
+01/05/2019;Médios;DAF;0
+01/06/2019;Médios;DAF;0
+01/07/2019;Médios;DAF;1
+01/08/2019;Médios;DAF;10
+01/09/2019;Médios;DAF;0
+01/10/2019;Médios;DAF;10
+01/11/2019;Médios;DAF;0
+01/12/2019;Médios;DAF;0
+01/01/2019;Médios;Ford;336
+01/02/2019;Médios;Ford;209
+01/03/2019;Médios;Ford;241
+01/04/2019;Médios;Ford;139
+01/05/2019;Médios;Ford;167
+01/06/2019;Médios;Ford;78
+01/07/2019;Médios;Ford;123
+01/08/2019;Médios;Ford;91
+01/09/2019;Médios;Ford;83
+01/10/2019;Médios;Ford;50
+01/11/2019;Médios;Ford;41
+01/12/2019;Médios;Ford;34
+01/01/2019;Médios;Iveco;0
+01/02/2019;Médios;Iveco;0
+01/03/2019;Médios;Iveco;0
+01/04/2019;Médios;Iveco;6
+01/05/2019;Médios;Iveco;0
+01/06/2019;Médios;Iveco;1
+01/07/2019;Médios;Iveco;5
+01/08/2019;Médios;Iveco;12
+01/09/2019;Médios;Iveco;35
+01/10/2019;Médios;Iveco;20
+01/11/2019;Médios;Iveco;18
+01/12/2019;Médios;Iveco;24
+01/01/2019;Médios;MAN;405
+01/02/2019;Médios;MAN;378
+01/03/2019;Médios;MAN;375
+01/04/2019;Médios;MAN;516
+01/05/2019;Médios;MAN;559
+01/06/2019;Médios;MAN;611
+01/07/2019;Médios;MAN;639
+01/08/2019;Médios;MAN;624
+01/09/2019;Médios;MAN;594
+01/10/2019;Médios;MAN;718
+01/11/2019;Médios;MAN;689
+01/12/2019;Médios;MAN;575
+01/01/2019;Médios;Mercedes-Benz;76
+01/02/2019;Médios;Mercedes-Benz;73
+01/03/2019;Médios;Mercedes-Benz;93
+01/04/2019;Médios;Mercedes-Benz;170
+01/05/2019;Médios;Mercedes-Benz;127
+01/06/2019;Médios;Mercedes-Benz;105
+01/07/2019;Médios;Mercedes-Benz;154
+01/08/2019;Médios;Mercedes-Benz;170
+01/09/2019;Médios;Mercedes-Benz;217
+01/10/2019;Médios;Mercedes-Benz;159
+01/11/2019;Médios;Mercedes-Benz;159
+01/12/2019;Médios;Mercedes-Benz;136
+01/01/2019;Médios;Outras empresas;0
+01/02/2019;Médios;Outras empresas;0
+01/03/2019;Médios;Outras empresas;1
+01/04/2019;Médios;Outras empresas;0
+01/05/2019;Médios;Outras empresas;0
+01/06/2019;Médios;Outras empresas;0
+01/07/2019;Médios;Outras empresas;0
+01/08/2019;Médios;Outras empresas;0
+01/09/2019;Médios;Outras empresas;0
+01/10/2019;Médios;Outras empresas;0
+01/11/2019;Médios;Outras empresas;0
+01/12/2019;Médios;Outras empresas;2
+01/01/2019;Semipesados;Agrale;0
+01/02/2019;Semipesados;Agrale;0
+01/03/2019;Semipesados;Agrale;2
+01/04/2019;Semipesados;Agrale;0
+01/05/2019;Semipesados;Agrale;1
+01/06/2019;Semipesados;Agrale;0
+01/07/2019;Semipesados;Agrale;0
+01/08/2019;Semipesados;Agrale;1
+01/09/2019;Semipesados;Agrale;0
+01/10/2019;Semipesados;Agrale;0
+01/11/2019;Semipesados;Agrale;0
+01/12/2019;Semipesados;Agrale;0
+01/01/2019;Semipesados;Ford;306
+01/02/2019;Semipesados;Ford;266
+01/03/2019;Semipesados;Ford;199
+01/04/2019;Semipesados;Ford;147
+01/05/2019;Semipesados;Ford;224
+01/06/2019;Semipesados;Ford;130
+01/07/2019;Semipesados;Ford;145
+01/08/2019;Semipesados;Ford;132
+01/09/2019;Semipesados;Ford;108
+01/10/2019;Semipesados;Ford;110
+01/11/2019;Semipesados;Ford;120
+01/12/2019;Semipesados;Ford;90
+01/01/2019;Semipesados;Iveco;74
+01/02/2019;Semipesados;Iveco;99
+01/03/2019;Semipesados;Iveco;91
+01/04/2019;Semipesados;Iveco;55
+01/05/2019;Semipesados;Iveco;99
+01/06/2019;Semipesados;Iveco;105
+01/07/2019;Semipesados;Iveco;104
+01/08/2019;Semipesados;Iveco;83
+01/09/2019;Semipesados;Iveco;72
+01/10/2019;Semipesados;Iveco;117
+01/11/2019;Semipesados;Iveco;127
+01/12/2019;Semipesados;Iveco;118
+01/01/2019;Semipesados;MAN;520
+01/02/2019;Semipesados;MAN;513
+01/03/2019;Semipesados;MAN;539
+01/04/2019;Semipesados;MAN;841
+01/05/2019;Semipesados;MAN;912
+01/06/2019;Semipesados;MAN;734
+01/07/2019;Semipesados;MAN;936
+01/08/2019;Semipesados;MAN;1120
+01/09/2019;Semipesados;MAN;959
+01/10/2019;Semipesados;MAN;1175
+01/11/2019;Semipesados;MAN;1075
+01/12/2019;Semipesados;MAN;919
+01/01/2019;Semipesados;Mercedes-Benz;521
+01/02/2019;Semipesados;Mercedes-Benz;568
+01/03/2019;Semipesados;Mercedes-Benz;541
+01/04/2019;Semipesados;Mercedes-Benz;546
+01/05/2019;Semipesados;Mercedes-Benz;578
+01/06/2019;Semipesados;Mercedes-Benz;534
+01/07/2019;Semipesados;Mercedes-Benz;672
+01/08/2019;Semipesados;Mercedes-Benz;755
+01/09/2019;Semipesados;Mercedes-Benz;773
+01/10/2019;Semipesados;Mercedes-Benz;610
+01/11/2019;Semipesados;Mercedes-Benz;695
+01/12/2019;Semipesados;Mercedes-Benz;566
+01/01/2019;Semipesados;SCANIA;39
+01/02/2019;Semipesados;SCANIA;22
+01/03/2019;Semipesados;SCANIA;4
+01/04/2019;Semipesados;SCANIA;2
+01/05/2019;Semipesados;SCANIA;8
+01/06/2019;Semipesados;SCANIA;4
+01/07/2019;Semipesados;SCANIA;6
+01/08/2019;Semipesados;SCANIA;0
+01/09/2019;Semipesados;SCANIA;1
+01/10/2019;Semipesados;SCANIA;1
+01/11/2019;Semipesados;SCANIA;0
+01/12/2019;Semipesados;SCANIA;1
+01/01/2019;Semipesados;VOLVO;106
+01/02/2019;Semipesados;VOLVO;113
+01/03/2019;Semipesados;VOLVO;101
+01/04/2019;Semipesados;VOLVO;154
+01/05/2019;Semipesados;VOLVO;140
+01/06/2019;Semipesados;VOLVO;193
+01/07/2019;Semipesados;VOLVO;227
+01/08/2019;Semipesados;VOLVO;228
+01/09/2019;Semipesados;VOLVO;240
+01/10/2019;Semipesados;VOLVO;303
+01/11/2019;Semipesados;VOLVO;290
+01/12/2019;Semipesados;VOLVO;244
+01/01/2019;Semipesados;Outras empresas;0
+01/02/2019;Semipesados;Outras empresas;0
+01/03/2019;Semipesados;Outras empresas;1
+01/04/2019;Semipesados;Outras empresas;0
+01/05/2019;Semipesados;Outras empresas;0
+01/06/2019;Semipesados;Outras empresas;2
+01/07/2019;Semipesados;Outras empresas;1
+01/08/2019;Semipesados;Outras empresas;35
+01/09/2019;Semipesados;Outras empresas;3
+01/10/2019;Semipesados;Outras empresas;12
+01/11/2019;Semipesados;Outras empresas;11
+01/12/2019;Semipesados;Outras empresas;7
+01/01/2019;Pesados;DAF;205
+01/02/2019;Pesados;DAF;215
+01/03/2019;Pesados;DAF;234
+01/04/2019;Pesados;DAF;272
+01/05/2019;Pesados;DAF;262
+01/06/2019;Pesados;DAF;251
+01/07/2019;Pesados;DAF;265
+01/08/2019;Pesados;DAF;312
+01/09/2019;Pesados;DAF;243
+01/10/2019;Pesados;DAF;260
+01/11/2019;Pesados;DAF;366
+01/12/2019;Pesados;DAF;341
+01/01/2019;Pesados;Ford;22
+01/02/2019;Pesados;Ford;7
+01/03/2019;Pesados;Ford;14
+01/04/2019;Pesados;Ford;14
+01/05/2019;Pesados;Ford;8
+01/06/2019;Pesados;Ford;7
+01/07/2019;Pesados;Ford;12
+01/08/2019;Pesados;Ford;13
+01/09/2019;Pesados;Ford;14
+01/10/2019;Pesados;Ford;15
+01/11/2019;Pesados;Ford;6
+01/12/2019;Pesados;Ford;21
+01/01/2019;Pesados;Iveco;175
+01/02/2019;Pesados;Iveco;116
+01/03/2019;Pesados;Iveco;130
+01/04/2019;Pesados;Iveco;171
+01/05/2019;Pesados;Iveco;191
+01/06/2019;Pesados;Iveco;134
+01/07/2019;Pesados;Iveco;185
+01/08/2019;Pesados;Iveco;144
+01/09/2019;Pesados;Iveco;123
+01/10/2019;Pesados;Iveco;192
+01/11/2019;Pesados;Iveco;271
+01/12/2019;Pesados;Iveco;190
+01/01/2019;Pesados;MAN;393
+01/02/2019;Pesados;MAN;362
+01/03/2019;Pesados;MAN;417
+01/04/2019;Pesados;MAN;554
+01/05/2019;Pesados;MAN;442
+01/06/2019;Pesados;MAN;356
+01/07/2019;Pesados;MAN;418
+01/08/2019;Pesados;MAN;365
+01/09/2019;Pesados;MAN;487
+01/10/2019;Pesados;MAN;462
+01/11/2019;Pesados;MAN;345
+01/12/2019;Pesados;MAN;421
+01/01/2019;Pesados;Mercedes-Benz;1079
+01/02/2019;Pesados;Mercedes-Benz;1019
+01/03/2019;Pesados;Mercedes-Benz;1340
+01/04/2019;Pesados;Mercedes-Benz;1266
+01/05/2019;Pesados;Mercedes-Benz;1293
+01/06/2019;Pesados;Mercedes-Benz;1100
+01/07/2019;Pesados;Mercedes-Benz;1269
+01/08/2019;Pesados;Mercedes-Benz;1260
+01/09/2019;Pesados;Mercedes-Benz;1271
+01/10/2019;Pesados;Mercedes-Benz;1150
+01/11/2019;Pesados;Mercedes-Benz;1172
+01/12/2019;Pesados;Mercedes-Benz;895
+01/01/2019;Pesados;SCANIA;914
+01/02/2019;Pesados;SCANIA;394
+01/03/2019;Pesados;SCANIA;742
+01/04/2019;Pesados;SCANIA;1113
+01/05/2019;Pesados;SCANIA;1400
+01/06/2019;Pesados;SCANIA;1107
+01/07/2019;Pesados;SCANIA;1234
+01/08/2019;Pesados;SCANIA;1422
+01/09/2019;Pesados;SCANIA;1308
+01/10/2019;Pesados;SCANIA;1429
+01/11/2019;Pesados;SCANIA;890
+01/12/2019;Pesados;SCANIA;716
+01/01/2019;Pesados;VOLVO;628
+01/02/2019;Pesados;VOLVO;1070
+01/03/2019;Pesados;VOLVO;1208
+01/04/2019;Pesados;VOLVO;1076
+01/05/2019;Pesados;VOLVO;1217
+01/06/2019;Pesados;VOLVO;1122
+01/07/2019;Pesados;VOLVO;1146
+01/08/2019;Pesados;VOLVO;1405
+01/09/2019;Pesados;VOLVO;1286
+01/10/2019;Pesados;VOLVO;1185
+01/11/2019;Pesados;VOLVO;1474
+01/12/2019;Pesados;VOLVO;1688
+01/01/2019;Pesados;Outras empresas;0
+01/02/2019;Pesados;Outras empresas;0
+01/03/2019;Pesados;Outras empresas;0
+01/04/2019;Pesados;Outras empresas;0
+01/05/2019;Pesados;Outras empresas;0
+01/06/2019;Pesados;Outras empresas;1
+01/07/2019;Pesados;Outras empresas;0
+01/08/2019;Pesados;Outras empresas;1
+01/09/2019;Pesados;Outras empresas;1
+01/10/2019;Pesados;Outras empresas;1
+01/11/2019;Pesados;Outras empresas;3
+01/12/2019;Pesados;Outras empresas;0
+01/01/2020;Semileves;Agrale;0
+01/02/2020;Semileves;Agrale;0
+01/03/2020;Semileves;Agrale;0
+01/04/2020;Semileves;Agrale;0
+01/05/2020;Semileves;Agrale;0
+01/06/2020;Semileves;Agrale;0
+01/07/2020;Semileves;Agrale;0
+01/08/2020;Semileves;Agrale;0
+01/09/2020;Semileves;Agrale;0
+01/10/2020;Semileves;Agrale;0
+01/11/2020;Semileves;Agrale;0
+01/12/2020;Semileves;Agrale;2
+01/01/2020;Semileves;FCA (Fiat/Dodge);284
+01/02/2020;Semileves;FCA (Fiat/Dodge);86
+01/03/2020;Semileves;FCA (Fiat/Dodge);15
+01/04/2020;Semileves;FCA (Fiat/Dodge);64
+01/05/2020;Semileves;FCA (Fiat/Dodge);124
+01/06/2020;Semileves;FCA (Fiat/Dodge);230
+01/07/2020;Semileves;FCA (Fiat/Dodge);105
+01/08/2020;Semileves;FCA (Fiat/Dodge);40
+01/09/2020;Semileves;FCA (Fiat/Dodge);22
+01/10/2020;Semileves;FCA (Fiat/Dodge);29
+01/11/2020;Semileves;FCA (Fiat/Dodge);194
+01/12/2020;Semileves;FCA (Fiat/Dodge);283
+01/01/2020;Semileves;Ford;13
+01/02/2020;Semileves;Ford;3
+01/03/2020;Semileves;Ford;3
+01/04/2020;Semileves;Ford;1
+01/05/2020;Semileves;Ford;1
+01/06/2020;Semileves;Ford;2
+01/07/2020;Semileves;Ford;2
+01/08/2020;Semileves;Ford;1
+01/09/2020;Semileves;Ford;0
+01/10/2020;Semileves;Ford;0
+01/11/2020;Semileves;Ford;1
+01/12/2020;Semileves;Ford;0
+01/01/2020;Semileves;Iveco;17
+01/02/2020;Semileves;Iveco;15
+01/03/2020;Semileves;Iveco;9
+01/04/2020;Semileves;Iveco;13
+01/05/2020;Semileves;Iveco;16
+01/06/2020;Semileves;Iveco;32
+01/07/2020;Semileves;Iveco;27
+01/08/2020;Semileves;Iveco;34
+01/09/2020;Semileves;Iveco;44
+01/10/2020;Semileves;Iveco;56
+01/11/2020;Semileves;Iveco;66
+01/12/2020;Semileves;Iveco;68
+01/01/2020;Semileves;MAN;39
+01/02/2020;Semileves;MAN;44
+01/03/2020;Semileves;MAN;30
+01/04/2020;Semileves;MAN;36
+01/05/2020;Semileves;MAN;24
+01/06/2020;Semileves;MAN;60
+01/07/2020;Semileves;MAN;41
+01/08/2020;Semileves;MAN;55
+01/09/2020;Semileves;MAN;76
+01/10/2020;Semileves;MAN;47
+01/11/2020;Semileves;MAN;50
+01/12/2020;Semileves;MAN;54
+01/01/2020;Semileves;Mercedes-Benz;162
+01/02/2020;Semileves;Mercedes-Benz;142
+01/03/2020;Semileves;Mercedes-Benz;120
+01/04/2020;Semileves;Mercedes-Benz;74
+01/05/2020;Semileves;Mercedes-Benz;92
+01/06/2020;Semileves;Mercedes-Benz;184
+01/07/2020;Semileves;Mercedes-Benz;291
+01/08/2020;Semileves;Mercedes-Benz;251
+01/09/2020;Semileves;Mercedes-Benz;218
+01/10/2020;Semileves;Mercedes-Benz;169
+01/11/2020;Semileves;Mercedes-Benz;208
+01/12/2020;Semileves;Mercedes-Benz;220
+01/01/2020;Semileves;Peugeot Citroën;27
+01/02/2020;Semileves;Peugeot Citroën;15
+01/03/2020;Semileves;Peugeot Citroën;13
+01/04/2020;Semileves;Peugeot Citroën;14
+01/05/2020;Semileves;Peugeot Citroën;8
+01/06/2020;Semileves;Peugeot Citroën;15
+01/07/2020;Semileves;Peugeot Citroën;27
+01/08/2020;Semileves;Peugeot Citroën;61
+01/09/2020;Semileves;Peugeot Citroën;24
+01/10/2020;Semileves;Peugeot Citroën;32
+01/11/2020;Semileves;Peugeot Citroën;8
+01/12/2020;Semileves;Peugeot Citroën;9
+01/01/2020;Semileves;Outras empresas;2
+01/02/2020;Semileves;Outras empresas;4
+01/03/2020;Semileves;Outras empresas;0
+01/04/2020;Semileves;Outras empresas;0
+01/05/2020;Semileves;Outras empresas;1
+01/06/2020;Semileves;Outras empresas;2
+01/07/2020;Semileves;Outras empresas;2
+01/08/2020;Semileves;Outras empresas;1
+01/09/2020;Semileves;Outras empresas;2
+01/10/2020;Semileves;Outras empresas;1
+01/11/2020;Semileves;Outras empresas;0
+01/12/2020;Semileves;Outras empresas;2
+01/01/2020;Leves;Agrale;2
+01/02/2020;Leves;Agrale;0
+01/03/2020;Leves;Agrale;1
+01/04/2020;Leves;Agrale;0
+01/05/2020;Leves;Agrale;0
+01/06/2020;Leves;Agrale;0
+01/07/2020;Leves;Agrale;0
+01/08/2020;Leves;Agrale;0
+01/09/2020;Leves;Agrale;1
+01/10/2020;Leves;Agrale;3
+01/11/2020;Leves;Agrale;2
+01/12/2020;Leves;Agrale;3
+01/01/2020;Leves;Caoa - Hyundai;8
+01/02/2020;Leves;Caoa - Hyundai;11
+01/03/2020;Leves;Caoa - Hyundai;9
+01/04/2020;Leves;Caoa - Hyundai;5
+01/05/2020;Leves;Caoa - Hyundai;19
+01/06/2020;Leves;Caoa - Hyundai;14
+01/07/2020;Leves;Caoa - Hyundai;11
+01/08/2020;Leves;Caoa - Hyundai;34
+01/09/2020;Leves;Caoa - Hyundai;37
+01/10/2020;Leves;Caoa - Hyundai;23
+01/11/2020;Leves;Caoa - Hyundai;25
+01/12/2020;Leves;Caoa - Hyundai;30
+01/01/2020;Leves;Ford;39
+01/02/2020;Leves;Ford;34
+01/03/2020;Leves;Ford;22
+01/04/2020;Leves;Ford;11
+01/05/2020;Leves;Ford;16
+01/06/2020;Leves;Ford;8
+01/07/2020;Leves;Ford;8
+01/08/2020;Leves;Ford;10
+01/09/2020;Leves;Ford;7
+01/10/2020;Leves;Ford;6
+01/11/2020;Leves;Ford;3
+01/12/2020;Leves;Ford;1
+01/01/2020;Leves;Iveco;50
+01/02/2020;Leves;Iveco;37
+01/03/2020;Leves;Iveco;50
+01/04/2020;Leves;Iveco;58
+01/05/2020;Leves;Iveco;39
+01/06/2020;Leves;Iveco;59
+01/07/2020;Leves;Iveco;73
+01/08/2020;Leves;Iveco;76
+01/09/2020;Leves;Iveco;76
+01/10/2020;Leves;Iveco;84
+01/11/2020;Leves;Iveco;85
+01/12/2020;Leves;Iveco;104
+01/01/2020;Leves;MAN;256
+01/02/2020;Leves;MAN;280
+01/03/2020;Leves;MAN;249
+01/04/2020;Leves;MAN;120
+01/05/2020;Leves;MAN;157
+01/06/2020;Leves;MAN;293
+01/07/2020;Leves;MAN;283
+01/08/2020;Leves;MAN;327
+01/09/2020;Leves;MAN;368
+01/10/2020;Leves;MAN;387
+01/11/2020;Leves;MAN;340
+01/12/2020;Leves;MAN;319
+01/01/2020;Leves;Mercedes-Benz;388
+01/02/2020;Leves;Mercedes-Benz;422
+01/03/2020;Leves;Mercedes-Benz;346
+01/04/2020;Leves;Mercedes-Benz;172
+01/05/2020;Leves;Mercedes-Benz;256
+01/06/2020;Leves;Mercedes-Benz;445
+01/07/2020;Leves;Mercedes-Benz;375
+01/08/2020;Leves;Mercedes-Benz;349
+01/09/2020;Leves;Mercedes-Benz;288
+01/10/2020;Leves;Mercedes-Benz;473
+01/11/2020;Leves;Mercedes-Benz;408
+01/12/2020;Leves;Mercedes-Benz;533
+01/01/2020;Leves;Outras empresas;1
+01/02/2020;Leves;Outras empresas;0
+01/03/2020;Leves;Outras empresas;0
+01/04/2020;Leves;Outras empresas;0
+01/05/2020;Leves;Outras empresas;0
+01/06/2020;Leves;Outras empresas;0
+01/07/2020;Leves;Outras empresas;2
+01/08/2020;Leves;Outras empresas;1
+01/09/2020;Leves;Outras empresas;3
+01/10/2020;Leves;Outras empresas;1
+01/11/2020;Leves;Outras empresas;0
+01/12/2020;Leves;Outras empresas;13
+01/01/2020;Médios;Agrale;0
+01/02/2020;Médios;Agrale;0
+01/03/2020;Médios;Agrale;0
+01/04/2020;Médios;Agrale;0
+01/05/2020;Médios;Agrale;0
+01/06/2020;Médios;Agrale;0
+01/07/2020;Médios;Agrale;1
+01/08/2020;Médios;Agrale;0
+01/09/2020;Médios;Agrale;0
+01/10/2020;Médios;Agrale;0
+01/11/2020;Médios;Agrale;1
+01/12/2020;Médios;Agrale;2
+01/01/2020;Médios;Ford;15
+01/02/2020;Médios;Ford;15
+01/03/2020;Médios;Ford;7
+01/04/2020;Médios;Ford;3
+01/05/2020;Médios;Ford;6
+01/06/2020;Médios;Ford;10
+01/07/2020;Médios;Ford;8
+01/08/2020;Médios;Ford;9
+01/09/2020;Médios;Ford;3
+01/10/2020;Médios;Ford;4
+01/11/2020;Médios;Ford;1
+01/12/2020;Médios;Ford;2
+01/01/2020;Médios;Iveco;29
+01/02/2020;Médios;Iveco;27
+01/03/2020;Médios;Iveco;15
+01/04/2020;Médios;Iveco;19
+01/05/2020;Médios;Iveco;24
+01/06/2020;Médios;Iveco;39
+01/07/2020;Médios;Iveco;39
+01/08/2020;Médios;Iveco;65
+01/09/2020;Médios;Iveco;61
+01/10/2020;Médios;Iveco;38
+01/11/2020;Médios;Iveco;48
+01/12/2020;Médios;Iveco;56
+01/01/2020;Médios;MAN;453
+01/02/2020;Médios;MAN;483
+01/03/2020;Médios;MAN;485
+01/04/2020;Médios;MAN;289
+01/05/2020;Médios;MAN;363
+01/06/2020;Médios;MAN;716
+01/07/2020;Médios;MAN;661
+01/08/2020;Médios;MAN;611
+01/09/2020;Médios;MAN;507
+01/10/2020;Médios;MAN;545
+01/11/2020;Médios;MAN;565
+01/12/2020;Médios;MAN;484
+01/01/2020;Médios;Mercedes-Benz;88
+01/02/2020;Médios;Mercedes-Benz;92
+01/03/2020;Médios;Mercedes-Benz;76
+01/04/2020;Médios;Mercedes-Benz;78
+01/05/2020;Médios;Mercedes-Benz;62
+01/06/2020;Médios;Mercedes-Benz;125
+01/07/2020;Médios;Mercedes-Benz;177
+01/08/2020;Médios;Mercedes-Benz;158
+01/09/2020;Médios;Mercedes-Benz;140
+01/10/2020;Médios;Mercedes-Benz;210
+01/11/2020;Médios;Mercedes-Benz;254
+01/12/2020;Médios;Mercedes-Benz;183
+01/01/2020;Médios;Outras empresas;0
+01/02/2020;Médios;Outras empresas;1
+01/03/2020;Médios;Outras empresas;1
+01/04/2020;Médios;Outras empresas;0
+01/05/2020;Médios;Outras empresas;0
+01/06/2020;Médios;Outras empresas;0
+01/07/2020;Médios;Outras empresas;1
+01/08/2020;Médios;Outras empresas;0
+01/09/2020;Médios;Outras empresas;0
+01/10/2020;Médios;Outras empresas;1
+01/11/2020;Médios;Outras empresas;1
+01/12/2020;Médios;Outras empresas;0
+01/01/2020;Semipesados;Ford;38
+01/02/2020;Semipesados;Ford;53
+01/03/2020;Semipesados;Ford;36
+01/04/2020;Semipesados;Ford;33
+01/05/2020;Semipesados;Ford;23
+01/06/2020;Semipesados;Ford;30
+01/07/2020;Semipesados;Ford;12
+01/08/2020;Semipesados;Ford;9
+01/09/2020;Semipesados;Ford;14
+01/10/2020;Semipesados;Ford;14
+01/11/2020;Semipesados;Ford;3
+01/12/2020;Semipesados;Ford;5
+01/01/2020;Semipesados;Iveco;90
+01/02/2020;Semipesados;Iveco;104
+01/03/2020;Semipesados;Iveco;92
+01/04/2020;Semipesados;Iveco;73
+01/05/2020;Semipesados;Iveco;95
+01/06/2020;Semipesados;Iveco;188
+01/07/2020;Semipesados;Iveco;194
+01/08/2020;Semipesados;Iveco;185
+01/09/2020;Semipesados;Iveco;197
+01/10/2020;Semipesados;Iveco;182
+01/11/2020;Semipesados;Iveco;183
+01/12/2020;Semipesados;Iveco;234
+01/01/2020;Semipesados;MAN;683
+01/02/2020;Semipesados;MAN;636
+01/03/2020;Semipesados;MAN;829
+01/04/2020;Semipesados;MAN;554
+01/05/2020;Semipesados;MAN;641
+01/06/2020;Semipesados;MAN;1011
+01/07/2020;Semipesados;MAN;1006
+01/08/2020;Semipesados;MAN;1170
+01/09/2020;Semipesados;MAN;1052
+01/10/2020;Semipesados;MAN;1140
+01/11/2020;Semipesados;MAN;1264
+01/12/2020;Semipesados;MAN;1323
+01/01/2020;Semipesados;Mercedes-Benz;593
+01/02/2020;Semipesados;Mercedes-Benz;697
+01/03/2020;Semipesados;Mercedes-Benz;517
+01/04/2020;Semipesados;Mercedes-Benz;331
+01/05/2020;Semipesados;Mercedes-Benz;368
+01/06/2020;Semipesados;Mercedes-Benz;665
+01/07/2020;Semipesados;Mercedes-Benz;724
+01/08/2020;Semipesados;Mercedes-Benz;582
+01/09/2020;Semipesados;Mercedes-Benz;603
+01/10/2020;Semipesados;Mercedes-Benz;685
+01/11/2020;Semipesados;Mercedes-Benz;808
+01/12/2020;Semipesados;Mercedes-Benz;891
+01/01/2020;Semipesados;SCANIA;0
+01/02/2020;Semipesados;SCANIA;8
+01/03/2020;Semipesados;SCANIA;1
+01/04/2020;Semipesados;SCANIA;2
+01/05/2020;Semipesados;SCANIA;1
+01/06/2020;Semipesados;SCANIA;0
+01/07/2020;Semipesados;SCANIA;3
+01/08/2020;Semipesados;SCANIA;3
+01/09/2020;Semipesados;SCANIA;0
+01/10/2020;Semipesados;SCANIA;0
+01/11/2020;Semipesados;SCANIA;2
+01/12/2020;Semipesados;SCANIA;2
+01/01/2020;Semipesados;VOLVO;215
+01/02/2020;Semipesados;VOLVO;142
+01/03/2020;Semipesados;VOLVO;158
+01/04/2020;Semipesados;VOLVO;108
+01/05/2020;Semipesados;VOLVO;168
+01/06/2020;Semipesados;VOLVO;207
+01/07/2020;Semipesados;VOLVO;230
+01/08/2020;Semipesados;VOLVO;198
+01/09/2020;Semipesados;VOLVO;192
+01/10/2020;Semipesados;VOLVO;179
+01/11/2020;Semipesados;VOLVO;194
+01/12/2020;Semipesados;VOLVO;230
+01/01/2020;Semipesados;Outras empresas;3
+01/02/2020;Semipesados;Outras empresas;2
+01/03/2020;Semipesados;Outras empresas;8
+01/04/2020;Semipesados;Outras empresas;0
+01/05/2020;Semipesados;Outras empresas;0
+01/06/2020;Semipesados;Outras empresas;2
+01/07/2020;Semipesados;Outras empresas;0
+01/08/2020;Semipesados;Outras empresas;0
+01/09/2020;Semipesados;Outras empresas;0
+01/10/2020;Semipesados;Outras empresas;0
+01/11/2020;Semipesados;Outras empresas;0
+01/12/2020;Semipesados;Outras empresas;2
+01/01/2020;Pesados;DAF;359
+01/02/2020;Pesados;DAF;289
+01/03/2020;Pesados;DAF;237
+01/04/2020;Pesados;DAF;175
+01/05/2020;Pesados;DAF;205
+01/06/2020;Pesados;DAF;465
+01/07/2020;Pesados;DAF;465
+01/08/2020;Pesados;DAF;380
+01/09/2020;Pesados;DAF;357
+01/10/2020;Pesados;DAF;262
+01/11/2020;Pesados;DAF;351
+01/12/2020;Pesados;DAF;286
+01/01/2020;Pesados;Ford;2
+01/02/2020;Pesados;Ford;3
+01/03/2020;Pesados;Ford;2
+01/04/2020;Pesados;Ford;2
+01/05/2020;Pesados;Ford;0
+01/06/2020;Pesados;Ford;2
+01/07/2020;Pesados;Ford;11
+01/08/2020;Pesados;Ford;5
+01/09/2020;Pesados;Ford;4
+01/10/2020;Pesados;Ford;2
+01/11/2020;Pesados;Ford;1
+01/12/2020;Pesados;Ford;0
+01/01/2020;Pesados;Iveco;125
+01/02/2020;Pesados;Iveco;96
+01/03/2020;Pesados;Iveco;59
+01/04/2020;Pesados;Iveco;95
+01/05/2020;Pesados;Iveco;76
+01/06/2020;Pesados;Iveco;170
+01/07/2020;Pesados;Iveco;195
+01/08/2020;Pesados;Iveco;221
+01/09/2020;Pesados;Iveco;191
+01/10/2020;Pesados;Iveco;125
+01/11/2020;Pesados;Iveco;115
+01/12/2020;Pesados;Iveco;131
+01/01/2020;Pesados;MAN;328
+01/02/2020;Pesados;MAN;301
+01/03/2020;Pesados;MAN;264
+01/04/2020;Pesados;MAN;172
+01/05/2020;Pesados;MAN;289
+01/06/2020;Pesados;MAN;564
+01/07/2020;Pesados;MAN;857
+01/08/2020;Pesados;MAN;441
+01/09/2020;Pesados;MAN;276
+01/10/2020;Pesados;MAN;166
+01/11/2020;Pesados;MAN;279
+01/12/2020;Pesados;MAN;243
+01/01/2020;Pesados;Mercedes-Benz;1124
+01/02/2020;Pesados;Mercedes-Benz;836
+01/03/2020;Pesados;Mercedes-Benz;872
+01/04/2020;Pesados;Mercedes-Benz;525
+01/05/2020;Pesados;Mercedes-Benz;557
+01/06/2020;Pesados;Mercedes-Benz;1256
+01/07/2020;Pesados;Mercedes-Benz;1743
+01/08/2020;Pesados;Mercedes-Benz;1368
+01/09/2020;Pesados;Mercedes-Benz;1051
+01/10/2020;Pesados;Mercedes-Benz;1161
+01/11/2020;Pesados;Mercedes-Benz;1425
+01/12/2020;Pesados;Mercedes-Benz;1278
+01/01/2020;Pesados;SCANIA;557
+01/02/2020;Pesados;SCANIA;623
+01/03/2020;Pesados;SCANIA;704
+01/04/2020;Pesados;SCANIA;297
+01/05/2020;Pesados;SCANIA;499
+01/06/2020;Pesados;SCANIA;933
+01/07/2020;Pesados;SCANIA;834
+01/08/2020;Pesados;SCANIA;517
+01/09/2020;Pesados;SCANIA;565
+01/10/2020;Pesados;SCANIA;832
+01/11/2020;Pesados;SCANIA;1010
+01/12/2020;Pesados;SCANIA;1319
+01/01/2020;Pesados;VOLVO;1295
+01/02/2020;Pesados;VOLVO;909
+01/03/2020;Pesados;VOLVO;1208
+01/04/2020;Pesados;VOLVO;627
+01/05/2020;Pesados;VOLVO;688
+01/06/2020;Pesados;VOLVO;1226
+01/07/2020;Pesados;VOLVO;1131
+01/08/2020;Pesados;VOLVO;914
+01/09/2020;Pesados;VOLVO;933
+01/10/2020;Pesados;VOLVO;1051
+01/11/2020;Pesados;VOLVO;1248
+01/12/2020;Pesados;VOLVO;1525
+01/01/2020;Pesados;Outras empresas;0
+01/02/2020;Pesados;Outras empresas;2
+01/03/2020;Pesados;Outras empresas;0
+01/04/2020;Pesados;Outras empresas;1
+01/05/2020;Pesados;Outras empresas;1
+01/06/2020;Pesados;Outras empresas;1
+01/07/2020;Pesados;Outras empresas;1
+01/08/2020;Pesados;Outras empresas;0
+01/09/2020;Pesados;Outras empresas;0
+01/10/2020;Pesados;Outras empresas;1
+01/11/2020;Pesados;Outras empresas;0
+01/12/2020;Pesados;Outras empresas;1
+01/01/2021;Semileves;Agrale;0
+01/02/2021;Semileves;Agrale;0
+01/03/2021;Semileves;Agrale;0
+01/04/2021;Semileves;Agrale;0
+01/05/2021;Semileves;Agrale;0
+01/06/2021;Semileves;Agrale;0
+01/07/2021;Semileves;Agrale;0
+01/08/2021;Semileves;Agrale;2
+01/09/2021;Semileves;Agrale;0
+01/10/2021;Semileves;Agrale;1
+01/11/2021;Semileves;Agrale;0
+01/12/2021;Semileves;Agrale;0
+01/01/2021;Semileves;FCA (Fiat/Dodge);304
+01/02/2021;Semileves;FCA (Fiat/Dodge);115
+01/03/2021;Semileves;FCA (Fiat/Dodge);51
+01/04/2021;Semileves;FCA (Fiat/Dodge);40
+01/05/2021;Semileves;FCA (Fiat/Dodge);208
+01/06/2021;Semileves;FCA (Fiat/Dodge);370
+01/07/2021;Semileves;FCA (Fiat/Dodge);560
+01/08/2021;Semileves;FCA (Fiat/Dodge);368
+01/09/2021;Semileves;FCA (Fiat/Dodge);131
+01/10/2021;Semileves;FCA (Fiat/Dodge);31
+01/11/2021;Semileves;FCA (Fiat/Dodge);13
+01/12/2021;Semileves;FCA (Fiat/Dodge);39
+01/01/2021;Semileves;Ford;2
+01/02/2021;Semileves;Ford;0
+01/03/2021;Semileves;Ford;0
+01/04/2021;Semileves;Ford;0
+01/05/2021;Semileves;Ford;1
+01/06/2021;Semileves;Ford;0
+01/07/2021;Semileves;Ford;1
+01/08/2021;Semileves;Ford;2
+01/09/2021;Semileves;Ford;0
+01/10/2021;Semileves;Ford;1
+01/11/2021;Semileves;Ford;1
+01/12/2021;Semileves;Ford;0
+01/01/2021;Semileves;Iveco;49
+01/02/2021;Semileves;Iveco;40
+01/03/2021;Semileves;Iveco;49
+01/04/2021;Semileves;Iveco;43
+01/05/2021;Semileves;Iveco;47
+01/06/2021;Semileves;Iveco;38
+01/07/2021;Semileves;Iveco;46
+01/08/2021;Semileves;Iveco;75
+01/09/2021;Semileves;Iveco;49
+01/10/2021;Semileves;Iveco;78
+01/11/2021;Semileves;Iveco;60
+01/12/2021;Semileves;Iveco;81
+01/01/2021;Semileves;MAN;21
+01/02/2021;Semileves;MAN;15
+01/03/2021;Semileves;MAN;63
+01/04/2021;Semileves;MAN;66
+01/05/2021;Semileves;MAN;32
+01/06/2021;Semileves;MAN;39
+01/07/2021;Semileves;MAN;24
+01/08/2021;Semileves;MAN;61
+01/09/2021;Semileves;MAN;63
+01/10/2021;Semileves;MAN;21
+01/11/2021;Semileves;MAN;32
+01/12/2021;Semileves;MAN;30
+01/01/2021;Semileves;Mercedes-Benz;215
+01/02/2021;Semileves;Mercedes-Benz;253
+01/03/2021;Semileves;Mercedes-Benz;338
+01/04/2021;Semileves;Mercedes-Benz;301
+01/05/2021;Semileves;Mercedes-Benz;291
+01/06/2021;Semileves;Mercedes-Benz;237
+01/07/2021;Semileves;Mercedes-Benz;270
+01/08/2021;Semileves;Mercedes-Benz;258
+01/09/2021;Semileves;Mercedes-Benz;260
+01/10/2021;Semileves;Mercedes-Benz;208
+01/11/2021;Semileves;Mercedes-Benz;191
+01/12/2021;Semileves;Mercedes-Benz;201
+01/01/2021;Semileves;Peugeot Citroën;40
+01/02/2021;Semileves;Peugeot Citroën;10
+01/03/2021;Semileves;Peugeot Citroën;12
+01/04/2021;Semileves;Peugeot Citroën;13
+01/05/2021;Semileves;Peugeot Citroën;18
+01/06/2021;Semileves;Peugeot Citroën;11
+01/07/2021;Semileves;Peugeot Citroën;20
+01/08/2021;Semileves;Peugeot Citroën;17
+01/09/2021;Semileves;Peugeot Citroën;8
+01/10/2021;Semileves;Peugeot Citroën;14
+01/11/2021;Semileves;Peugeot Citroën;1
+01/12/2021;Semileves;Peugeot Citroën;10
+01/01/2021;Semileves;Outras empresas;2
+01/02/2021;Semileves;Outras empresas;0
+01/03/2021;Semileves;Outras empresas;1
+01/04/2021;Semileves;Outras empresas;2
+01/05/2021;Semileves;Outras empresas;3
+01/06/2021;Semileves;Outras empresas;2
+01/07/2021;Semileves;Outras empresas;2
+01/08/2021;Semileves;Outras empresas;3
+01/09/2021;Semileves;Outras empresas;4
+01/10/2021;Semileves;Outras empresas;3
+01/11/2021;Semileves;Outras empresas;3
+01/12/2021;Semileves;Outras empresas;1
+01/01/2021;Leves;Agrale;2
+01/02/2021;Leves;Agrale;0
+01/03/2021;Leves;Agrale;1
+01/04/2021;Leves;Agrale;3
+01/05/2021;Leves;Agrale;4
+01/06/2021;Leves;Agrale;1
+01/07/2021;Leves;Agrale;1
+01/08/2021;Leves;Agrale;2
+01/09/2021;Leves;Agrale;4
+01/10/2021;Leves;Agrale;2
+01/11/2021;Leves;Agrale;6
+01/12/2021;Leves;Agrale;4
+01/01/2021;Leves;Caoa - Hyundai;14
+01/02/2021;Leves;Caoa - Hyundai;17
+01/03/2021;Leves;Caoa - Hyundai;38
+01/04/2021;Leves;Caoa - Hyundai;35
+01/05/2021;Leves;Caoa - Hyundai;40
+01/06/2021;Leves;Caoa - Hyundai;48
+01/07/2021;Leves;Caoa - Hyundai;59
+01/08/2021;Leves;Caoa - Hyundai;55
+01/09/2021;Leves;Caoa - Hyundai;41
+01/10/2021;Leves;Caoa - Hyundai;29
+01/11/2021;Leves;Caoa - Hyundai;51
+01/12/2021;Leves;Caoa - Hyundai;62
+01/01/2021;Leves;Ford;1
+01/02/2021;Leves;Ford;4
+01/03/2021;Leves;Ford;2
+01/04/2021;Leves;Ford;4
+01/05/2021;Leves;Ford;12
+01/06/2021;Leves;Ford;4
+01/07/2021;Leves;Ford;5
+01/08/2021;Leves;Ford;4
+01/09/2021;Leves;Ford;5
+01/10/2021;Leves;Ford;5
+01/11/2021;Leves;Ford;3
+01/12/2021;Leves;Ford;4
+01/01/2021;Leves;Iveco;81
+01/02/2021;Leves;Iveco;61
+01/03/2021;Leves;Iveco;62
+01/04/2021;Leves;Iveco;79
+01/05/2021;Leves;Iveco;95
+01/06/2021;Leves;Iveco;88
+01/07/2021;Leves;Iveco;101
+01/08/2021;Leves;Iveco;101
+01/09/2021;Leves;Iveco;139
+01/10/2021;Leves;Iveco;110
+01/11/2021;Leves;Iveco;97
+01/12/2021;Leves;Iveco;152
+01/01/2021;Leves;MAN;155
+01/02/2021;Leves;MAN;238
+01/03/2021;Leves;MAN;316
+01/04/2021;Leves;MAN;329
+01/05/2021;Leves;MAN;413
+01/06/2021;Leves;MAN;339
+01/07/2021;Leves;MAN;383
+01/08/2021;Leves;MAN;431
+01/09/2021;Leves;MAN;382
+01/10/2021;Leves;MAN;303
+01/11/2021;Leves;MAN;327
+01/12/2021;Leves;MAN;336
+01/01/2021;Leves;Mercedes-Benz;464
+01/02/2021;Leves;Mercedes-Benz;482
+01/03/2021;Leves;Mercedes-Benz;551
+01/04/2021;Leves;Mercedes-Benz;517
+01/05/2021;Leves;Mercedes-Benz;463
+01/06/2021;Leves;Mercedes-Benz;509
+01/07/2021;Leves;Mercedes-Benz;550
+01/08/2021;Leves;Mercedes-Benz;620
+01/09/2021;Leves;Mercedes-Benz;569
+01/10/2021;Leves;Mercedes-Benz;587
+01/11/2021;Leves;Mercedes-Benz;643
+01/12/2021;Leves;Mercedes-Benz;613
+01/01/2021;Leves;Outras empresas;1
+01/02/2021;Leves;Outras empresas;7
+01/03/2021;Leves;Outras empresas;20
+01/04/2021;Leves;Outras empresas;4
+01/05/2021;Leves;Outras empresas;7
+01/06/2021;Leves;Outras empresas;5
+01/07/2021;Leves;Outras empresas;18
+01/08/2021;Leves;Outras empresas;35
+01/09/2021;Leves;Outras empresas;46
+01/10/2021;Leves;Outras empresas;38
+01/11/2021;Leves;Outras empresas;81
+01/12/2021;Leves;Outras empresas;57
+01/01/2021;Médios;Agrale;0
+01/02/2021;Médios;Agrale;3
+01/03/2021;Médios;Agrale;0
+01/04/2021;Médios;Agrale;0
+01/05/2021;Médios;Agrale;0
+01/06/2021;Médios;Agrale;0
+01/07/2021;Médios;Agrale;0
+01/08/2021;Médios;Agrale;0
+01/09/2021;Médios;Agrale;0
+01/10/2021;Médios;Agrale;0
+01/11/2021;Médios;Agrale;5
+01/12/2021;Médios;Agrale;3
+01/01/2021;Médios;Ford;1
+01/02/2021;Médios;Ford;4
+01/03/2021;Médios;Ford;3
+01/04/2021;Médios;Ford;1
+01/05/2021;Médios;Ford;0
+01/06/2021;Médios;Ford;3
+01/07/2021;Médios;Ford;2
+01/08/2021;Médios;Ford;3
+01/09/2021;Médios;Ford;2
+01/10/2021;Médios;Ford;1
+01/11/2021;Médios;Ford;4
+01/12/2021;Médios;Ford;1
+01/01/2021;Médios;Iveco;71
+01/02/2021;Médios;Iveco;58
+01/03/2021;Médios;Iveco;68
+01/04/2021;Médios;Iveco;65
+01/05/2021;Médios;Iveco;55
+01/06/2021;Médios;Iveco;85
+01/07/2021;Médios;Iveco;86
+01/08/2021;Médios;Iveco;89
+01/09/2021;Médios;Iveco;77
+01/10/2021;Médios;Iveco;86
+01/11/2021;Médios;Iveco;102
+01/12/2021;Médios;Iveco;99
+01/01/2021;Médios;MAN;487
+01/02/2021;Médios;MAN;431
+01/03/2021;Médios;MAN;715
+01/04/2021;Médios;MAN;631
+01/05/2021;Médios;MAN;694
+01/06/2021;Médios;MAN;691
+01/07/2021;Médios;MAN;875
+01/08/2021;Médios;MAN;882
+01/09/2021;Médios;MAN;774
+01/10/2021;Médios;MAN;746
+01/11/2021;Médios;MAN;745
+01/12/2021;Médios;MAN;705
+01/01/2021;Médios;Mercedes-Benz;132
+01/02/2021;Médios;Mercedes-Benz;125
+01/03/2021;Médios;Mercedes-Benz;146
+01/04/2021;Médios;Mercedes-Benz;119
+01/05/2021;Médios;Mercedes-Benz;115
+01/06/2021;Médios;Mercedes-Benz;119
+01/07/2021;Médios;Mercedes-Benz;180
+01/08/2021;Médios;Mercedes-Benz;149
+01/09/2021;Médios;Mercedes-Benz;179
+01/10/2021;Médios;Mercedes-Benz;142
+01/11/2021;Médios;Mercedes-Benz;203
+01/12/2021;Médios;Mercedes-Benz;191
+01/01/2021;Médios;Outras empresas;0
+01/02/2021;Médios;Outras empresas;1
+01/03/2021;Médios;Outras empresas;1
+01/04/2021;Médios;Outras empresas;0
+01/05/2021;Médios;Outras empresas;1
+01/06/2021;Médios;Outras empresas;0
+01/07/2021;Médios;Outras empresas;0
+01/08/2021;Médios;Outras empresas;6
+01/09/2021;Médios;Outras empresas;6
+01/10/2021;Médios;Outras empresas;7
+01/11/2021;Médios;Outras empresas;8
+01/12/2021;Médios;Outras empresas;2
+01/01/2021;Semipesados;Agrale;0
+01/02/2021;Semipesados;Agrale;1
+01/03/2021;Semipesados;Agrale;0
+01/04/2021;Semipesados;Agrale;0
+01/05/2021;Semipesados;Agrale;0
+01/06/2021;Semipesados;Agrale;2
+01/07/2021;Semipesados;Agrale;0
+01/08/2021;Semipesados;Agrale;0
+01/09/2021;Semipesados;Agrale;0
+01/10/2021;Semipesados;Agrale;0
+01/11/2021;Semipesados;Agrale;1
+01/12/2021;Semipesados;Agrale;2
+01/01/2021;Semipesados;DAF;0
+01/02/2021;Semipesados;DAF;0
+01/03/2021;Semipesados;DAF;0
+01/04/2021;Semipesados;DAF;0
+01/05/2021;Semipesados;DAF;0
+01/06/2021;Semipesados;DAF;0
+01/07/2021;Semipesados;DAF;0
+01/08/2021;Semipesados;DAF;2
+01/09/2021;Semipesados;DAF;4
+01/10/2021;Semipesados;DAF;3
+01/11/2021;Semipesados;DAF;5
+01/12/2021;Semipesados;DAF;2
+01/01/2021;Semipesados;Ford;0
+01/02/2021;Semipesados;Ford;0
+01/03/2021;Semipesados;Ford;6
+01/04/2021;Semipesados;Ford;8
+01/05/2021;Semipesados;Ford;6
+01/06/2021;Semipesados;Ford;3
+01/07/2021;Semipesados;Ford;3
+01/08/2021;Semipesados;Ford;2
+01/09/2021;Semipesados;Ford;3
+01/10/2021;Semipesados;Ford;5
+01/11/2021;Semipesados;Ford;3
+01/12/2021;Semipesados;Ford;2
+01/01/2021;Semipesados;Iveco;172
+01/02/2021;Semipesados;Iveco;120
+01/03/2021;Semipesados;Iveco;187
+01/04/2021;Semipesados;Iveco;165
+01/05/2021;Semipesados;Iveco;205
+01/06/2021;Semipesados;Iveco;230
+01/07/2021;Semipesados;Iveco;275
+01/08/2021;Semipesados;Iveco;249
+01/09/2021;Semipesados;Iveco;248
+01/10/2021;Semipesados;Iveco;274
+01/11/2021;Semipesados;Iveco;288
+01/12/2021;Semipesados;Iveco;295
+01/01/2021;Semipesados;MAN;896
+01/02/2021;Semipesados;MAN;1108
+01/03/2021;Semipesados;MAN;1301
+01/04/2021;Semipesados;MAN;1269
+01/05/2021;Semipesados;MAN;1503
+01/06/2021;Semipesados;MAN;1408
+01/07/2021;Semipesados;MAN;1684
+01/08/2021;Semipesados;MAN;1692
+01/09/2021;Semipesados;MAN;1578
+01/10/2021;Semipesados;MAN;1483
+01/11/2021;Semipesados;MAN;1344
+01/12/2021;Semipesados;MAN;1475
+01/01/2021;Semipesados;Mercedes-Benz;802
+01/02/2021;Semipesados;Mercedes-Benz;696
+01/03/2021;Semipesados;Mercedes-Benz;778
+01/04/2021;Semipesados;Mercedes-Benz;650
+01/05/2021;Semipesados;Mercedes-Benz;632
+01/06/2021;Semipesados;Mercedes-Benz;745
+01/07/2021;Semipesados;Mercedes-Benz;764
+01/08/2021;Semipesados;Mercedes-Benz;735
+01/09/2021;Semipesados;Mercedes-Benz;808
+01/10/2021;Semipesados;Mercedes-Benz;729
+01/11/2021;Semipesados;Mercedes-Benz;744
+01/12/2021;Semipesados;Mercedes-Benz;739
+01/01/2021;Semipesados;SCANIA;0
+01/02/2021;Semipesados;SCANIA;0
+01/03/2021;Semipesados;SCANIA;1
+01/04/2021;Semipesados;SCANIA;0
+01/05/2021;Semipesados;SCANIA;0
+01/06/2021;Semipesados;SCANIA;0
+01/07/2021;Semipesados;SCANIA;0
+01/08/2021;Semipesados;SCANIA;0
+01/09/2021;Semipesados;SCANIA;0
+01/10/2021;Semipesados;SCANIA;0
+01/11/2021;Semipesados;SCANIA;0
+01/12/2021;Semipesados;SCANIA;0
+01/01/2021;Semipesados;VOLVO;151
+01/02/2021;Semipesados;VOLVO;147
+01/03/2021;Semipesados;VOLVO;210
+01/04/2021;Semipesados;VOLVO;275
+01/05/2021;Semipesados;VOLVO;338
+01/06/2021;Semipesados;VOLVO;372
+01/07/2021;Semipesados;VOLVO;301
+01/08/2021;Semipesados;VOLVO;394
+01/09/2021;Semipesados;VOLVO;389
+01/10/2021;Semipesados;VOLVO;398
+01/11/2021;Semipesados;VOLVO;399
+01/12/2021;Semipesados;VOLVO;469
+01/01/2021;Semipesados;Outras empresas;0
+01/02/2021;Semipesados;Outras empresas;1
+01/03/2021;Semipesados;Outras empresas;0
+01/04/2021;Semipesados;Outras empresas;1
+01/05/2021;Semipesados;Outras empresas;1
+01/06/2021;Semipesados;Outras empresas;0
+01/07/2021;Semipesados;Outras empresas;0
+01/08/2021;Semipesados;Outras empresas;0
+01/09/2021;Semipesados;Outras empresas;3
+01/10/2021;Semipesados;Outras empresas;0
+01/11/2021;Semipesados;Outras empresas;2
+01/12/2021;Semipesados;Outras empresas;1
+01/01/2021;Pesados;DAF;311
+01/02/2021;Pesados;DAF;329
+01/03/2021;Pesados;DAF;481
+01/04/2021;Pesados;DAF;511
+01/05/2021;Pesados;DAF;567
+01/06/2021;Pesados;DAF;382
+01/07/2021;Pesados;DAF;449
+01/08/2021;Pesados;DAF;560
+01/09/2021;Pesados;DAF;447
+01/10/2021;Pesados;DAF;494
+01/11/2021;Pesados;DAF;501
+01/12/2021;Pesados;DAF;552
+01/01/2021;Pesados;Ford;0
+01/02/2021;Pesados;Ford;0
+01/03/2021;Pesados;Ford;0
+01/04/2021;Pesados;Ford;1
+01/05/2021;Pesados;Ford;1
+01/06/2021;Pesados;Ford;3
+01/07/2021;Pesados;Ford;0
+01/08/2021;Pesados;Ford;1
+01/09/2021;Pesados;Ford;0
+01/10/2021;Pesados;Ford;0
+01/11/2021;Pesados;Ford;0
+01/12/2021;Pesados;Ford;0
+01/01/2021;Pesados;Iveco;184
+01/02/2021;Pesados;Iveco;88
+01/03/2021;Pesados;Iveco;181
+01/04/2021;Pesados;Iveco;277
+01/05/2021;Pesados;Iveco;249
+01/06/2021;Pesados;Iveco;316
+01/07/2021;Pesados;Iveco;327
+01/08/2021;Pesados;Iveco;321
+01/09/2021;Pesados;Iveco;276
+01/10/2021;Pesados;Iveco;257
+01/11/2021;Pesados;Iveco;292
+01/12/2021;Pesados;Iveco;352
+01/01/2021;Pesados;MAN;377
+01/02/2021;Pesados;MAN;408
+01/03/2021;Pesados;MAN;740
+01/04/2021;Pesados;MAN;535
+01/05/2021;Pesados;MAN;681
+01/06/2021;Pesados;MAN;726
+01/07/2021;Pesados;MAN;538
+01/08/2021;Pesados;MAN;694
+01/09/2021;Pesados;MAN;810
+01/10/2021;Pesados;MAN;661
+01/11/2021;Pesados;MAN;833
+01/12/2021;Pesados;MAN;923
+01/01/2021;Pesados;Mercedes-Benz;1127
+01/02/2021;Pesados;Mercedes-Benz;993
+01/03/2021;Pesados;Mercedes-Benz;1210
+01/04/2021;Pesados;Mercedes-Benz;1150
+01/05/2021;Pesados;Mercedes-Benz;1492
+01/06/2021;Pesados;Mercedes-Benz;1626
+01/07/2021;Pesados;Mercedes-Benz;1622
+01/08/2021;Pesados;Mercedes-Benz;1833
+01/09/2021;Pesados;Mercedes-Benz;1304
+01/10/2021;Pesados;Mercedes-Benz;1363
+01/11/2021;Pesados;Mercedes-Benz;1035
+01/12/2021;Pesados;Mercedes-Benz;1144
+01/01/2021;Pesados;SCANIA;610
+01/02/2021;Pesados;SCANIA;788
+01/03/2021;Pesados;SCANIA;1714
+01/04/2021;Pesados;SCANIA;1529
+01/05/2021;Pesados;SCANIA;1733
+01/06/2021;Pesados;SCANIA;1419
+01/07/2021;Pesados;SCANIA;1180
+01/08/2021;Pesados;SCANIA;1423
+01/09/2021;Pesados;SCANIA;1374
+01/10/2021;Pesados;SCANIA;1140
+01/11/2021;Pesados;SCANIA;1024
+01/12/2021;Pesados;SCANIA;1676
+01/01/2021;Pesados;VOLVO;865
+01/02/2021;Pesados;VOLVO;1237
+01/03/2021;Pesados;VOLVO;1513
+01/04/2021;Pesados;VOLVO;1162
+01/05/2021;Pesados;VOLVO;1590
+01/06/2021;Pesados;VOLVO;1550
+01/07/2021;Pesados;VOLVO;1645
+01/08/2021;Pesados;VOLVO;1876
+01/09/2021;Pesados;VOLVO;1629
+01/10/2021;Pesados;VOLVO;1826
+01/11/2021;Pesados;VOLVO;1423
+01/12/2021;Pesados;VOLVO;1664
+01/01/2021;Pesados;Outras empresas;0
+01/02/2021;Pesados;Outras empresas;1
+01/03/2021;Pesados;Outras empresas;0
+01/04/2021;Pesados;Outras empresas;0
+01/05/2021;Pesados;Outras empresas;0
+01/06/2021;Pesados;Outras empresas;0
+01/07/2021;Pesados;Outras empresas;3
+01/08/2021;Pesados;Outras empresas;0
+01/09/2021;Pesados;Outras empresas;12
+01/10/2021;Pesados;Outras empresas;1
+01/11/2021;Pesados;Outras empresas;2
+01/12/2021;Pesados;Outras empresas;0
+01/01/2022;Semileves;Agrale;0
+01/02/2022;Semileves;Agrale;0
+01/03/2022;Semileves;Agrale;0
+01/04/2022;Semileves;Agrale;0
+01/05/2022;Semileves;Agrale;3
+01/06/2022;Semileves;Agrale;0
+01/07/2022;Semileves;Agrale;1
+01/08/2022;Semileves;Agrale;2
+01/09/2022;Semileves;Agrale;0
+01/10/2022;Semileves;Agrale;0
+01/11/2022;Semileves;Agrale;0
+01/12/2022;Semileves;Agrale;0
+01/01/2022;Semileves;FCA (Fiat/Dodge);253
+01/02/2022;Semileves;FCA (Fiat/Dodge);48
+01/03/2022;Semileves;FCA (Fiat/Dodge);59
+01/04/2022;Semileves;FCA (Fiat/Dodge);86
+01/05/2022;Semileves;FCA (Fiat/Dodge);193
+01/06/2022;Semileves;FCA (Fiat/Dodge);204
+01/07/2022;Semileves;FCA (Fiat/Dodge);337
+01/08/2022;Semileves;FCA (Fiat/Dodge);333
+01/09/2022;Semileves;FCA (Fiat/Dodge);529
+01/10/2022;Semileves;FCA (Fiat/Dodge);291
+01/11/2022;Semileves;FCA (Fiat/Dodge);337
+01/12/2022;Semileves;FCA (Fiat/Dodge);592
+01/01/2022;Semileves;Ford;3
+01/02/2022;Semileves;Ford;1
+01/03/2022;Semileves;Ford;0
+01/04/2022;Semileves;Ford;1
+01/05/2022;Semileves;Ford;0
+01/06/2022;Semileves;Ford;0
+01/07/2022;Semileves;Ford;1
+01/08/2022;Semileves;Ford;3
+01/09/2022;Semileves;Ford;1
+01/10/2022;Semileves;Ford;2
+01/11/2022;Semileves;Ford;0
+01/12/2022;Semileves;Ford;5
+01/01/2022;Semileves;Iveco;78
+01/02/2022;Semileves;Iveco;51
+01/03/2022;Semileves;Iveco;94
+01/04/2022;Semileves;Iveco;73
+01/05/2022;Semileves;Iveco;105
+01/06/2022;Semileves;Iveco;142
+01/07/2022;Semileves;Iveco;97
+01/08/2022;Semileves;Iveco;95
+01/09/2022;Semileves;Iveco;109
+01/10/2022;Semileves;Iveco;109
+01/11/2022;Semileves;Iveco;71
+01/12/2022;Semileves;Iveco;59
+01/01/2022;Semileves;MAN;24
+01/02/2022;Semileves;MAN;32
+01/03/2022;Semileves;MAN;25
+01/04/2022;Semileves;MAN;26
+01/05/2022;Semileves;MAN;52
+01/06/2022;Semileves;MAN;90
+01/07/2022;Semileves;MAN;78
+01/08/2022;Semileves;MAN;89
+01/09/2022;Semileves;MAN;39
+01/10/2022;Semileves;MAN;94
+01/11/2022;Semileves;MAN;30
+01/12/2022;Semileves;MAN;47
+01/01/2022;Semileves;Mercedes-Benz;151
+01/02/2022;Semileves;Mercedes-Benz;151
+01/03/2022;Semileves;Mercedes-Benz;239
+01/04/2022;Semileves;Mercedes-Benz;227
+01/05/2022;Semileves;Mercedes-Benz;254
+01/06/2022;Semileves;Mercedes-Benz;242
+01/07/2022;Semileves;Mercedes-Benz;201
+01/08/2022;Semileves;Mercedes-Benz;232
+01/09/2022;Semileves;Mercedes-Benz;186
+01/10/2022;Semileves;Mercedes-Benz;189
+01/11/2022;Semileves;Mercedes-Benz;171
+01/12/2022;Semileves;Mercedes-Benz;188
+01/01/2022;Semileves;Peugeot Citroën;4
+01/02/2022;Semileves;Peugeot Citroën;3
+01/03/2022;Semileves;Peugeot Citroën;0
+01/04/2022;Semileves;Peugeot Citroën;5
+01/05/2022;Semileves;Peugeot Citroën;9
+01/06/2022;Semileves;Peugeot Citroën;8
+01/07/2022;Semileves;Peugeot Citroën;14
+01/08/2022;Semileves;Peugeot Citroën;4
+01/09/2022;Semileves;Peugeot Citroën;4
+01/10/2022;Semileves;Peugeot Citroën;0
+01/11/2022;Semileves;Peugeot Citroën;2
+01/12/2022;Semileves;Peugeot Citroën;2
+01/01/2022;Semileves;Outras empresas;2
+01/02/2022;Semileves;Outras empresas;1
+01/03/2022;Semileves;Outras empresas;6
+01/04/2022;Semileves;Outras empresas;7
+01/05/2022;Semileves;Outras empresas;11
+01/06/2022;Semileves;Outras empresas;8
+01/07/2022;Semileves;Outras empresas;6
+01/08/2022;Semileves;Outras empresas;7
+01/09/2022;Semileves;Outras empresas;9
+01/10/2022;Semileves;Outras empresas;4
+01/11/2022;Semileves;Outras empresas;9
+01/12/2022;Semileves;Outras empresas;3
+01/01/2022;Leves;Agrale;3
+01/02/2022;Leves;Agrale;5
+01/03/2022;Leves;Agrale;5
+01/04/2022;Leves;Agrale;2
+01/05/2022;Leves;Agrale;5
+01/06/2022;Leves;Agrale;9
+01/07/2022;Leves;Agrale;5
+01/08/2022;Leves;Agrale;6
+01/09/2022;Leves;Agrale;3
+01/10/2022;Leves;Agrale;1
+01/11/2022;Leves;Agrale;3
+01/12/2022;Leves;Agrale;4
+01/01/2022;Leves;Caoa - Hyundai;25
+01/02/2022;Leves;Caoa - Hyundai;15
+01/03/2022;Leves;Caoa - Hyundai;14
+01/04/2022;Leves;Caoa - Hyundai;34
+01/05/2022;Leves;Caoa - Hyundai;31
+01/06/2022;Leves;Caoa - Hyundai;21
+01/07/2022;Leves;Caoa - Hyundai;14
+01/08/2022;Leves;Caoa - Hyundai;16
+01/09/2022;Leves;Caoa - Hyundai;17
+01/10/2022;Leves;Caoa - Hyundai;21
+01/11/2022;Leves;Caoa - Hyundai;21
+01/12/2022;Leves;Caoa - Hyundai;16
+01/01/2022;Leves;Ford;4
+01/02/2022;Leves;Ford;1
+01/03/2022;Leves;Ford;2
+01/04/2022;Leves;Ford;1
+01/05/2022;Leves;Ford;0
+01/06/2022;Leves;Ford;2
+01/07/2022;Leves;Ford;4
+01/08/2022;Leves;Ford;2
+01/09/2022;Leves;Ford;0
+01/10/2022;Leves;Ford;4
+01/11/2022;Leves;Ford;1
+01/12/2022;Leves;Ford;0
+01/01/2022;Leves;Iveco;83
+01/02/2022;Leves;Iveco;96
+01/03/2022;Leves;Iveco;115
+01/04/2022;Leves;Iveco;107
+01/05/2022;Leves;Iveco;129
+01/06/2022;Leves;Iveco;97
+01/07/2022;Leves;Iveco;133
+01/08/2022;Leves;Iveco;102
+01/09/2022;Leves;Iveco;104
+01/10/2022;Leves;Iveco;53
+01/11/2022;Leves;Iveco;72
+01/12/2022;Leves;Iveco;72
+01/01/2022;Leves;MAN;245
+01/02/2022;Leves;MAN;193
+01/03/2022;Leves;MAN;291
+01/04/2022;Leves;MAN;223
+01/05/2022;Leves;MAN;321
+01/06/2022;Leves;MAN;271
+01/07/2022;Leves;MAN;303
+01/08/2022;Leves;MAN;412
+01/09/2022;Leves;MAN;370
+01/10/2022;Leves;MAN;192
+01/11/2022;Leves;MAN;208
+01/12/2022;Leves;MAN;206
+01/01/2022;Leves;Mercedes-Benz;467
+01/02/2022;Leves;Mercedes-Benz;484
+01/03/2022;Leves;Mercedes-Benz;492
+01/04/2022;Leves;Mercedes-Benz;408
+01/05/2022;Leves;Mercedes-Benz;440
+01/06/2022;Leves;Mercedes-Benz;530
+01/07/2022;Leves;Mercedes-Benz;506
+01/08/2022;Leves;Mercedes-Benz;467
+01/09/2022;Leves;Mercedes-Benz;461
+01/10/2022;Leves;Mercedes-Benz;399
+01/11/2022;Leves;Mercedes-Benz;410
+01/12/2022;Leves;Mercedes-Benz;486
+01/01/2022;Leves;Outras empresas;42
+01/02/2022;Leves;Outras empresas;154
+01/03/2022;Leves;Outras empresas;33
+01/04/2022;Leves;Outras empresas;29
+01/05/2022;Leves;Outras empresas;12
+01/06/2022;Leves;Outras empresas;10
+01/07/2022;Leves;Outras empresas;44
+01/08/2022;Leves;Outras empresas;6
+01/09/2022;Leves;Outras empresas;25
+01/10/2022;Leves;Outras empresas;83
+01/11/2022;Leves;Outras empresas;54
+01/12/2022;Leves;Outras empresas;54
+01/01/2022;Médios;Agrale;2
+01/02/2022;Médios;Agrale;0
+01/03/2022;Médios;Agrale;2
+01/04/2022;Médios;Agrale;0
+01/05/2022;Médios;Agrale;1
+01/06/2022;Médios;Agrale;4
+01/07/2022;Médios;Agrale;0
+01/08/2022;Médios;Agrale;1
+01/09/2022;Médios;Agrale;0
+01/10/2022;Médios;Agrale;0
+01/11/2022;Médios;Agrale;5
+01/12/2022;Médios;Agrale;1
+01/01/2022;Médios;Ford;0
+01/02/2022;Médios;Ford;0
+01/03/2022;Médios;Ford;2
+01/04/2022;Médios;Ford;1
+01/05/2022;Médios;Ford;1
+01/06/2022;Médios;Ford;0
+01/07/2022;Médios;Ford;2
+01/08/2022;Médios;Ford;1
+01/09/2022;Médios;Ford;0
+01/10/2022;Médios;Ford;0
+01/11/2022;Médios;Ford;1
+01/12/2022;Médios;Ford;0
+01/01/2022;Médios;Iveco;106
+01/02/2022;Médios;Iveco;87
+01/03/2022;Médios;Iveco;97
+01/04/2022;Médios;Iveco;82
+01/05/2022;Médios;Iveco;140
+01/06/2022;Médios;Iveco;76
+01/07/2022;Médios;Iveco;84
+01/08/2022;Médios;Iveco;112
+01/09/2022;Médios;Iveco;103
+01/10/2022;Médios;Iveco;66
+01/11/2022;Médios;Iveco;77
+01/12/2022;Médios;Iveco;130
+01/01/2022;Médios;MAN;521
+01/02/2022;Médios;MAN;659
+01/03/2022;Médios;MAN;770
+01/04/2022;Médios;MAN;800
+01/05/2022;Médios;MAN;601
+01/06/2022;Médios;MAN;695
+01/07/2022;Médios;MAN;631
+01/08/2022;Médios;MAN;630
+01/09/2022;Médios;MAN;581
+01/10/2022;Médios;MAN;551
+01/11/2022;Médios;MAN;590
+01/12/2022;Médios;MAN;625
+01/01/2022;Médios;Mercedes-Benz;107
+01/02/2022;Médios;Mercedes-Benz;146
+01/03/2022;Médios;Mercedes-Benz;186
+01/04/2022;Médios;Mercedes-Benz;134
+01/05/2022;Médios;Mercedes-Benz;115
+01/06/2022;Médios;Mercedes-Benz;177
+01/07/2022;Médios;Mercedes-Benz;115
+01/08/2022;Médios;Mercedes-Benz;89
+01/09/2022;Médios;Mercedes-Benz;90
+01/10/2022;Médios;Mercedes-Benz;71
+01/11/2022;Médios;Mercedes-Benz;103
+01/12/2022;Médios;Mercedes-Benz;168
+01/01/2022;Médios;Outras empresas;1
+01/02/2022;Médios;Outras empresas;5
+01/03/2022;Médios;Outras empresas;4
+01/04/2022;Médios;Outras empresas;8
+01/05/2022;Médios;Outras empresas;6
+01/06/2022;Médios;Outras empresas;6
+01/07/2022;Médios;Outras empresas;9
+01/08/2022;Médios;Outras empresas;3
+01/09/2022;Médios;Outras empresas;3
+01/10/2022;Médios;Outras empresas;7
+01/11/2022;Médios;Outras empresas;9
+01/12/2022;Médios;Outras empresas;23
+01/01/2022;Semipesados;Agrale;0
+01/02/2022;Semipesados;Agrale;0
+01/03/2022;Semipesados;Agrale;0
+01/04/2022;Semipesados;Agrale;0
+01/05/2022;Semipesados;Agrale;0
+01/06/2022;Semipesados;Agrale;0
+01/07/2022;Semipesados;Agrale;0
+01/08/2022;Semipesados;Agrale;0
+01/09/2022;Semipesados;Agrale;0
+01/10/2022;Semipesados;Agrale;0
+01/11/2022;Semipesados;Agrale;2
+01/12/2022;Semipesados;Agrale;1
+01/01/2022;Semipesados;DAF;1
+01/02/2022;Semipesados;DAF;9
+01/03/2022;Semipesados;DAF;10
+01/04/2022;Semipesados;DAF;15
+01/05/2022;Semipesados;DAF;20
+01/06/2022;Semipesados;DAF;18
+01/07/2022;Semipesados;DAF;35
+01/08/2022;Semipesados;DAF;25
+01/09/2022;Semipesados;DAF;15
+01/10/2022;Semipesados;DAF;40
+01/11/2022;Semipesados;DAF;45
+01/12/2022;Semipesados;DAF;60
+01/01/2022;Semipesados;Ford;1
+01/02/2022;Semipesados;Ford;0
+01/03/2022;Semipesados;Ford;1
+01/04/2022;Semipesados;Ford;0
+01/05/2022;Semipesados;Ford;1
+01/06/2022;Semipesados;Ford;1
+01/07/2022;Semipesados;Ford;1
+01/08/2022;Semipesados;Ford;2
+01/09/2022;Semipesados;Ford;2
+01/10/2022;Semipesados;Ford;0
+01/11/2022;Semipesados;Ford;3
+01/12/2022;Semipesados;Ford;4
+01/01/2022;Semipesados;Iveco;282
+01/02/2022;Semipesados;Iveco;329
+01/03/2022;Semipesados;Iveco;403
+01/04/2022;Semipesados;Iveco;334
+01/05/2022;Semipesados;Iveco;514
+01/06/2022;Semipesados;Iveco;404
+01/07/2022;Semipesados;Iveco;365
+01/08/2022;Semipesados;Iveco;578
+01/09/2022;Semipesados;Iveco;376
+01/10/2022;Semipesados;Iveco;336
+01/11/2022;Semipesados;Iveco;307
+01/12/2022;Semipesados;Iveco;411
+01/01/2022;Semipesados;MAN;969
+01/02/2022;Semipesados;MAN;995
+01/03/2022;Semipesados;MAN;1384
+01/04/2022;Semipesados;MAN;1140
+01/05/2022;Semipesados;MAN;1367
+01/06/2022;Semipesados;MAN;1180
+01/07/2022;Semipesados;MAN;1362
+01/08/2022;Semipesados;MAN;1534
+01/09/2022;Semipesados;MAN;1190
+01/10/2022;Semipesados;MAN;1148
+01/11/2022;Semipesados;MAN;1018
+01/12/2022;Semipesados;MAN;1126
+01/01/2022;Semipesados;Mercedes-Benz;622
+01/02/2022;Semipesados;Mercedes-Benz;630
+01/03/2022;Semipesados;Mercedes-Benz;694
+01/04/2022;Semipesados;Mercedes-Benz;533
+01/05/2022;Semipesados;Mercedes-Benz;662
+01/06/2022;Semipesados;Mercedes-Benz;583
+01/07/2022;Semipesados;Mercedes-Benz;742
+01/08/2022;Semipesados;Mercedes-Benz;772
+01/09/2022;Semipesados;Mercedes-Benz;683
+01/10/2022;Semipesados;Mercedes-Benz;651
+01/11/2022;Semipesados;Mercedes-Benz;698
+01/12/2022;Semipesados;Mercedes-Benz;842
+01/01/2022;Semipesados;SCANIA;1
+01/02/2022;Semipesados;SCANIA;1
+01/03/2022;Semipesados;SCANIA;0
+01/04/2022;Semipesados;SCANIA;1
+01/05/2022;Semipesados;SCANIA;0
+01/06/2022;Semipesados;SCANIA;0
+01/07/2022;Semipesados;SCANIA;1
+01/08/2022;Semipesados;SCANIA;15
+01/09/2022;Semipesados;SCANIA;0
+01/10/2022;Semipesados;SCANIA;0
+01/11/2022;Semipesados;SCANIA;1
+01/12/2022;Semipesados;SCANIA;2
+01/01/2022;Semipesados;VOLVO;337
+01/02/2022;Semipesados;VOLVO;309
+01/03/2022;Semipesados;VOLVO;464
+01/04/2022;Semipesados;VOLVO;401
+01/05/2022;Semipesados;VOLVO;431
+01/06/2022;Semipesados;VOLVO;488
+01/07/2022;Semipesados;VOLVO;479
+01/08/2022;Semipesados;VOLVO;491
+01/09/2022;Semipesados;VOLVO;447
+01/10/2022;Semipesados;VOLVO;479
+01/11/2022;Semipesados;VOLVO;527
+01/12/2022;Semipesados;VOLVO;493
+01/01/2022;Semipesados;Outras empresas;0
+01/02/2022;Semipesados;Outras empresas;0
+01/03/2022;Semipesados;Outras empresas;4
+01/04/2022;Semipesados;Outras empresas;0
+01/05/2022;Semipesados;Outras empresas;0
+01/06/2022;Semipesados;Outras empresas;0
+01/07/2022;Semipesados;Outras empresas;0
+01/08/2022;Semipesados;Outras empresas;1
+01/09/2022;Semipesados;Outras empresas;2
+01/10/2022;Semipesados;Outras empresas;0
+01/11/2022;Semipesados;Outras empresas;0
+01/12/2022;Semipesados;Outras empresas;0
+01/01/2022;Pesados;DAF;527
+01/02/2022;Pesados;DAF;334
+01/03/2022;Pesados;DAF;463
+01/04/2022;Pesados;DAF;543
+01/05/2022;Pesados;DAF;543
+01/06/2022;Pesados;DAF;547
+01/07/2022;Pesados;DAF;604
+01/08/2022;Pesados;DAF;616
+01/09/2022;Pesados;DAF;604
+01/10/2022;Pesados;DAF;471
+01/11/2022;Pesados;DAF;463
+01/12/2022;Pesados;DAF;785
+01/01/2022;Pesados;Ford;1
+01/02/2022;Pesados;Ford;0
+01/03/2022;Pesados;Ford;0
+01/04/2022;Pesados;Ford;0
+01/05/2022;Pesados;Ford;0
+01/06/2022;Pesados;Ford;1
+01/07/2022;Pesados;Ford;0
+01/08/2022;Pesados;Ford;0
+01/09/2022;Pesados;Ford;0
+01/10/2022;Pesados;Ford;0
+01/11/2022;Pesados;Ford;0
+01/12/2022;Pesados;Ford;0
+01/01/2022;Pesados;Iveco;299
+01/02/2022;Pesados;Iveco;253
+01/03/2022;Pesados;Iveco;241
+01/04/2022;Pesados;Iveco;190
+01/05/2022;Pesados;Iveco;176
+01/06/2022;Pesados;Iveco;180
+01/07/2022;Pesados;Iveco;193
+01/08/2022;Pesados;Iveco;145
+01/09/2022;Pesados;Iveco;205
+01/10/2022;Pesados;Iveco;283
+01/11/2022;Pesados;Iveco;179
+01/12/2022;Pesados;Iveco;220
+01/01/2022;Pesados;MAN;586
+01/02/2022;Pesados;MAN;621
+01/03/2022;Pesados;MAN;695
+01/04/2022;Pesados;MAN;616
+01/05/2022;Pesados;MAN;746
+01/06/2022;Pesados;MAN;862
+01/07/2022;Pesados;MAN;747
+01/08/2022;Pesados;MAN;833
+01/09/2022;Pesados;MAN;603
+01/10/2022;Pesados;MAN;842
+01/11/2022;Pesados;MAN;672
+01/12/2022;Pesados;MAN;755
+01/01/2022;Pesados;Mercedes-Benz;887
+01/02/2022;Pesados;Mercedes-Benz;763
+01/03/2022;Pesados;Mercedes-Benz;1106
+01/04/2022;Pesados;Mercedes-Benz;1113
+01/05/2022;Pesados;Mercedes-Benz;1253
+01/06/2022;Pesados;Mercedes-Benz;1269
+01/07/2022;Pesados;Mercedes-Benz;1611
+01/08/2022;Pesados;Mercedes-Benz;1455
+01/09/2022;Pesados;Mercedes-Benz;1433
+01/10/2022;Pesados;Mercedes-Benz;1527
+01/11/2022;Pesados;Mercedes-Benz;1335
+01/12/2022;Pesados;Mercedes-Benz;1653
+01/01/2022;Pesados;SCANIA;682
+01/02/2022;Pesados;SCANIA;502
+01/03/2022;Pesados;SCANIA;648
+01/04/2022;Pesados;SCANIA;802
+01/05/2022;Pesados;SCANIA;729
+01/06/2022;Pesados;SCANIA;1104
+01/07/2022;Pesados;SCANIA;1157
+01/08/2022;Pesados;SCANIA;1521
+01/09/2022;Pesados;SCANIA;1668
+01/10/2022;Pesados;SCANIA;1507
+01/11/2022;Pesados;SCANIA;1318
+01/12/2022;Pesados;SCANIA;1563
+01/01/2022;Pesados;VOLVO;1389
+01/02/2022;Pesados;VOLVO;1211
+01/03/2022;Pesados;VOLVO;1507
+01/04/2022;Pesados;VOLVO;1442
+01/05/2022;Pesados;VOLVO;1523
+01/06/2022;Pesados;VOLVO;1746
+01/07/2022;Pesados;VOLVO;1671
+01/08/2022;Pesados;VOLVO;1897
+01/09/2022;Pesados;VOLVO;1640
+01/10/2022;Pesados;VOLVO;1375
+01/11/2022;Pesados;VOLVO;1467
+01/12/2022;Pesados;VOLVO;1879
+01/01/2022;Pesados;Outras empresas;0
+01/02/2022;Pesados;Outras empresas;2
+01/03/2022;Pesados;Outras empresas;0
+01/04/2022;Pesados;Outras empresas;0
+01/05/2022;Pesados;Outras empresas;0
+01/06/2022;Pesados;Outras empresas;0
+01/07/2022;Pesados;Outras empresas;1
+01/08/2022;Pesados;Outras empresas;4
+01/09/2022;Pesados;Outras empresas;0
+01/10/2022;Pesados;Outras empresas;0
+01/11/2022;Pesados;Outras empresas;0
+01/12/2022;Pesados;Outras empresas;1
+01/01/2023;Semileves;Agrale;0
+01/02/2023;Semileves;Agrale;0
+01/03/2023;Semileves;Agrale;3
+01/04/2023;Semileves;Agrale;0
+01/05/2023;Semileves;Agrale;0
+01/06/2023;Semileves;Agrale;1
+01/07/2023;Semileves;Agrale;0
+01/08/2023;Semileves;Agrale;0
+01/09/2023;Semileves;Agrale;0
+01/10/2023;Semileves;Agrale;0
+01/11/2023;Semileves;Agrale;0
+01/12/2023;Semileves;Agrale;0
+01/01/2023;Semileves;FCA (Fiat/Dodge);378
+01/02/2023;Semileves;FCA (Fiat/Dodge);385
+01/03/2023;Semileves;FCA (Fiat/Dodge);745
+01/04/2023;Semileves;FCA (Fiat/Dodge);632
+01/05/2023;Semileves;FCA (Fiat/Dodge);433
+01/06/2023;Semileves;FCA (Fiat/Dodge);209
+01/07/2023;Semileves;FCA (Fiat/Dodge);335
+01/08/2023;Semileves;FCA (Fiat/Dodge);458
+01/09/2023;Semileves;FCA (Fiat/Dodge);344
+01/10/2023;Semileves;FCA (Fiat/Dodge);339
+01/11/2023;Semileves;FCA (Fiat/Dodge);250
+01/12/2023;Semileves;FCA (Fiat/Dodge);342
+01/01/2023;Semileves;Ford;0
+01/02/2023;Semileves;Ford;0
+01/03/2023;Semileves;Ford;4
+01/04/2023;Semileves;Ford;1
+01/05/2023;Semileves;Ford;3
+01/06/2023;Semileves;Ford;4
+01/07/2023;Semileves;Ford;0
+01/08/2023;Semileves;Ford;2
+01/09/2023;Semileves;Ford;0
+01/10/2023;Semileves;Ford;2
+01/11/2023;Semileves;Ford;4
+01/12/2023;Semileves;Ford;9
+01/01/2023;Semileves;Iveco;59
+01/02/2023;Semileves;Iveco;48
+01/03/2023;Semileves;Iveco;69
+01/04/2023;Semileves;Iveco;53
+01/05/2023;Semileves;Iveco;65
+01/06/2023;Semileves;Iveco;34
+01/07/2023;Semileves;Iveco;42
+01/08/2023;Semileves;Iveco;40
+01/09/2023;Semileves;Iveco;44
+01/10/2023;Semileves;Iveco;45
+01/11/2023;Semileves;Iveco;31
+01/12/2023;Semileves;Iveco;40
+01/01/2023;Semileves;MAN;20
+01/02/2023;Semileves;MAN;26
+01/03/2023;Semileves;MAN;32
+01/04/2023;Semileves;MAN;23
+01/05/2023;Semileves;MAN;56
+01/06/2023;Semileves;MAN;36
+01/07/2023;Semileves;MAN;81
+01/08/2023;Semileves;MAN;61
+01/09/2023;Semileves;MAN;56
+01/10/2023;Semileves;MAN;30
+01/11/2023;Semileves;MAN;78
+01/12/2023;Semileves;MAN;102
+01/01/2023;Semileves;Mercedes-Benz;172
+01/02/2023;Semileves;Mercedes-Benz;163
+01/03/2023;Semileves;Mercedes-Benz;264
+01/04/2023;Semileves;Mercedes-Benz;176
+01/05/2023;Semileves;Mercedes-Benz;209
+01/06/2023;Semileves;Mercedes-Benz;206
+01/07/2023;Semileves;Mercedes-Benz;181
+01/08/2023;Semileves;Mercedes-Benz;193
+01/09/2023;Semileves;Mercedes-Benz;166
+01/10/2023;Semileves;Mercedes-Benz;207
+01/11/2023;Semileves;Mercedes-Benz;174
+01/12/2023;Semileves;Mercedes-Benz;258
+01/01/2023;Semileves;Peugeot Citroën;0
+01/02/2023;Semileves;Peugeot Citroën;11
+01/03/2023;Semileves;Peugeot Citroën;6
+01/04/2023;Semileves;Peugeot Citroën;4
+01/05/2023;Semileves;Peugeot Citroën;6
+01/06/2023;Semileves;Peugeot Citroën;17
+01/07/2023;Semileves;Peugeot Citroën;12
+01/08/2023;Semileves;Peugeot Citroën;21
+01/09/2023;Semileves;Peugeot Citroën;24
+01/10/2023;Semileves;Peugeot Citroën;10
+01/11/2023;Semileves;Peugeot Citroën;4
+01/12/2023;Semileves;Peugeot Citroën;3
+01/01/2023;Semileves;Outras empresas;4
+01/02/2023;Semileves;Outras empresas;2
+01/03/2023;Semileves;Outras empresas;1
+01/04/2023;Semileves;Outras empresas;5
+01/05/2023;Semileves;Outras empresas;1
+01/06/2023;Semileves;Outras empresas;5
+01/07/2023;Semileves;Outras empresas;2
+01/08/2023;Semileves;Outras empresas;3
+01/09/2023;Semileves;Outras empresas;2
+01/10/2023;Semileves;Outras empresas;8
+01/11/2023;Semileves;Outras empresas;8
+01/12/2023;Semileves;Outras empresas;12
+01/01/2023;Leves;Agrale;2
+01/02/2023;Leves;Agrale;2
+01/03/2023;Leves;Agrale;10
+01/04/2023;Leves;Agrale;4
+01/05/2023;Leves;Agrale;2
+01/06/2023;Leves;Agrale;2
+01/07/2023;Leves;Agrale;1
+01/08/2023;Leves;Agrale;21
+01/09/2023;Leves;Agrale;9
+01/10/2023;Leves;Agrale;2
+01/11/2023;Leves;Agrale;5
+01/12/2023;Leves;Agrale;6
+01/01/2023;Leves;Caoa - Hyundai;45
+01/02/2023;Leves;Caoa - Hyundai;16
+01/03/2023;Leves;Caoa - Hyundai;40
+01/04/2023;Leves;Caoa - Hyundai;20
+01/05/2023;Leves;Caoa - Hyundai;29
+01/06/2023;Leves;Caoa - Hyundai;25
+01/07/2023;Leves;Caoa - Hyundai;28
+01/08/2023;Leves;Caoa - Hyundai;28
+01/09/2023;Leves;Caoa - Hyundai;31
+01/10/2023;Leves;Caoa - Hyundai;15
+01/11/2023;Leves;Caoa - Hyundai;16
+01/12/2023;Leves;Caoa - Hyundai;24
+01/01/2023;Leves;Ford;1
+01/02/2023;Leves;Ford;2
+01/03/2023;Leves;Ford;0
+01/04/2023;Leves;Ford;2
+01/05/2023;Leves;Ford;2
+01/06/2023;Leves;Ford;1
+01/07/2023;Leves;Ford;0
+01/08/2023;Leves;Ford;1
+01/09/2023;Leves;Ford;0
+01/10/2023;Leves;Ford;0
+01/11/2023;Leves;Ford;3
+01/12/2023;Leves;Ford;0
+01/01/2023;Leves;Iveco;69
+01/02/2023;Leves;Iveco;90
+01/03/2023;Leves;Iveco;103
+01/04/2023;Leves;Iveco;91
+01/05/2023;Leves;Iveco;90
+01/06/2023;Leves;Iveco;116
+01/07/2023;Leves;Iveco;118
+01/08/2023;Leves;Iveco;103
+01/09/2023;Leves;Iveco;55
+01/10/2023;Leves;Iveco;65
+01/11/2023;Leves;Iveco;40
+01/12/2023;Leves;Iveco;28
+01/01/2023;Leves;MAN;172
+01/02/2023;Leves;MAN;192
+01/03/2023;Leves;MAN;246
+01/04/2023;Leves;MAN;165
+01/05/2023;Leves;MAN;235
+01/06/2023;Leves;MAN;218
+01/07/2023;Leves;MAN;306
+01/08/2023;Leves;MAN;190
+01/09/2023;Leves;MAN;138
+01/10/2023;Leves;MAN;169
+01/11/2023;Leves;MAN;235
+01/12/2023;Leves;MAN;214
+01/01/2023;Leves;Mercedes-Benz;452
+01/02/2023;Leves;Mercedes-Benz;463
+01/03/2023;Leves;Mercedes-Benz;483
+01/04/2023;Leves;Mercedes-Benz;366
+01/05/2023;Leves;Mercedes-Benz;317
+01/06/2023;Leves;Mercedes-Benz;289
+01/07/2023;Leves;Mercedes-Benz;290
+01/08/2023;Leves;Mercedes-Benz;364
+01/09/2023;Leves;Mercedes-Benz;401
+01/10/2023;Leves;Mercedes-Benz;501
+01/11/2023;Leves;Mercedes-Benz;471
+01/12/2023;Leves;Mercedes-Benz;487
+01/01/2023;Leves;Outras empresas;18
+01/02/2023;Leves;Outras empresas;55
+01/03/2023;Leves;Outras empresas;40
+01/04/2023;Leves;Outras empresas;40
+01/05/2023;Leves;Outras empresas;23
+01/06/2023;Leves;Outras empresas;7
+01/07/2023;Leves;Outras empresas;11
+01/08/2023;Leves;Outras empresas;11
+01/09/2023;Leves;Outras empresas;12
+01/10/2023;Leves;Outras empresas;31
+01/11/2023;Leves;Outras empresas;52
+01/12/2023;Leves;Outras empresas;13
+01/01/2023;Médios;Agrale;0
+01/02/2023;Médios;Agrale;1
+01/03/2023;Médios;Agrale;2
+01/04/2023;Médios;Agrale;1
+01/05/2023;Médios;Agrale;2
+01/06/2023;Médios;Agrale;1
+01/07/2023;Médios;Agrale;0
+01/08/2023;Médios;Agrale;2
+01/09/2023;Médios;Agrale;0
+01/10/2023;Médios;Agrale;1
+01/11/2023;Médios;Agrale;2
+01/12/2023;Médios;Agrale;0
+01/01/2023;Médios;Ford;0
+01/02/2023;Médios;Ford;0
+01/03/2023;Médios;Ford;0
+01/04/2023;Médios;Ford;0
+01/05/2023;Médios;Ford;0
+01/06/2023;Médios;Ford;0
+01/07/2023;Médios;Ford;1
+01/08/2023;Médios;Ford;0
+01/09/2023;Médios;Ford;3
+01/10/2023;Médios;Ford;0
+01/11/2023;Médios;Ford;1
+01/12/2023;Médios;Ford;0
+01/01/2023;Médios;Iveco;102
+01/02/2023;Médios;Iveco;116
+01/03/2023;Médios;Iveco;121
+01/04/2023;Médios;Iveco;71
+01/05/2023;Médios;Iveco;97
+01/06/2023;Médios;Iveco;140
+01/07/2023;Médios;Iveco;104
+01/08/2023;Médios;Iveco;114
+01/09/2023;Médios;Iveco;83
+01/10/2023;Médios;Iveco;69
+01/11/2023;Médios;Iveco;74
+01/12/2023;Médios;Iveco;70
+01/01/2023;Médios;MAN;415
+01/02/2023;Médios;MAN;455
+01/03/2023;Médios;MAN;628
+01/04/2023;Médios;MAN;452
+01/05/2023;Médios;MAN;525
+01/06/2023;Médios;MAN;433
+01/07/2023;Médios;MAN;431
+01/08/2023;Médios;MAN;470
+01/09/2023;Médios;MAN;448
+01/10/2023;Médios;MAN;413
+01/11/2023;Médios;MAN;586
+01/12/2023;Médios;MAN;518
+01/01/2023;Médios;Mercedes-Benz;116
+01/02/2023;Médios;Mercedes-Benz;117
+01/03/2023;Médios;Mercedes-Benz;159
+01/04/2023;Médios;Mercedes-Benz;107
+01/05/2023;Médios;Mercedes-Benz;97
+01/06/2023;Médios;Mercedes-Benz;70
+01/07/2023;Médios;Mercedes-Benz;82
+01/08/2023;Médios;Mercedes-Benz;61
+01/09/2023;Médios;Mercedes-Benz;74
+01/10/2023;Médios;Mercedes-Benz;100
+01/11/2023;Médios;Mercedes-Benz;94
+01/12/2023;Médios;Mercedes-Benz;97
+01/01/2023;Médios;Outras empresas;9
+01/02/2023;Médios;Outras empresas;14
+01/03/2023;Médios;Outras empresas;14
+01/04/2023;Médios;Outras empresas;18
+01/05/2023;Médios;Outras empresas;20
+01/06/2023;Médios;Outras empresas;14
+01/07/2023;Médios;Outras empresas;14
+01/08/2023;Médios;Outras empresas;25
+01/09/2023;Médios;Outras empresas;17
+01/10/2023;Médios;Outras empresas;8
+01/11/2023;Médios;Outras empresas;29
+01/12/2023;Médios;Outras empresas;12
+01/01/2023;Semipesados;Agrale;0
+01/02/2023;Semipesados;Agrale;0
+01/03/2023;Semipesados;Agrale;3
+01/04/2023;Semipesados;Agrale;1
+01/05/2023;Semipesados;Agrale;2
+01/06/2023;Semipesados;Agrale;1
+01/07/2023;Semipesados;Agrale;0
+01/08/2023;Semipesados;Agrale;0
+01/09/2023;Semipesados;Agrale;1
+01/10/2023;Semipesados;Agrale;0
+01/11/2023;Semipesados;Agrale;0
+01/12/2023;Semipesados;Agrale;0
+01/01/2023;Semipesados;DAF;45
+01/02/2023;Semipesados;DAF;81
+01/03/2023;Semipesados;DAF;58
+01/04/2023;Semipesados;DAF;44
+01/05/2023;Semipesados;DAF;57
+01/06/2023;Semipesados;DAF;72
+01/07/2023;Semipesados;DAF;61
+01/08/2023;Semipesados;DAF;66
+01/09/2023;Semipesados;DAF;81
+01/10/2023;Semipesados;DAF;84
+01/11/2023;Semipesados;DAF;93
+01/12/2023;Semipesados;DAF;90
+01/01/2023;Semipesados;Ford;0
+01/02/2023;Semipesados;Ford;0
+01/03/2023;Semipesados;Ford;0
+01/04/2023;Semipesados;Ford;4
+01/05/2023;Semipesados;Ford;0
+01/06/2023;Semipesados;Ford;1
+01/07/2023;Semipesados;Ford;0
+01/08/2023;Semipesados;Ford;1
+01/09/2023;Semipesados;Ford;0
+01/10/2023;Semipesados;Ford;1
+01/11/2023;Semipesados;Ford;1
+01/12/2023;Semipesados;Ford;2
+01/01/2023;Semipesados;Iveco;304
+01/02/2023;Semipesados;Iveco;348
+01/03/2023;Semipesados;Iveco;420
+01/04/2023;Semipesados;Iveco;329
+01/05/2023;Semipesados;Iveco;401
+01/06/2023;Semipesados;Iveco;457
+01/07/2023;Semipesados;Iveco;387
+01/08/2023;Semipesados;Iveco;400
+01/09/2023;Semipesados;Iveco;304
+01/10/2023;Semipesados;Iveco;297
+01/11/2023;Semipesados;Iveco;287
+01/12/2023;Semipesados;Iveco;265
+01/01/2023;Semipesados;MAN;1037
+01/02/2023;Semipesados;MAN;1016
+01/03/2023;Semipesados;MAN;1333
+01/04/2023;Semipesados;MAN;884
+01/05/2023;Semipesados;MAN;1048
+01/06/2023;Semipesados;MAN;892
+01/07/2023;Semipesados;MAN;950
+01/08/2023;Semipesados;MAN;1153
+01/09/2023;Semipesados;MAN;914
+01/10/2023;Semipesados;MAN;965
+01/11/2023;Semipesados;MAN;1131
+01/12/2023;Semipesados;MAN;1149
+01/01/2023;Semipesados;Mercedes-Benz;625
+01/02/2023;Semipesados;Mercedes-Benz;561
+01/03/2023;Semipesados;Mercedes-Benz;722
+01/04/2023;Semipesados;Mercedes-Benz;475
+01/05/2023;Semipesados;Mercedes-Benz;472
+01/06/2023;Semipesados;Mercedes-Benz;397
+01/07/2023;Semipesados;Mercedes-Benz;447
+01/08/2023;Semipesados;Mercedes-Benz;567
+01/09/2023;Semipesados;Mercedes-Benz;539
+01/10/2023;Semipesados;Mercedes-Benz;505
+01/11/2023;Semipesados;Mercedes-Benz;530
+01/12/2023;Semipesados;Mercedes-Benz;621
+01/01/2023;Semipesados;SCANIA;1
+01/02/2023;Semipesados;SCANIA;3
+01/03/2023;Semipesados;SCANIA;23
+01/04/2023;Semipesados;SCANIA;53
+01/05/2023;Semipesados;SCANIA;79
+01/06/2023;Semipesados;SCANIA;84
+01/07/2023;Semipesados;SCANIA;73
+01/08/2023;Semipesados;SCANIA;95
+01/09/2023;Semipesados;SCANIA;124
+01/10/2023;Semipesados;SCANIA;106
+01/11/2023;Semipesados;SCANIA;96
+01/12/2023;Semipesados;SCANIA;87
+01/01/2023;Semipesados;VOLVO;417
+01/02/2023;Semipesados;VOLVO;377
+01/03/2023;Semipesados;VOLVO;394
+01/04/2023;Semipesados;VOLVO;308
+01/05/2023;Semipesados;VOLVO;303
+01/06/2023;Semipesados;VOLVO;309
+01/07/2023;Semipesados;VOLVO;274
+01/08/2023;Semipesados;VOLVO;328
+01/09/2023;Semipesados;VOLVO;288
+01/10/2023;Semipesados;VOLVO;294
+01/11/2023;Semipesados;VOLVO;334
+01/12/2023;Semipesados;VOLVO;334
+01/01/2023;Semipesados;Outras empresas;0
+01/02/2023;Semipesados;Outras empresas;1
+01/03/2023;Semipesados;Outras empresas;0
+01/04/2023;Semipesados;Outras empresas;3
+01/05/2023;Semipesados;Outras empresas;1
+01/06/2023;Semipesados;Outras empresas;0
+01/07/2023;Semipesados;Outras empresas;0
+01/08/2023;Semipesados;Outras empresas;1
+01/09/2023;Semipesados;Outras empresas;0
+01/10/2023;Semipesados;Outras empresas;2
+01/11/2023;Semipesados;Outras empresas;1
+01/12/2023;Semipesados;Outras empresas;1
+01/01/2023;Pesados;DAF;764
+01/02/2023;Pesados;DAF;416
+01/03/2023;Pesados;DAF;479
+01/04/2023;Pesados;DAF;434
+01/05/2023;Pesados;DAF;548
+01/06/2023;Pesados;DAF;582
+01/07/2023;Pesados;DAF;667
+01/08/2023;Pesados;DAF;749
+01/09/2023;Pesados;DAF;691
+01/10/2023;Pesados;DAF;760
+01/11/2023;Pesados;DAF;648
+01/12/2023;Pesados;DAF;774
+01/01/2023;Pesados;Iveco;237
+01/02/2023;Pesados;Iveco;182
+01/03/2023;Pesados;Iveco;220
+01/04/2023;Pesados;Iveco;164
+01/05/2023;Pesados;Iveco;176
+01/06/2023;Pesados;Iveco;174
+01/07/2023;Pesados;Iveco;187
+01/08/2023;Pesados;Iveco;225
+01/09/2023;Pesados;Iveco;209
+01/10/2023;Pesados;Iveco;207
+01/11/2023;Pesados;Iveco;220
+01/12/2023;Pesados;Iveco;251
+01/01/2023;Pesados;MAN;602
+01/02/2023;Pesados;MAN;467
+01/03/2023;Pesados;MAN;558
+01/04/2023;Pesados;MAN;513
+01/05/2023;Pesados;MAN;338
+01/06/2023;Pesados;MAN;393
+01/07/2023;Pesados;MAN;391
+01/08/2023;Pesados;MAN;391
+01/09/2023;Pesados;MAN;573
+01/10/2023;Pesados;MAN;514
+01/11/2023;Pesados;MAN;539
+01/12/2023;Pesados;MAN;412
+01/01/2023;Pesados;Mercedes-Benz;1530
+01/02/2023;Pesados;Mercedes-Benz;1176
+01/03/2023;Pesados;Mercedes-Benz;1013
+01/04/2023;Pesados;Mercedes-Benz;626
+01/05/2023;Pesados;Mercedes-Benz;700
+01/06/2023;Pesados;Mercedes-Benz;661
+01/07/2023;Pesados;Mercedes-Benz;669
+01/08/2023;Pesados;Mercedes-Benz;768
+01/09/2023;Pesados;Mercedes-Benz;687
+01/10/2023;Pesados;Mercedes-Benz;798
+01/11/2023;Pesados;Mercedes-Benz;751
+01/12/2023;Pesados;Mercedes-Benz;932
+01/01/2023;Pesados;SCANIA;1197
+01/02/2023;Pesados;SCANIA;486
+01/03/2023;Pesados;SCANIA;859
+01/04/2023;Pesados;SCANIA;744
+01/05/2023;Pesados;SCANIA;736
+01/06/2023;Pesados;SCANIA;780
+01/07/2023;Pesados;SCANIA;891
+01/08/2023;Pesados;SCANIA;863
+01/09/2023;Pesados;SCANIA;1149
+01/10/2023;Pesados;SCANIA;1312
+01/11/2023;Pesados;SCANIA;1104
+01/12/2023;Pesados;SCANIA;1498
+01/01/2023;Pesados;VOLVO;1664
+01/02/2023;Pesados;VOLVO;830
+01/03/2023;Pesados;VOLVO;999
+01/04/2023;Pesados;VOLVO;1009
+01/05/2023;Pesados;VOLVO;1148
+01/06/2023;Pesados;VOLVO;1253
+01/07/2023;Pesados;VOLVO;1334
+01/08/2023;Pesados;VOLVO;1538
+01/09/2023;Pesados;VOLVO;1305
+01/10/2023;Pesados;VOLVO;1587
+01/11/2023;Pesados;VOLVO;1326
+01/12/2023;Pesados;VOLVO;1694
+01/01/2023;Pesados;Outras empresas;0
+01/02/2023;Pesados;Outras empresas;6
+01/03/2023;Pesados;Outras empresas;0
+01/04/2023;Pesados;Outras empresas;2
+01/05/2023;Pesados;Outras empresas;2
+01/06/2023;Pesados;Outras empresas;0
+01/07/2023;Pesados;Outras empresas;0
+01/08/2023;Pesados;Outras empresas;1
+01/09/2023;Pesados;Outras empresas;0
+01/10/2023;Pesados;Outras empresas;0
+01/11/2023;Pesados;Outras empresas;11
+01/12/2023;Pesados;Outras empresas;0
+01/01/2024;Semileves;FCA (Fiat/Dodge);253
+01/02/2024;Semileves;FCA (Fiat/Dodge);224
+01/03/2024;Semileves;FCA (Fiat/Dodge);251
+01/01/2024;Semileves;Ford;6
+01/02/2024;Semileves;Ford;29
+01/03/2024;Semileves;Ford;8
+01/01/2024;Semileves;Iveco;53
+01/02/2024;Semileves;Iveco;45
+01/03/2024;Semileves;Iveco;46
+01/01/2024;Semileves;MAN;30
+01/02/2024;Semileves;MAN;32
+01/03/2024;Semileves;MAN;24
+01/01/2024;Semileves;Mercedes-Benz;156
+01/02/2024;Semileves;Mercedes-Benz;198
+01/03/2024;Semileves;Mercedes-Benz;168
+01/01/2024;Semileves;Peugeot Citroën;5
+01/02/2024;Semileves;Peugeot Citroën;1
+01/03/2024;Semileves;Peugeot Citroën;7
+01/01/2024;Semileves;Outras empresas;2
+01/02/2024;Semileves;Outras empresas;7
+01/03/2024;Semileves;Outras empresas;3
+01/01/2024;Leves;Agrale;7
+01/02/2024;Leves;Agrale;3
+01/03/2024;Leves;Agrale;6
+01/01/2024;Leves;Caoa - Hyundai;30
+01/02/2024;Leves;Caoa - Hyundai;25
+01/03/2024;Leves;Caoa - Hyundai;18
+01/01/2024;Leves;Ford;2
+01/02/2024;Leves;Ford;3
+01/03/2024;Leves;Ford;2
+01/01/2024;Leves;Iveco;29
+01/02/2024;Leves;Iveco;24
+01/03/2024;Leves;Iveco;133
+01/01/2024;Leves;MAN;153
+01/02/2024;Leves;MAN;189
+01/03/2024;Leves;MAN;225
+01/01/2024;Leves;Mercedes-Benz;292
+01/02/2024;Leves;Mercedes-Benz;360
+01/03/2024;Leves;Mercedes-Benz;408
+01/01/2024;Leves;Outras empresas;5
+01/02/2024;Leves;Outras empresas;23
+01/03/2024;Leves;Outras empresas;37
+01/01/2024;Médios;Agrale;1
+01/02/2024;Médios;Agrale;0
+01/03/2024;Médios;Agrale;0
+01/01/2024;Médios;Ford;0
+01/02/2024;Médios;Ford;1
+01/03/2024;Médios;Ford;0
+01/01/2024;Médios;Iveco;31
+01/02/2024;Médios;Iveco;39
+01/03/2024;Médios;Iveco;77
+01/01/2024;Médios;MAN;520
+01/02/2024;Médios;MAN;515
+01/03/2024;Médios;MAN;511
+01/01/2024;Médios;Mercedes-Benz;81
+01/02/2024;Médios;Mercedes-Benz;69
+01/03/2024;Médios;Mercedes-Benz;97
+01/01/2024;Médios;Outras empresas;22
+01/02/2024;Médios;Outras empresas;16
+01/03/2024;Médios;Outras empresas;27
+01/01/2024;Semipesados;DAF;98
+01/02/2024;Semipesados;DAF;90
+01/03/2024;Semipesados;DAF;107
+01/01/2024;Semipesados;Ford;0
+01/02/2024;Semipesados;Ford;1
+01/03/2024;Semipesados;Ford;1
+01/01/2024;Semipesados;Iveco;232
+01/02/2024;Semipesados;Iveco;265
+01/03/2024;Semipesados;Iveco;277
+01/01/2024;Semipesados;MAN;870
+01/02/2024;Semipesados;MAN;1065
+01/03/2024;Semipesados;MAN;1168
+01/01/2024;Semipesados;Mercedes-Benz;531
+01/02/2024;Semipesados;Mercedes-Benz;511
+01/03/2024;Semipesados;Mercedes-Benz;618
+01/01/2024;Semipesados;SCANIA;47
+01/02/2024;Semipesados;SCANIA;38
+01/03/2024;Semipesados;SCANIA;56
+01/01/2024;Semipesados;VOLVO;284
+01/02/2024;Semipesados;VOLVO;267
+01/03/2024;Semipesados;VOLVO;300
+01/01/2024;Pesados;DAF;751
+01/02/2024;Pesados;DAF;595
+01/03/2024;Pesados;DAF;595
+01/01/2024;Pesados;Ford;0
+01/02/2024;Pesados;Ford;1
+01/03/2024;Pesados;Ford;0
+01/01/2024;Pesados;Iveco;184
+01/02/2024;Pesados;Iveco;94
+01/03/2024;Pesados;Iveco;182
+01/01/2024;Pesados;MAN;264
+01/02/2024;Pesados;MAN;441
+01/03/2024;Pesados;MAN;541
+01/01/2024;Pesados;Mercedes-Benz;799
+01/02/2024;Pesados;Mercedes-Benz;737
+01/03/2024;Pesados;Mercedes-Benz;888
+01/01/2024;Pesados;SCANIA;1095
+01/02/2024;Pesados;SCANIA;1332
+01/03/2024;Pesados;SCANIA;1800
+01/01/2024;Pesados;VOLVO;1384
+01/02/2024;Pesados;VOLVO;1136
+01/03/2024;Pesados;VOLVO;1305
+01/01/2024;Pesados;Outras empresas;0
+01/02/2024;Pesados;Outras empresas;0
+01/03/2024;Pesados;Outras empresas;1
